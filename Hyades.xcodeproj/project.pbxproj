@@ -1,0 +1,390 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3421E89324A64F2500717929 /* ModalVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3421E89224A64F2500717929 /* ModalVC.swift */; };
+		343C80E424B5FC2100C37461 /* PushToVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 343C80E324B5FC2100C37461 /* PushToVC.swift */; };
+		3453019524B4C8E900AF0722 /* SkyVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3453019424B4C8E900AF0722 /* SkyVC.swift */; };
+		3453019724B504F100AF0722 /* SearchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3453019624B504F100AF0722 /* SearchVC.swift */; };
+		345CD5DA243287DC006F4894 /* StarChoiceVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 345CD5D9243287DB006F4894 /* StarChoiceVC.swift */; };
+		345CD5DE24329FA0006F4894 /* CalibrationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 345CD5DD24329FA0006F4894 /* CalibrationVC.swift */; };
+		3496F0B5242D36CD0056520F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3496F0B4242D36CD0056520F /* AppDelegate.swift */; };
+		3496F0B7242D36CD0056520F /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 3496F0B6242D36CD0056520F /* art.scnassets */; };
+		3496F0BC242D36CD0056520F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3496F0BA242D36CD0056520F /* Main.storyboard */; };
+		3496F0C1242D36CF0056520F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3496F0BF242D36CF0056520F /* LaunchScreen.storyboard */; };
+		34CE27C7243A7ECC00465B70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3496F0BD242D36CF0056520F /* Assets.xcassets */; };
+		34EED3B3242F6D8700F2AB93 /* Observatory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34EED3B2242F6D8700F2AB93 /* Observatory.swift */; };
+		34EED3B5242F6DB300F2AB93 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34EED3B4242F6DB300F2AB93 /* Extensions.swift */; };
+		A330BADE255EFAD100E30166 /* Planets2020.json in Resources */ = {isa = PBXBuildFile; fileRef = A330BADD255EFAD000E30166 /* Planets2020.json */; };
+		A330BAE1255EFADA00E30166 /* Stars.json in Resources */ = {isa = PBXBuildFile; fileRef = A330BAE0255EFADA00E30166 /* Stars.json */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3421E89224A64F2500717929 /* ModalVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalVC.swift; sourceTree = "<group>"; };
+		343C80E324B5FC2100C37461 /* PushToVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushToVC.swift; sourceTree = "<group>"; };
+		3453019424B4C8E900AF0722 /* SkyVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SkyVC.swift; sourceTree = "<group>"; };
+		3453019624B504F100AF0722 /* SearchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchVC.swift; sourceTree = "<group>"; };
+		345CD5D9243287DB006F4894 /* StarChoiceVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarChoiceVC.swift; sourceTree = "<group>"; };
+		345CD5DD24329FA0006F4894 /* CalibrationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalibrationVC.swift; sourceTree = "<group>"; };
+		3496F0B1242D36CD0056520F /* Hyades.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hyades.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3496F0B4242D36CD0056520F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3496F0B6242D36CD0056520F /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
+		3496F0BB242D36CD0056520F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3496F0BD242D36CF0056520F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3496F0C0242D36CF0056520F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3496F0C2242D36CF0056520F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34EED3B2242F6D8700F2AB93 /* Observatory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Observatory.swift; sourceTree = "<group>"; };
+		34EED3B4242F6DB300F2AB93 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		A330BADD255EFAD000E30166 /* Planets2020.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Planets2020.json; sourceTree = "<group>"; };
+		A330BAE0255EFADA00E30166 /* Stars.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Stars.json; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3496F0AE242D36CD0056520F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3458E7742437DB9100CCA1D3 /* DataModel */ = {
+			isa = PBXGroup;
+			children = (
+				A330BAE0255EFADA00E30166 /* Stars.json */,
+				A330BADD255EFAD000E30166 /* Planets2020.json */,
+			);
+			path = DataModel;
+			sourceTree = "<group>";
+		};
+		3496F0A8242D36CD0056520F = {
+			isa = PBXGroup;
+			children = (
+				3496F0B3242D36CD0056520F /* Hyades */,
+				3496F0B2242D36CD0056520F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3496F0B2242D36CD0056520F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3496F0B1242D36CD0056520F /* Hyades.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3496F0B3242D36CD0056520F /* Hyades */ = {
+			isa = PBXGroup;
+			children = (
+				3496F0B4242D36CD0056520F /* AppDelegate.swift */,
+				3496F0B6242D36CD0056520F /* art.scnassets */,
+				3453019424B4C8E900AF0722 /* SkyVC.swift */,
+				3421E89224A64F2500717929 /* ModalVC.swift */,
+				345CD5D9243287DB006F4894 /* StarChoiceVC.swift */,
+				345CD5DD24329FA0006F4894 /* CalibrationVC.swift */,
+				3453019624B504F100AF0722 /* SearchVC.swift */,
+				343C80E324B5FC2100C37461 /* PushToVC.swift */,
+				34EED3B4242F6DB300F2AB93 /* Extensions.swift */,
+				34EED3B2242F6D8700F2AB93 /* Observatory.swift */,
+				3496F0BA242D36CD0056520F /* Main.storyboard */,
+				3496F0BD242D36CF0056520F /* Assets.xcassets */,
+				3458E7742437DB9100CCA1D3 /* DataModel */,
+				3496F0BF242D36CF0056520F /* LaunchScreen.storyboard */,
+				3496F0C2242D36CF0056520F /* Info.plist */,
+			);
+			path = Hyades;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3496F0B0242D36CD0056520F /* Hyades */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3496F0C5242D36CF0056520F /* Build configuration list for PBXNativeTarget "Hyades" */;
+			buildPhases = (
+				3496F0AD242D36CD0056520F /* Sources */,
+				3496F0AE242D36CD0056520F /* Frameworks */,
+				3496F0AF242D36CD0056520F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Hyades;
+			productName = Hyades;
+			productReference = 3496F0B1242D36CD0056520F /* Hyades.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3496F0A9242D36CD0056520F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1130;
+				LastUpgradeCheck = 1200;
+				ORGANIZATIONNAME = "Ronan Clemente";
+				TargetAttributes = {
+					3496F0B0242D36CD0056520F = {
+						CreatedOnToolsVersion = 11.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 3496F0AC242D36CD0056520F /* Build configuration list for PBXProject "Hyades" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3496F0A8242D36CD0056520F;
+			productRefGroup = 3496F0B2242D36CD0056520F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3496F0B0242D36CD0056520F /* Hyades */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3496F0AF242D36CD0056520F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3496F0B7242D36CD0056520F /* art.scnassets in Resources */,
+				A330BAE1255EFADA00E30166 /* Stars.json in Resources */,
+				3496F0C1242D36CF0056520F /* LaunchScreen.storyboard in Resources */,
+				A330BADE255EFAD100E30166 /* Planets2020.json in Resources */,
+				3496F0BC242D36CD0056520F /* Main.storyboard in Resources */,
+				34CE27C7243A7ECC00465B70 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3496F0AD242D36CD0056520F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3453019724B504F100AF0722 /* SearchVC.swift in Sources */,
+				3453019524B4C8E900AF0722 /* SkyVC.swift in Sources */,
+				34EED3B3242F6D8700F2AB93 /* Observatory.swift in Sources */,
+				343C80E424B5FC2100C37461 /* PushToVC.swift in Sources */,
+				345CD5DA243287DC006F4894 /* StarChoiceVC.swift in Sources */,
+				345CD5DE24329FA0006F4894 /* CalibrationVC.swift in Sources */,
+				3496F0B5242D36CD0056520F /* AppDelegate.swift in Sources */,
+				34EED3B5242F6DB300F2AB93 /* Extensions.swift in Sources */,
+				3421E89324A64F2500717929 /* ModalVC.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3496F0BA242D36CD0056520F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3496F0BB242D36CD0056520F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3496F0BF242D36CF0056520F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3496F0C0242D36CF0056520F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			path = Hyades;
+			sourceTree = SOURCE_ROOT;
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3496F0C3242D36CF0056520F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3496F0C4242D36CF0056520F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3496F0C6242D36CF0056520F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 2YR2CYRP8G;
+				INFOPLIST_FILE = Hyades/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.Hyades;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		3496F0C7242D36CF0056520F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 2YR2CYRP8G;
+				INFOPLIST_FILE = Hyades/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.Hyades;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3496F0AC242D36CD0056520F /* Build configuration list for PBXProject "Hyades" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3496F0C3242D36CF0056520F /* Debug */,
+				3496F0C4242D36CF0056520F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3496F0C5242D36CF0056520F /* Build configuration list for PBXNativeTarget "Hyades" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3496F0C6242D36CF0056520F /* Debug */,
+				3496F0C7242D36CF0056520F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3496F0A9242D36CD0056520F /* Project object */;
+}

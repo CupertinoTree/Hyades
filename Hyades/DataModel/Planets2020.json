@@ -1,0 +1,890 @@
+{
+   "7304.5": {
+      "Mercure": {
+         "inclination": 0.12223925073701807,
+         "longitudeOfAscendingNode": 0.843107859887222,
+         "longitudeOfPerihelion": 1.3524391429116114,
+         "meanDistance": 0.3870976597104949,
+         "dailyMotion": 0.07142506741888893,
+         "eccentricity": 0.2056502791763153,
+         "meanAnomaly": 3.268140817185205
+      },
+      "Vénus": {
+         "inclination": 0.05924658798037863,
+         "longitudeOfAscendingNode": 1.3373541502309445,
+         "longitudeOfPerihelion": 2.2956567164315165,
+         "meanDistance": 0.7233232702576413,
+         "dailyMotion": 0.027962971323104213,
+         "eccentricity": 0.006744611968909772,
+         "meanAnomaly": 4.070306326746221
+      },
+      "Terre": {
+         "inclination": 4.8468502069125746e-05,
+         "longitudeOfAscendingNode": 2.7872349208597114,
+         "longitudeOfPerihelion": 1.8160870370540092,
+         "meanDistance": 1.000373836656026,
+         "dailyMotion": 0.017192483111588323,
+         "eccentricity": 0.01712127710968187,
+         "meanAnomaly": 6.210427656490041
+      },
+      "Mars": {
+         "inclination": 0.03225472491294873,
+         "longitudeOfAscendingNode": 0.8639594024171033,
+         "longitudeOfPerihelion": 5.867421895882354,
+         "meanDistance": 1.523627165631874,
+         "dailyMotion": 0.009146679266004857,
+         "eccentricity": 0.09350045592043167,
+         "meanAnomaly": 4.312176878392122
+      },
+      "Jupiter": {
+         "inclination": 0.022755133610463614,
+         "longitudeOfAscendingNode": 1.7543368620587156,
+         "longitudeOfPerihelion": 0.2480372372275106,
+         "meanDistance": 5.202552139107929,
+         "dailyMotion": 0.0014503204413703792,
+         "eccentricity": 0.04875572987497106,
+         "meanAnomaly": 4.662088266268906
+      },
+      "Saturne": {
+         "inclination": 0.043456389528686724,
+         "longitudeOfAscendingNode": 1.982575013746196,
+         "longitudeOfPerihelion": 1.594470317073692,
+         "meanDistance": 9.581741770422434,
+         "dailyMotion": 0.0005800651886418898,
+         "eccentricity": 0.0509247762922365,
+         "meanAnomaly": 3.543624718380579
+      },
+      "Uranus": {
+         "inclination": 0.013459365548278512,
+         "longitudeOfAscendingNode": 1.2923507253243491,
+         "longitudeOfPerihelion": 3.019709419764414,
+         "meanDistance": 19.17347286252237,
+         "dailyMotion": 0.0002048989565747974,
+         "eccentricity": 0.04665373660443459,
+         "meanAnomaly": 3.939147937587885
+      },
+      "Neptune": {
+         "inclination": 0.03096461425867532,
+         "longitudeOfAscendingNode": 2.3015236580519556,
+         "longitudeOfPerihelion": 0.338638695081924,
+         "meanDistance": 30.18234499659303,
+         "dailyMotion": 0.00010374404005439521,
+         "eccentricity": 0.009681224208493813,
+         "meanAnomaly": 5.740489343947627
+      }
+   },
+   "7335.5": {
+      "Mercure": {
+         "inclination": 0.12223913201205899,
+         "longitudeOfAscendingNode": 0.843105533203566,
+         "longitudeOfPerihelion": 1.3524507432856852,
+         "meanDistance": 0.3870969944881191,
+         "dailyMotion": 0.0714252515338813,
+         "eccentricity": 0.2056511343119155,
+         "meanAnomaly": 5.482307637550377
+      },
+      "Vénus": {
+         "inclination": 0.059246576432235507,
+         "longitudeOfAscendingNode": 1.337354189782933,
+         "longitudeOfPerihelion": 2.29504304637846,
+         "meanDistance": 0.723325960379173,
+         "dailyMotion": 0.027962815327622036,
+         "eccentricity": 0.006745794719044363,
+         "meanAnomaly": 4.937773659574133
+      },
+      "Terre": {
+         "inclination": 3.503777973783702e-05,
+         "longitudeOfAscendingNode": 3.3194004887724935,
+         "longitudeOfPerihelion": 1.820716004793594,
+         "meanDistance": 1.00016079425406,
+         "dailyMotion": 0.01719797661267288,
+         "eccentricity": 0.01672293791194213,
+         "meanAnomaly": 0.45592126824678825
+      },
+      "Mars": {
+         "inclination": 0.03225419735871383,
+         "longitudeOfAscendingNode": 0.8639615850495843,
+         "longitudeOfPerihelion": 5.867199957735394,
+         "meanDistance": 1.52365962098329,
+         "dailyMotion": 0.009146387018538694,
+         "eccentricity": 0.0934933426204837,
+         "meanAnomaly": 4.595942889742123
+      },
+      "Jupiter": {
+         "inclination": 0.022752688601479675,
+         "longitudeOfAscendingNode": 1.7543463852909702,
+         "longitudeOfPerihelion": 0.24525030167735018,
+         "meanDistance": 5.20326610368396,
+         "dailyMotion": 0.0014500219436930815,
+         "eccentricity": 0.0487105059234681,
+         "meanAnomaly": 4.709766052455672
+      },
+      "Saturne": {
+         "inclination": 0.043450201031038034,
+         "longitudeOfAscendingNode": 1.9826007446877667,
+         "longitudeOfPerihelion": 1.5926916447858446,
+         "meanDistance": 9.58232118654041,
+         "dailyMotion": 0.0005800125770618084,
+         "eccentricity": 0.05089701368138125,
+         "meanAnomaly": 3.5635350099516074
+      },
+      "Uranus": {
+         "inclination": 0.013444257900906876,
+         "longitudeOfAscendingNode": 1.2932587530224575,
+         "longitudeOfPerihelion": 3.0174223895351204,
+         "meanDistance": 19.17654817002919,
+         "dailyMotion": 0.00020484966965178506,
+         "eccentricity": 0.04652564802934722,
+         "meanAnomaly": 3.9477631036563663
+      },
+      "Neptune": {
+         "inclination": 0.030805506280619822,
+         "longitudeOfAscendingNode": 2.2977698156858435,
+         "longitudeOfPerihelion": 0.3284809989885282,
+         "meanDistance": 30.1958551191217,
+         "dailyMotion": 0.00010367442265650734,
+         "eccentricity": 0.01013724577619288,
+         "meanAnomaly": 5.754156847615724
+      }
+   },
+   "7364.5": {
+      "Mercure": {
+         "inclination": 0.12223900172133935,
+         "longitudeOfAscendingNode": 0.8431035479416787,
+         "longitudeOfPerihelion": 1.3524340690752323,
+         "meanDistance": 0.3870970049489277,
+         "dailyMotion": 0.07142524863861524,
+         "eccentricity": 0.205651726104347,
+         "meanAnomaly": 1.2704651362045576
+      },
+      "Vénus": {
+         "inclination": 0.05924644622034261,
+         "longitudeOfAscendingNode": 1.337354049831066,
+         "longitudeOfPerihelion": 2.294537016379933,
+         "meanDistance": 0.7233282241856588,
+         "dailyMotion": 0.027962684054533865,
+         "eccentricity": 0.006746592002971901,
+         "meanAnomaly": 5.749196866089446
+      },
+      "Terre": {
+         "inclination": 2.1600056833934006e-05,
+         "longitudeOfAscendingNode": 3.322754951612299,
+         "longitudeOfPerihelion": 1.822135037527211,
+         "meanDistance": 1.000273232556492,
+         "dailyMotion": 0.01719507691953303,
+         "eccentricity": 0.01660902095144027,
+         "meanAnomaly": 0.953341500836463
+      },
+      "Mars": {
+         "inclination": 0.03225365650762858,
+         "longitudeOfAscendingNode": 0.8639595496200019,
+         "longitudeOfPerihelion": 5.866863673417768,
+         "meanDistance": 1.523707369762966,
+         "dailyMotion": 0.009145957088153996,
+         "eccentricity": 0.09348530182187062,
+         "meanAnomaly": 4.861508208909267
+      },
+      "Jupiter": {
+         "inclination": 0.0227556330866346,
+         "longitudeOfAscendingNode": 1.7543479004135731,
+         "longitudeOfPerihelion": 0.24702405510346548,
+         "meanDistance": 5.202812729242304,
+         "dailyMotion": 0.0014502114807506347,
+         "eccentricity": 0.04867869337351322,
+         "meanAnomaly": 4.749976244275529
+      },
+      "Saturne": {
+         "inclination": 0.04339698210862801,
+         "longitudeOfAscendingNode": 1.9826123039346404,
+         "longitudeOfPerihelion": 1.5930463507838892,
+         "meanDistance": 9.582501135359315,
+         "dailyMotion": 0.0005799962391422949,
+         "eccentricity": 0.05086712739615078,
+         "meanAnomaly": 3.579939495353072
+      },
+      "Uranus": {
+         "inclination": 0.013449451337383154,
+         "longitudeOfAscendingNode": 1.2929498010172245,
+         "longitudeOfPerihelion": 3.0169259432043605,
+         "meanDistance": 19.17795426127704,
+         "dailyMotion": 0.00020482714128061116,
+         "eccentricity": 0.04644002668607838,
+         "meanAnomaly": 3.954111804490087
+      },
+      "Neptune": {
+         "inclination": 0.030833504368944543,
+         "longitudeOfAscendingNode": 2.298426358210504,
+         "longitudeOfPerihelion": 0.3303261151909256,
+         "meanDistance": 30.19704492739289,
+         "dailyMotion": 0.00010366829532828003,
+         "eccentricity": 0.01019296249916079,
+         "meanAnomaly": 5.755407120525253
+      }
+   },
+   "7395.5": {
+      "Mercure": {
+         "inclination": 0.12223886518029066,
+         "longitudeOfAscendingNode": 0.8431024713784824,
+         "longitudeOfPerihelion": 1.3524357981857138,
+         "meanDistance": 0.3870976036266164,
+         "dailyMotion": 0.0714250829413111,
+         "eccentricity": 0.2056492179820804,
+         "meanAnomaly": 3.484645380796635
+      },
+      "Vénus": {
+         "inclination": 0.059246314459711846,
+         "longitudeOfAscendingNode": 1.3373513150916296,
+         "longitudeOfPerihelion": 2.294286547875548,
+         "meanDistance": 0.7233269011847854,
+         "dailyMotion": 0.027962760772278526,
+         "eccentricity": 0.00674448092158139,
+         "meanAnomaly": 0.33310262997065543
+      },
+      "Terre": {
+         "inclination": 1.4257899209528838e-05,
+         "longitudeOfAscendingNode": 2.407129330471117,
+         "longitudeOfPerihelion": 1.79942068222857,
+         "meanDistance": 1.000012861919024,
+         "dailyMotion": 0.01720179290997503,
+         "eccentricity": 0.0163673200587178,
+         "meanAnomaly": 1.509402186131976
+      },
+      "Mars": {
+         "inclination": 0.03225298991669613,
+         "longitudeOfAscendingNode": 0.8639507250093709,
+         "longitudeOfPerihelion": 5.86645882192731,
+         "meanDistance": 1.523762148952669,
+         "dailyMotion": 0.009145463897386796,
+         "eccentricity": 0.09348095562377644,
+         "meanAnomaly": 5.14540844200272
+      },
+      "Jupiter": {
+         "inclination": 0.02274406994820759,
+         "longitudeOfAscendingNode": 1.7543296160421291,
+         "longitudeOfPerihelion": 0.23682840020886253,
+         "meanDistance": 5.205405687329161,
+         "dailyMotion": 0.001449128029385466,
+         "eccentricity": 0.04869560257782742,
+         "meanAnomaly": 4.805138820122109
+      },
+      "Saturne": {
+         "inclination": 0.04337517736034212,
+         "longitudeOfAscendingNode": 1.982601404309249,
+         "longitudeOfPerihelion": 1.592001248579602,
+         "meanDistance": 9.582189925100794,
+         "dailyMotion": 0.0005800244950388861,
+         "eccentricity": 0.05092874170243637,
+         "meanAnomaly": 3.5991157144239447
+      },
+      "Uranus": {
+         "inclination": 0.013443089026966448,
+         "longitudeOfAscendingNode": 1.2933237430284092,
+         "longitudeOfPerihelion": 3.01320107051982,
+         "meanDistance": 19.18235405641511,
+         "dailyMotion": 0.00020475667450321254,
+         "eccentricity": 0.04627819060090101,
+         "meanAnomaly": 3.9642051507734366
+      },
+      "Neptune": {
+         "inclination": 0.03081947095266006,
+         "longitudeOfAscendingNode": 2.2980790530819553,
+         "longitudeOfPerihelion": 0.29178177445410647,
+         "meanDistance": 30.21556304974184,
+         "dailyMotion": 0.00010357300761148084,
+         "eccentricity": 0.01066446816730509,
+         "meanAnomaly": 5.796927859575338
+      }
+   },
+   "7425.5": {
+      "Mercure": {
+         "inclination": 0.1222387813221262,
+         "longitudeOfAscendingNode": 0.8431000748257186,
+         "longitudeOfPerihelion": 1.3524405221852362,
+         "meanDistance": 0.3870975135391987,
+         "dailyMotion": 0.0714251078749574,
+         "eccentricity": 0.2056477278341225,
+         "meanAnomaly": 5.627389466194755
+      },
+      "Vénus": {
+         "inclination": 0.059246386751136006,
+         "longitudeOfAscendingNode": 1.337345245001202,
+         "longitudeOfPerihelion": 2.2947372507445394,
+         "meanDistance": 0.723329223651066,
+         "dailyMotion": 0.027962626098091276,
+         "eccentricity": 0.006745865143323144,
+         "meanAnomaly": 1.171534787363728
+      },
+      "Terre": {
+         "inclination": 3.0888676357605596e-05,
+         "longitudeOfAscendingNode": 2.500167059418162,
+         "longitudeOfPerihelion": 1.7817597521581163,
+         "meanDistance": 0.9999068933028521,
+         "dailyMotion": 0.017204527512312655,
+         "eccentricity": 0.01642960310369243,
+         "meanAnomaly": 2.043173082711126
+      },
+      "Mars": {
+         "inclination": 0.032252359110790635,
+         "longitudeOfAscendingNode": 0.863934371992793,
+         "longitudeOfPerihelion": 5.8661499822570455,
+         "meanDistance": 1.523798149367209,
+         "dailyMotion": 0.009145139800773038,
+         "eccentricity": 0.0934774598669777,
+         "meanAnomaly": 5.42004513077323
+      },
+      "Jupiter": {
+         "inclination": 0.022745476032632776,
+         "longitudeOfAscendingNode": 1.7543199662655697,
+         "longitudeOfPerihelion": 0.23921103592489512,
+         "meanDistance": 5.204833379108247,
+         "dailyMotion": 0.0014493670487608365,
+         "eccentricity": 0.04873871317076057,
+         "meanAnomaly": 4.846325845740368
+      },
+      "Saturne": {
+         "inclination": 0.043335714689803045,
+         "longitudeOfAscendingNode": 1.982557296627617,
+         "longitudeOfPerihelion": 1.5918894425165249,
+         "meanDistance": 9.58077130918013,
+         "dailyMotion": 0.0005801533253409653,
+         "eccentricity": 0.05110257281917028,
+         "meanAnomaly": 3.6167930313278265
+      },
+      "Uranus": {
+         "inclination": 0.013474505275280074,
+         "longitudeOfAscendingNode": 1.29151652491988,
+         "longitudeOfPerihelion": 3.0137435002195145,
+         "meanDistance": 19.1832554551747,
+         "dailyMotion": 0.0002047422427574114,
+         "eccentricity": 0.04617950410367757,
+         "meanAnomaly": 3.969625628380751
+      },
+      "Neptune": {
+         "inclination": 0.03087861763476126,
+         "longitudeOfAscendingNode": 2.299499425989178,
+         "longitudeOfPerihelion": 0.2795231699273293,
+         "meanDistance": 30.22177367917094,
+         "dailyMotion": 0.0001035410825897705,
+         "eccentricity": 0.01082564164104367,
+         "meanAnomaly": 5.812211168738949
+      }
+   },
+   "7456.5": {
+      "Mercure": {
+         "inclination": 0.12223874285737578,
+         "longitudeOfAscendingNode": 0.8430992997341995,
+         "longitudeOfPerihelion": 1.3524314529209995,
+         "meanDistance": 0.3870970358686415,
+         "dailyMotion": 0.07142524008088423,
+         "eccentricity": 0.2056469679514646,
+         "meanAnomaly": 1.5583916888859939
+      },
+      "Vénus": {
+         "inclination": 0.059246856571169876,
+         "longitudeOfAscendingNode": 1.33733973978919,
+         "longitudeOfPerihelion": 2.297548918327573,
+         "meanDistance": 0.7233422834530717,
+         "dailyMotion": 0.027961868811975668,
+         "eccentricity": 0.00675235162199024,
+         "meanAnomaly": 2.0355376581214966
+      },
+      "Terre": {
+         "inclination": 4.590081419201593e-05,
+         "longitudeOfAscendingNode": 3.2297880532594445,
+         "longitudeOfPerihelion": 1.7659223524521188,
+         "meanDistance": 0.9995947466822148,
+         "dailyMotion": 0.017212586909940836,
+         "eccentricity": 0.01687035003351288,
+         "meanAnomaly": 2.5922495001227785
+      },
+      "Mars": {
+         "inclination": 0.0322519382559331,
+         "longitudeOfAscendingNode": 0.8639139330300468,
+         "longitudeOfPerihelion": 5.865982181516818,
+         "meanDistance": 1.523803309273492,
+         "dailyMotion": 0.009145093349872109,
+         "eccentricity": 0.0934676657198432,
+         "meanAnomaly": 5.703677406963282
+      },
+      "Jupiter": {
+         "inclination": 0.022758025232165434,
+         "longitudeOfAscendingNode": 1.7543831014463165,
+         "longitudeOfPerihelion": 0.24730149549988312,
+         "meanDistance": 5.202682481186147,
+         "dailyMotion": 0.0014502659396982785,
+         "eccentricity": 0.0485999977242581,
+         "meanAnomaly": 4.882976020928748
+      },
+      "Saturne": {
+         "inclination": 0.0433275201689381,
+         "longitudeOfAscendingNode": 1.982524004442229,
+         "longitudeOfPerihelion": 1.5901495388980234,
+         "meanDistance": 9.58004197276722,
+         "dailyMotion": 0.0005802195779210053,
+         "eccentricity": 0.0512369409064072,
+         "meanAnomaly": 3.6368074407628317
+      },
+      "Uranus": {
+         "inclination": 0.013424542739748602,
+         "longitudeOfAscendingNode": 1.2943742599268702,
+         "longitudeOfPerihelion": 3.010667069313761,
+         "meanDistance": 19.18717488713482,
+         "dailyMotion": 0.00020467951083005662,
+         "eccentricity": 0.04602233290581328,
+         "meanAnomaly": 3.9790234700292126
+      },
+      "Neptune": {
+         "inclination": 0.030994561218009267,
+         "longitudeOfAscendingNode": 2.3023025909870403,
+         "longitudeOfPerihelion": 0.2929275738606698,
+         "meanDistance": 30.21595382030788,
+         "dailyMotion": 0.00010357099841699064,
+         "eccentricity": 0.01068564391060654,
+         "meanAnomaly": 5.802142934723453
+      }
+   },
+   "7486.5": {
+      "Mercure": {
+         "inclination": 0.1222378485455408,
+         "longitudeOfAscendingNode": 0.843095660334107,
+         "longitudeOfPerihelion": 1.3524503880593448,
+         "meanDistance": 0.3871000722143863,
+         "dailyMotion": 0.07142439971176234,
+         "eccentricity": 0.2056376916618791,
+         "meanAnomaly": 3.701115826278651
+      },
+      "Vénus": {
+         "inclination": 0.05924639553957812,
+         "longitudeOfAscendingNode": 1.3373363695023317,
+         "longitudeOfPerihelion": 2.2989180134663982,
+         "meanDistance": 0.7233390867994327,
+         "dailyMotion": 0.02796205417008105,
+         "eccentricity": 0.006766282662460829,
+         "meanAnomaly": 2.872995457559338
+      },
+      "Terre": {
+         "inclination": 4.745590720432826e-05,
+         "longitudeOfAscendingNode": 3.7147274418930913,
+         "longitudeOfPerihelion": 1.7755312614678136,
+         "meanDistance": 0.9995014008485893,
+         "dailyMotion": 0.017214998253415617,
+         "eccentricity": 0.01719592984015364,
+         "meanAnomaly": 3.098645806169968
+      },
+      "Mars": {
+         "inclination": 0.03225175588869407,
+         "longitudeOfAscendingNode": 0.863891098386413,
+         "longitudeOfPerihelion": 5.8659800146488354,
+         "meanDistance": 1.523774691310692,
+         "dailyMotion": 0.00914535098163183,
+         "eccentricity": 0.09344831259247778,
+         "meanAnomaly": 5.978018635009356
+      },
+      "Jupiter": {
+         "inclination": 0.022759840415619816,
+         "longitudeOfAscendingNode": 1.7544099035058585,
+         "longitudeOfPerihelion": 0.24829385923398828,
+         "meanDistance": 5.202410535640793,
+         "dailyMotion": 0.0014503796557861852,
+         "eccentricity": 0.04858518758041223,
+         "meanAnomaly": 4.925482218585766
+      },
+      "Saturne": {
+         "inclination": 0.0433394785074676,
+         "longitudeOfAscendingNode": 1.9825185976879613,
+         "longitudeOfPerihelion": 1.5878006988550295,
+         "meanDistance": 9.578811337381548,
+         "dailyMotion": 0.0005803313968595554,
+         "eccentricity": 0.05145559527547141,
+         "meanAnomaly": 3.656995720770663
+      },
+      "Uranus": {
+         "inclination": 0.013426225481431792,
+         "longitudeOfAscendingNode": 1.2942649522509317,
+         "longitudeOfPerihelion": 3.0087442371140845,
+         "meanDistance": 19.19022302260308,
+         "dailyMotion": 0.00020463074645919887,
+         "eccentricity": 0.04587549716588733,
+         "meanAnomaly": 3.986996198384871
+      },
+      "Neptune": {
+         "inclination": 0.03096936840419992,
+         "longitudeOfAscendingNode": 2.3017075771314937,
+         "longitudeOfPerihelion": 0.3005940424889797,
+         "meanDistance": 30.21909494399099,
+         "dailyMotion": 0.00010355485030621605,
+         "eccentricity": 0.01084534610319168,
+         "meanAnomaly": 5.79787715084403
+      }
+   },
+   "7517.5": {
+      "Mercure": {
+         "inclination": 0.12223762528625033,
+         "longitudeOfAscendingNode": 0.8430851621161316,
+         "longitudeOfPerihelion": 1.3524815787204802,
+         "meanDistance": 0.3870983347179162,
+         "dailyMotion": 0.07142488059647757,
+         "eccentricity": 0.2056324573215438,
+         "meanAnomaly": 5.915234773656829
+      },
+      "Vénus": {
+         "inclination": 0.05924612161104862,
+         "longitudeOfAscendingNode": 1.3373277170620828,
+         "longitudeOfPerihelion": 2.29983462869781,
+         "meanDistance": 0.7233274060801419,
+         "dailyMotion": 0.027962731494529287,
+         "eccentricity": 0.006781996449420458,
+         "meanAnomaly": 3.738905534742471
+      },
+      "Terre": {
+         "inclination": 3.556485515692052e-05,
+         "longitudeOfAscendingNode": 4.01949992548873,
+         "longitudeOfPerihelion": 1.80365687953498,
+         "meanDistance": 0.9992934631323269,
+         "dailyMotion": 0.0172203718004747,
+         "eccentricity": 0.01744213680000602,
+         "meanAnomaly": 3.6035309574182484
+      },
+      "Mars": {
+         "inclination": 0.032251814454321605,
+         "longitudeOfAscendingNode": 0.8638700332356489,
+         "longitudeOfPerihelion": 5.866073416580717,
+         "meanDistance": 1.52372339086192,
+         "dailyMotion": 0.009145812841600539,
+         "eccentricity": 0.09341860517962443,
+         "meanAnomaly": 6.2614442012470715
+      },
+      "Jupiter": {
+         "inclination": 0.02274458764545195,
+         "longitudeOfAscendingNode": 1.7542720679417154,
+         "longitudeOfPerihelion": 0.23815767549375622,
+         "meanDistance": 5.205160891592103,
+         "dailyMotion": 0.0014492302580798933,
+         "eccentricity": 0.04876351367212924,
+         "meanAnomaly": 4.9807354779879685
+      },
+      "Saturne": {
+         "inclination": 0.043357540550348295,
+         "longitudeOfAscendingNode": 1.9825350711803955,
+         "longitudeOfPerihelion": 1.5848524854049053,
+         "meanDistance": 9.578678800253838,
+         "dailyMotion": 0.0005803434416922707,
+         "eccentricity": 0.05156041850021828,
+         "meanAnomaly": 3.678316780360445
+      },
+      "Uranus": {
+         "inclination": 0.013457277301447077,
+         "longitudeOfAscendingNode": 1.2925293760018794,
+         "longitudeOfPerihelion": 3.0039448198833796,
+         "meanDistance": 19.19567885889941,
+         "dailyMotion": 0.00020454351178547322,
+         "eccentricity": 0.04568197786550543,
+         "meanAnomaly": 3.9981611426576227
+      },
+      "Neptune": {
+         "inclination": 0.030810353181940933,
+         "longitudeOfAscendingNode": 2.297805871527859,
+         "longitudeOfPerihelion": 0.3005260112249539,
+         "meanDistance": 30.23163284727852,
+         "dailyMotion": 0.0001034904363488857,
+         "eccentricity": 0.01130864446597239,
+         "meanAnomaly": 5.801584377754146
+      }
+   },
+   "7548.5": {
+      "Mercure": {
+         "inclination": 0.12223762021865091,
+         "longitudeOfAscendingNode": 0.8430838492157448,
+         "longitudeOfPerihelion": 1.3524775809956862,
+         "meanDistance": 0.3870987060843639,
+         "dailyMotion": 0.07142477781339897,
+         "eccentricity": 0.2056342838742968,
+         "meanAnomaly": 1.846219567159605
+      },
+      "Vénus": {
+         "inclination": 0.05924615772307926,
+         "longitudeOfAscendingNode": 1.3373253075404175,
+         "longitudeOfPerihelion": 2.300436030977283,
+         "meanDistance": 0.7233223251115458,
+         "dailyMotion": 0.027963026130831445,
+         "eccentricity": 0.006788715766454309,
+         "meanAnomaly": 4.6051601897261225
+      },
+      "Terre": {
+         "inclination": 2.9804680878861513e-05,
+         "longitudeOfAscendingNode": 3.3625294013325675,
+         "longitudeOfPerihelion": 1.8332739688440878,
+         "meanDistance": 0.9991784836397283,
+         "dailyMotion": 0.01722334431230014,
+         "eccentricity": 0.01725635906351983,
+         "meanAnomaly": 4.10691375086529
+      },
+      "Mars": {
+         "inclination": 0.03225206155819119,
+         "longitudeOfAscendingNode": 0.8638537521814417,
+         "longitudeOfPerihelion": 5.866153524152335,
+         "meanDistance": 1.523670528992528,
+         "dailyMotion": 0.009146288799769964,
+         "eccentricity": 0.09338594511308725,
+         "meanAnomaly": 0.26172848290635115
+      },
+      "Jupiter": {
+         "inclination": 0.022753270572503325,
+         "longitudeOfAscendingNode": 1.7543646768880636,
+         "longitudeOfPerihelion": 0.24586458964750868,
+         "meanDistance": 5.203169415863252,
+         "dailyMotion": 0.0014500623613986623,
+         "eccentricity": 0.04869360775586256,
+         "meanAnomaly": 5.017999721613129
+      },
+      "Saturne": {
+         "inclination": 0.043378133821504794,
+         "longitudeOfAscendingNode": 1.9825716749755808,
+         "longitudeOfPerihelion": 1.5819693563228672,
+         "meanDistance": 9.578735588314268,
+         "dailyMotion": 0.0005803382808029309,
+         "eccentricity": 0.05164478460563415,
+         "meanAnomaly": 3.6995470646972946
+      },
+      "Uranus": {
+         "inclination": 0.013451155455549832,
+         "longitudeOfAscendingNode": 1.2928702094241211,
+         "longitudeOfPerihelion": 3.003079552610241,
+         "meanDistance": 19.19739286563715,
+         "dailyMotion": 0.00020451611891492068,
+         "eccentricity": 0.04558691373157184,
+         "meanAnomaly": 4.005279941188424
+      },
+      "Neptune": {
+         "inclination": 0.030829667865150616,
+         "longitudeOfAscendingNode": 2.2982754546320194,
+         "longitudeOfPerihelion": 0.27229846830997495,
+         "meanDistance": 30.24825732187573,
+         "dailyMotion": 0.00010340513039076553,
+         "eccentricity": 0.01175386705786197,
+         "meanAnomaly": 5.832845776397777
+      }
+   },
+   "7578.5": {
+      "Mercure": {
+         "inclination": 0.1222374005645185,
+         "longitudeOfAscendingNode": 0.8430824615423234,
+         "longitudeOfPerihelion": 1.3524834405155768,
+         "meanDistance": 0.3870990759084216,
+         "dailyMotion": 0.07142467545745254,
+         "eccentricity": 0.2056329171355822,
+         "meanAnomaly": 3.9889527380361245
+      },
+      "Vénus": {
+         "inclination": 0.059246083615753696,
+         "longitudeOfAscendingNode": 1.3373255224124398,
+         "longitudeOfPerihelion": 2.2997692559531924,
+         "meanDistance": 0.7233258826686894,
+         "dailyMotion": 0.02796281983389786,
+         "eccentricity": 0.006791223544299374,
+         "meanAnomaly": 5.4447165913351085
+      },
+      "Terre": {
+         "inclination": 4.890718719110838e-05,
+         "longitudeOfAscendingNode": 3.147367229647147,
+         "longitudeOfPerihelion": 1.8459825987657332,
+         "meanDistance": 0.9991558313649549,
+         "dailyMotion": 0.01722393003195506,
+         "eccentricity": 0.01686713804179768,
+         "meanAnomaly": 4.6102004783263
+      },
+      "Mars": {
+         "inclination": 0.03225253103043963,
+         "longitudeOfAscendingNode": 0.863838701777413,
+         "longitudeOfPerihelion": 5.866231830488255,
+         "meanDistance": 1.523632634512251,
+         "dailyMotion": 0.009146630019832843,
+         "eccentricity": 0.09335809967650105,
+         "meanAnomaly": 0.5360790801397171
+      },
+      "Jupiter": {
+         "inclination": 0.02275609558866142,
+         "longitudeOfAscendingNode": 1.7544091538869988,
+         "longitudeOfPerihelion": 0.2471197620025345,
+         "meanDistance": 5.202737741163236,
+         "dailyMotion": 0.001450242834137192,
+         "eccentricity": 0.04861216306607746,
+         "meanAnomaly": 5.060128931348757
+      },
+      "Saturne": {
+         "inclination": 0.043421187407194715,
+         "longitudeOfAscendingNode": 1.9826875871774892,
+         "longitudeOfPerihelion": 1.577943523300906,
+         "meanDistance": 9.57985326288733,
+         "dailyMotion": 0.0005802367222920728,
+         "eccentricity": 0.05163528402806435,
+         "meanAnomaly": 3.7213432924752023
+      },
+      "Uranus": {
+         "inclination": 0.013454651628238189,
+         "longitudeOfAscendingNode": 1.2926860138135008,
+         "longitudeOfPerihelion": 2.9987040155483435,
+         "meanDistance": 19.2019597790865,
+         "dailyMotion": 0.000204443161371457,
+         "eccentricity": 0.04544322704313659,
+         "meanAnomaly": 4.015849472891547
+      },
+      "Neptune": {
+         "inclination": 0.030893347083265344,
+         "longitudeOfAscendingNode": 2.299859155326589,
+         "longitudeOfPerihelion": 0.2697370489272366,
+         "meanDistance": 30.25149331105054,
+         "dailyMotion": 0.00010338853903126725,
+         "eccentricity": 0.01185701808097162,
+         "meanAnomaly": 5.838545264061985
+      }
+   },
+   "7609.5": {
+      "Mercure": {
+         "inclination": 0.12223742717994326,
+         "longitudeOfAscendingNode": 0.8430800514906919,
+         "longitudeOfPerihelion": 1.3524926939002175,
+         "meanDistance": 0.3870983594730984,
+         "dailyMotion": 0.07142487374497898,
+         "eccentricity": 0.2056321732183157,
+         "meanAnomaly": 6.20310989480345
+      },
+      "Vénus": {
+         "inclination": 0.059245930865587146,
+         "longitudeOfAscendingNode": 1.3373237899223498,
+         "longitudeOfPerihelion": 2.29909040861231,
+         "meanDistance": 0.7233287981533892,
+         "dailyMotion": 0.027962650771588764,
+         "eccentricity": 0.006793582605181274,
+         "meanAnomaly": 0.02904839427473861
+      },
+      "Terre": {
+         "inclination": 6.970121712853523e-05,
+         "longitudeOfAscendingNode": 3.3770551190167186,
+         "longitudeOfPerihelion": 1.8428853367289442,
+         "meanDistance": 0.9991330121047646,
+         "dailyMotion": 0.017224520102917005,
+         "eccentricity": 0.01634590963880221,
+         "meanAnomaly": 5.146370782514796
+      },
+      "Mars": {
+         "inclination": 0.0322528299981814,
+         "longitudeOfAscendingNode": 0.863833283684325,
+         "longitudeOfPerihelion": 5.866357418129832,
+         "meanDistance": 1.523620883418771,
+         "dailyMotion": 0.009146735836620476,
+         "eccentricity": 0.0933395647230094,
+         "meanAnomaly": 0.8195411028169416
+      },
+      "Jupiter": {
+         "inclination": 0.022745397882810138,
+         "longitudeOfAscendingNode": 1.7542399463680927,
+         "longitudeOfPerihelion": 0.23690563994146974,
+         "meanDistance": 5.205233808739097,
+         "dailyMotion": 0.0014491998060282977,
+         "eccentricity": 0.04863943020829037,
+         "meanAnomaly": 5.115027500492055
+      },
+      "Saturne": {
+         "inclination": 0.04343771919346701,
+         "longitudeOfAscendingNode": 1.98275159973101,
+         "longitudeOfPerihelion": 1.5751113828601406,
+         "meanDistance": 9.580564726487907,
+         "dailyMotion": 0.0005801720899365829,
+         "eccentricity": 0.05164280974521797,
+         "meanAnomaly": 3.7424277169323292
+      },
+      "Uranus": {
+         "inclination": 0.01342546994704203,
+         "longitudeOfAscendingNode": 1.2942531805733886,
+         "longitudeOfPerihelion": 2.9974533695247114,
+         "meanDistance": 19.20367423975211,
+         "dailyMotion": 0.0002044157836469509,
+         "eccentricity": 0.04536779321639926,
+         "meanAnomaly": 4.023400987228998
+      },
+      "Neptune": {
+         "inclination": 0.03098368726474379,
+         "longitudeOfAscendingNode": 2.30212024639114,
+         "longitudeOfPerihelion": 0.29247261799743374,
+         "meanDistance": 30.24212094204407,
+         "dailyMotion": 0.00010343660463879058,
+         "eccentricity": 0.01164656137705638,
+         "meanAnomaly": 5.819305702837087
+      }
+   },
+   "7639.5": {
+      "Mercure": {
+         "inclination": 0.12223757831372585,
+         "longitudeOfAscendingNode": 0.8430768434137798,
+         "longitudeOfPerihelion": 1.352480194916365,
+         "meanDistance": 0.3870982669164392,
+         "dailyMotion": 0.07142489936191655,
+         "eccentricity": 0.2056365566951867,
+         "meanAnomaly": 2.0626742685126036
+      },
+      "Vénus": {
+         "inclination": 0.05924589309940548,
+         "longitudeOfAscendingNode": 1.3373207303484556,
+         "longitudeOfPerihelion": 2.2987137208795585,
+         "meanDistance": 0.7233265835702226,
+         "dailyMotion": 0.027962779190060797,
+         "eccentricity": 0.006791259601879043,
+         "meanAnomaly": 0.8683040528255024
+      },
+      "Terre": {
+         "inclination": 6.760827131583008e-05,
+         "longitudeOfAscendingNode": 3.6251943065227508,
+         "longitudeOfPerihelion": 1.8243265992006261,
+         "meanDistance": 0.9991257260734587,
+         "dailyMotion": 0.017224708515573513,
+         "eccentricity": 0.01600833172784475,
+         "meanAnomaly": 5.680944408668309
+      },
+      "Mars": {
+         "inclination": 0.03225259690100214,
+         "longitudeOfAscendingNode": 0.8638342961217607,
+         "longitudeOfPerihelion": 5.866484372833839,
+         "meanDistance": 1.523629514285101,
+         "dailyMotion": 0.009146658116798998,
+         "eccentricity": 0.09333238234366474,
+         "meanAnomaly": 1.0938384233478216
+      },
+      "Jupiter": {
+         "inclination": 0.022749130526894368,
+         "longitudeOfAscendingNode": 1.7542971755990933,
+         "longitudeOfPerihelion": 0.24030367709308287,
+         "meanDistance": 5.20436669410018,
+         "dailyMotion": 0.0014495620041922552,
+         "eccentricity": 0.04861639191053289,
+         "meanAnomaly": 5.155180863671653
+      },
+      "Saturne": {
+         "inclination": 0.043455662219510145,
+         "longitudeOfAscendingNode": 1.9828335095087855,
+         "longitudeOfPerihelion": 1.5718380425432272,
+         "meanDistance": 9.582279976955759,
+         "dailyMotion": 0.0005800163186718138,
+         "eccentricity": 0.05153583755676464,
+         "meanAnomaly": 3.763275715546535
+      },
+      "Uranus": {
+         "inclination": 0.013458500212377336,
+         "longitudeOfAscendingNode": 1.292496667857817,
+         "longitudeOfPerihelion": 2.9932682065583105,
+         "meanDistance": 19.2080344989365,
+         "dailyMotion": 0.00020434618345848262,
+         "eccentricity": 0.045230774380223,
+         "meanAnomaly": 4.033765420110419
+      },
+      "Neptune": {
+         "inclination": 0.030947154693524683,
+         "longitudeOfAscendingNode": 2.3012184032488223,
+         "longitudeOfPerihelion": 0.3027497152843486,
+         "meanDistance": 30.24353117046953,
+         "dailyMotion": 0.0001034293699905535,
+         "eccentricity": 0.0117589735674786,
+         "meanAnomaly": 5.812445718022361
+      }
+   }
+}

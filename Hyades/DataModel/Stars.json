@@ -1,0 +1,10896 @@
+[
+ {
+   "Description": "9α Canis Majoris",
+   "Name": "Sirius",
+   "RA": "1.7677931",
+   "DEC": -0.2917512,
+   "MAG": "-1.46",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "α Carinae",
+   "Name": "Canopus",
+   "RA": "1.6753052",
+   "DEC": -0.9197158,
+   "MAG": "-0.72",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "16α Bootis",
+   "Name": "Arcturus",
+   "RA": "3.7335283",
+   "DEC": 0.3347978,
+   "MAG": "-0.04",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "α1Centauri",
+   "Name": "",
+   "RA": "3.8379718",
+   "DEC": -1.0617759,
+   "MAG": "-0.01",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "3α Lyrae",
+   "Name": "Vega",
+   "RA": "4.8735629",
+   "DEC": 0.6769017,
+   "MAG": "0.03",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "13α Aurigae",
+   "Name": "Capella",
+   "RA": "1.3818208",
+   "DEC": 0.8028175,
+   "MAG": "0.08",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "19β Orionis",
+   "Name": "Rigel",
+   "RA": "1.3724324",
+   "DEC": -0.1431461,
+   "MAG": "0.12",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "10α Canis Minoris",
+   "Name": "Procyon",
+   "RA": "2.0040816",
+   "DEC": 0.0911935,
+   "MAG": "0.38",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "α Eridani",
+   "Name": "Achernar",
+   "RA": "0.4263621",
+   "DEC": -0.9989683,
+   "MAG": "0.46",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "58α Orionis",
+   "Name": "Bételgeuse",
+   "RA": "1.5497287",
+   "DEC": 0.1292756,
+   "MAG": "0.5",
+   "Color": "Orange"
+ },
+ {
+   "Description": "β Centauri",
+   "Name": "",
+   "RA": "3.6818739",
+   "DEC": -1.0537086,
+   "MAG": "0.61",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "53α Aquilae",
+   "Name": "Altair",
+   "RA": "5.1957725",
+   "DEC": 0.1547816,
+   "MAG": "0.77",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "87α Tauri",
+   "Name": "Aldébaran",
+   "RA": "1.2039281",
+   "DEC": 0.2881393,
+   "MAG": "0.85",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "21α Scorpii",
+   "Name": "Antares",
+   "RA": "4.3171010",
+   "DEC": -0.4613245,
+   "MAG": "0.96",
+   "Color": "Orange"
+ },
+ {
+   "Description": "67α Virginis",
+   "Name": "Spica",
+   "RA": "3.5133187",
+   "DEC": -0.194803,
+   "MAG": "0.98",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "78β Geminorum",
+   "Name": "Pollux",
+   "RA": "2.0303197",
+   "DEC": 0.4891479,
+   "MAG": "1.14",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "24α Piscis Austrini",
+   "Name": "Fomalhaut",
+   "RA": "6.0111394",
+   "DEC": -0.5170053,
+   "MAG": "1.16",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "β Crucis",
+   "Name": "",
+   "RA": "3.3498104",
+   "DEC": -1.0417628,
+   "MAG": "1.25",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "50α Cygni",
+   "Name": "Deneb",
+   "RA": "5.4167675",
+   "DEC": 0.7902899,
+   "MAG": "1.25",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "α1Crucis",
+   "Name": "",
+   "RA": "3.2576498",
+   "DEC": -1.1012882,
+   "MAG": "1.33",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "α2Centauri",
+   "Name": "Proxima",
+   "RA": "3.8379863",
+   "DEC": -1.0617807,
+   "MAG": "1.33",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "32α Leonis",
+   "Name": "Regulus",
+   "RA": "2.6545222",
+   "DEC": 0.2088674,
+   "MAG": "1.35",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "21ε Canis Majoris",
+   "Name": "Adhara",
+   "RA": "1.8265961",
+   "DEC": -0.5056607,
+   "MAG": "1.5",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "γ Crucis",
+   "Name": "",
+   "RA": "3.2775756",
+   "DEC": -0.9968157,
+   "MAG": "1.63",
+   "Color": "Orange"
+ },
+ {
+   "Description": "35λ Scorpii",
+   "Name": "",
+   "RA": "4.5972336",
+   "DEC": -0.647585,
+   "MAG": "1.63",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "24γ Orionis",
+   "Name": "",
+   "RA": "1.4186545",
+   "DEC": 0.1108236,
+   "MAG": "1.64",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "112β Tauri",
+   "Name": "",
+   "RA": "1.4237160",
+   "DEC": 0.4992951,
+   "MAG": "1.65",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "β Carinae",
+   "Name": "",
+   "RA": "2.4137904",
+   "DEC": -1.2167951,
+   "MAG": "1.68",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "46ε Orionis",
+   "Name": "",
+   "RA": "1.4670074",
+   "DEC": -0.0209779,
+   "MAG": "1.7",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "α2Crucis",
+   "Name": "",
+   "RA": "3.2576934",
+   "DEC": -1.1012931,
+   "MAG": "1.73",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "α Gruis",
+   "Name": "",
+   "RA": "5.7955112",
+   "DEC": -0.819626,
+   "MAG": "1.74",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "77ε Ursae Majoris",
+   "Name": "",
+   "RA": "3.3773357",
+   "DEC": 0.9766814,
+   "MAG": "1.77",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "γ2Velorum",
+   "Name": "",
+   "RA": "2.1359921",
+   "DEC": -0.8261807,
+   "MAG": "1.78",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "33α Persei",
+   "Name": "",
+   "RA": "0.8915287",
+   "DEC": 0.8702406,
+   "MAG": "1.79",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "50α Ursae Majoris",
+   "Name": "",
+   "RA": "2.8960612",
+   "DEC": 1.0777554,
+   "MAG": "1.79",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "25δ Canis Majoris",
+   "Name": "",
+   "RA": "1.8692113",
+   "DEC": -0.4606506,
+   "MAG": "1.84",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "20ε Sagitarii",
+   "Name": "",
+   "RA": "4.8178578",
+   "DEC": -0.6001266,
+   "MAG": "1.85",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ε Carinae",
+   "Name": "",
+   "RA": "2.1926281",
+   "DEC": -1.0386406,
+   "MAG": "1.86",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "85η Ursae Majoris",
+   "Name": "",
+   "RA": "3.6108244",
+   "DEC": 0.86068,
+   "MAG": "1.86",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "θ Scorpii",
+   "Name": "",
+   "RA": "4.6134288",
+   "DEC": -0.7504528,
+   "MAG": "1.87",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "34β Aurigae",
+   "Name": "",
+   "RA": "1.5687383",
+   "DEC": 0.7844819,
+   "MAG": "1.9",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "α Trianguli Australis",
+   "Name": "",
+   "RA": "4.4011313",
+   "DEC": -1.204762,
+   "MAG": "1.92",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "24γ Geminorum",
+   "Name": "",
+   "RA": "1.7353445",
+   "DEC": 0.2862195,
+   "MAG": "1.93",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "α Pavonis",
+   "Name": "",
+   "RA": "5.3478997",
+   "DEC": -0.9902126,
+   "MAG": "1.94",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "δ Velorum",
+   "Name": "",
+   "RA": "2.2894502",
+   "DEC": -0.9548405,
+   "MAG": "1.96",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "2β Canis Majoris",
+   "Name": "",
+   "RA": "1.6698438",
+   "DEC": -0.3133884,
+   "MAG": "1.98",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "66α Geminorum",
+   "Name": "",
+   "RA": "1.9835667",
+   "DEC": 0.5565564,
+   "MAG": "1.98",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "30α Hydrae",
+   "Name": "",
+   "RA": "2.4765640",
+   "DEC": -0.1511213,
+   "MAG": "1.98",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "13α Arietis",
+   "Name": "",
+   "RA": "0.5548983",
+   "DEC": 0.4094979,
+   "MAG": "2",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "1α Ursae Minoris",
+   "Name": "Polaris",
+   "RA": "0.6624034",
+   "DEC": 1.5579536,
+   "MAG": "2.02",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "34σ Sagitarii",
+   "Name": "",
+   "RA": "4.9535280",
+   "DEC": -0.4589634,
+   "MAG": "2.02",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "16β Cetii",
+   "Name": "",
+   "RA": "0.1901973",
+   "DEC": -0.3139266,
+   "MAG": "2.04",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "50ζ Orionis",
+   "Name": "",
+   "RA": "1.4868387",
+   "DEC": -0.0339079,
+   "MAG": "2.05",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "21α Andromedae",
+   "Name": "",
+   "RA": "0.0366010",
+   "DEC": 0.507726,
+   "MAG": "2.06",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "43β Andromedae",
+   "Name": "",
+   "RA": "0.3042618",
+   "DEC": 0.621696,
+   "MAG": "2.06",
+   "Color": "Orange"
+ },
+ {
+   "Description": "53κ Orionis",
+   "Name": "",
+   "RA": "1.5173747",
+   "DEC": -0.1687685,
+   "MAG": "2.06",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "5θ Centauri",
+   "Name": "",
+   "RA": "3.6943530",
+   "DEC": -0.6347762,
+   "MAG": "2.06",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "7β Ursae Minoris",
+   "Name": "",
+   "RA": "3.8864337",
+   "DEC": 1.2942586,
+   "MAG": "2.08",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "55α Ophiuchi",
+   "Name": "",
+   "RA": "4.6030223",
+   "DEC": 0.2192134,
+   "MAG": "2.08",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "β Gruis",
+   "Name": "",
+   "RA": "5.9457623",
+   "DEC": -0.8182928,
+   "MAG": "2.1",
+   "Color": "Orange"
+ },
+ {
+   "Description": "26β Persei",
+   "Name": "",
+   "RA": "0.8210392",
+   "DEC": 0.7148093,
+   "MAG": "2.12",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "94β Leonis",
+   "Name": "",
+   "RA": "3.0938579",
+   "DEC": 0.2543284,
+   "MAG": "2.14",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "γ Centauri",
+   "Name": "",
+   "RA": "3.3227433",
+   "DEC": -0.8545084,
+   "MAG": "2.17",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "37γ Cygni",
+   "Name": "",
+   "RA": "5.3329772",
+   "DEC": 0.7026114,
+   "MAG": "2.2",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "λ Velorum",
+   "Name": "",
+   "RA": "2.3910865",
+   "DEC": -0.7580401,
+   "MAG": "2.21",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "18α Cassiopeiae",
+   "Name": "",
+   "RA": "0.1767509",
+   "DEC": 0.9867607,
+   "MAG": "2.23",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "34δ Orionis",
+   "Name": "",
+   "RA": "1.4486524",
+   "DEC": -0.0052214,
+   "MAG": "2.23",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "5α Coronae Borealis",
+   "Name": "",
+   "RA": "4.0783472",
+   "DEC": 0.4662599,
+   "MAG": "2.23",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "33γ Draconis",
+   "Name": "",
+   "RA": "4.6975828",
+   "DEC": 0.8986506,
+   "MAG": "2.23",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ζ Puppis",
+   "Name": "",
+   "RA": "2.1100376",
+   "DEC": -0.6981899,
+   "MAG": "2.25",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ι Carinae",
+   "Name": "",
+   "RA": "2.4307637",
+   "DEC": -1.0345488,
+   "MAG": "2.25",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "57γ1Andromedae",
+   "Name": "",
+   "RA": "0.5406157",
+   "DEC": 0.738793,
+   "MAG": "2.26",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "11β Cassiopeiae",
+   "Name": "",
+   "RA": "0.0400480",
+   "DEC": 1.0323574,
+   "MAG": "2.27",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "79ζ Ursae Majoris",
+   "Name": "",
+   "RA": "3.5077845",
+   "DEC": 0.9586269,
+   "MAG": "2.27",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "26ε Scorpii",
+   "Name": "",
+   "RA": "4.4076690",
+   "DEC": -0.5985316,
+   "MAG": "2.29",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ε Centauri",
+   "Name": "",
+   "RA": "3.5774305",
+   "DEC": -0.9331645,
+   "MAG": "2.3",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "α Lupi",
+   "Name": "",
+   "RA": "3.8481456",
+   "DEC": -0.8270824,
+   "MAG": "2.3",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "η Centauri",
+   "Name": "",
+   "RA": "3.8201185",
+   "DEC": -0.735792,
+   "MAG": "2.31",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "7δ Scorpii",
+   "Name": "",
+   "RA": "4.1902446",
+   "DEC": -0.3948226,
+   "MAG": "2.32",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "48β Ursae Majoris",
+   "Name": "",
+   "RA": "2.8878291",
+   "DEC": 0.9840603,
+   "MAG": "2.37",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "α Phoenicis",
+   "Name": "",
+   "RA": "0.1146827",
+   "DEC": -0.7383809,
+   "MAG": "2.39",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "8ε Pegasi",
+   "Name": "",
+   "RA": "5.6905878",
+   "DEC": 0.1723513,
+   "MAG": "2.39",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "κ Scorpii",
+   "Name": "",
+   "RA": "4.6359799",
+   "DEC": -0.681202,
+   "MAG": "2.41",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "53β Pegasi",
+   "Name": "",
+   "RA": "6.0378575",
+   "DEC": 0.4901369,
+   "MAG": "2.42",
+   "Color": "Orange"
+ },
+ {
+   "Description": "35η Ophiuchi",
+   "Name": "",
+   "RA": "4.4958736",
+   "DEC": -0.2744482,
+   "MAG": "2.43",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "64γ Ursae Majoris",
+   "Name": "",
+   "RA": "3.1146710",
+   "DEC": 0.9371497,
+   "MAG": "2.44",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "5α Cephei",
+   "Name": "",
+   "RA": "5.5788577",
+   "DEC": 1.092324,
+   "MAG": "2.44",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "31η Canis Majoris",
+   "Name": "",
+   "RA": "1.9377300",
+   "DEC": -0.5114348,
+   "MAG": "2.45",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "53ε Cygni",
+   "Name": "",
+   "RA": "5.4376242",
+   "DEC": 0.5928932,
+   "MAG": "2.46",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "27γ Cassiopeiae",
+   "Name": "",
+   "RA": "0.2474368",
+   "DEC": 1.0597057,
+   "MAG": "2.47",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "54α Pegasi",
+   "Name": "",
+   "RA": "6.0421626",
+   "DEC": 0.2653822,
+   "MAG": "2.49",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "κ Velorum",
+   "Name": "",
+   "RA": "2.4526821",
+   "DEC": -0.9601202,
+   "MAG": "2.5",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "92α Cetii",
+   "Name": "",
+   "RA": "0.7953465",
+   "DEC": 0.0713791,
+   "MAG": "2.53",
+   "Color": "Orange"
+ },
+ {
+   "Description": "ζ Centauri",
+   "Name": "",
+   "RA": "3.6457310",
+   "DEC": -0.8253371,
+   "MAG": "2.55",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "68δ Leonis",
+   "Name": "",
+   "RA": "2.9413525",
+   "DEC": 0.3582046,
+   "MAG": "2.56",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "13ζ Ophiuchi",
+   "Name": "",
+   "RA": "4.3509240",
+   "DEC": -0.1844328,
+   "MAG": "2.56",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "11α Leporis",
+   "Name": "",
+   "RA": "1.4518085",
+   "DEC": -0.3110565,
+   "MAG": "2.58",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "4γ Corvi",
+   "Name": "",
+   "RA": "3.2105622",
+   "DEC": -0.3061647,
+   "MAG": "2.59",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "δ Centauri",
+   "Name": "",
+   "RA": "3.1780628",
+   "DEC": -0.8852746,
+   "MAG": "2.6",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "38ζ Sagitarii",
+   "Name": "",
+   "RA": "4.9855839",
+   "DEC": -0.5215092,
+   "MAG": "2.6",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "41γ1Leonis",
+   "Name": "",
+   "RA": "2.7051367",
+   "DEC": 0.3463024,
+   "MAG": "2.61",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "27β Librae",
+   "Name": "",
+   "RA": "4.0011964",
+   "DEC": -0.1637652,
+   "MAG": "2.61",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "37θ Aurigae",
+   "Name": "",
+   "RA": "1.5695819",
+   "DEC": 0.6494806,
+   "MAG": "2.62",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "8β1Scorpii",
+   "Name": "",
+   "RA": "4.2125121",
+   "DEC": -0.3456722,
+   "MAG": "2.62",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "6β Arietis",
+   "Name": "",
+   "RA": "0.5002114",
+   "DEC": 0.3631691,
+   "MAG": "2.64",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "α Columbae",
+   "Name": "",
+   "RA": "1.4819954",
+   "DEC": -0.5947064,
+   "MAG": "2.64",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "9β Corvi",
+   "Name": "",
+   "RA": "3.2916328",
+   "DEC": -0.4083489,
+   "MAG": "2.65",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "24α Serpentis",
+   "Name": "",
+   "RA": "4.1201479",
+   "DEC": 0.1121471,
+   "MAG": "2.65",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "37δ Cassiopeiae",
+   "Name": "",
+   "RA": "0.3744458",
+   "DEC": 1.0513039,
+   "MAG": "2.68",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "8η Bootis",
+   "Name": "",
+   "RA": "3.6420004",
+   "DEC": 0.3211018,
+   "MAG": "2.68",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "β Lupi",
+   "Name": "",
+   "RA": "3.9205840",
+   "DEC": -0.7528284,
+   "MAG": "2.68",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "3ι Aurigae",
+   "Name": "",
+   "RA": "1.2958779",
+   "DEC": 0.5788578,
+   "MAG": "2.69",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "μ Velorum",
+   "Name": "",
+   "RA": "2.8220665",
+   "DEC": -0.8625417,
+   "MAG": "2.69",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "α Muscae",
+   "Name": "",
+   "RA": "3.3038356",
+   "DEC": -1.2066431,
+   "MAG": "2.69",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "34υ Scorpii",
+   "Name": "",
+   "RA": "4.5848200",
+   "DEC": -0.6509351,
+   "MAG": "2.69",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "π Puppis",
+   "Name": "",
+   "RA": "1.9073976",
+   "DEC": -0.6474735,
+   "MAG": "2.7",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "36ε Bootis",
+   "Name": "",
+   "RA": "3.8614828",
+   "DEC": 0.4725334,
+   "MAG": "2.7",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "19δ Sagitarii",
+   "Name": "",
+   "RA": "4.8039970",
+   "DEC": -0.5205978,
+   "MAG": "2.7",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "50γ Aquilae",
+   "Name": "",
+   "RA": "5.1760357",
+   "DEC": 0.1852376,
+   "MAG": "2.72",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "1δ Ophiuchi",
+   "Name": "",
+   "RA": "4.2513821",
+   "DEC": -0.0644802,
+   "MAG": "2.74",
+   "Color": "Orange"
+ },
+ {
+   "Description": "14η Draconis",
+   "Name": "",
+   "RA": "4.2934736",
+   "DEC": 1.0736247,
+   "MAG": "2.74",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ι Centauri",
+   "Name": "",
+   "RA": "3.4932620",
+   "DEC": -0.6407492,
+   "MAG": "2.75",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "9α2Librae",
+   "Name": "",
+   "RA": "3.8871900",
+   "DEC": -0.2799799,
+   "MAG": "2.75",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "θ Carinae",
+   "Name": "",
+   "RA": "2.8054277",
+   "DEC": -1.1238951,
+   "MAG": "2.76",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "44ι Orionis",
+   "Name": "",
+   "RA": "1.4636040",
+   "DEC": -0.103149,
+   "MAG": "2.77",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "27β Herculis",
+   "Name": "",
+   "RA": "4.3206498",
+   "DEC": 0.3750664,
+   "MAG": "2.77",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "60β Ophiuchi",
+   "Name": "",
+   "RA": "4.6402778",
+   "DEC": 0.0797131,
+   "MAG": "2.77",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ Lupi",
+   "Name": "",
+   "RA": "4.0803253",
+   "DEC": -0.7184987,
+   "MAG": "2.78",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "67β Eridani",
+   "Name": "",
+   "RA": "1.3432490",
+   "DEC": -0.0887742,
+   "MAG": "2.79",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "23β Draconis",
+   "Name": "",
+   "RA": "4.5833801",
+   "DEC": 0.9128314,
+   "MAG": "2.79",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "β Hydri",
+   "Name": "",
+   "RA": "0.1123628",
+   "DEC": -1.3483396,
+   "MAG": "2.8",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "δ Crucis",
+   "Name": "",
+   "RA": "3.2076752",
+   "DEC": -1.0253615,
+   "MAG": "2.8",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "15ρ Puppis",
+   "Name": "",
+   "RA": "2.1273091",
+   "DEC": -0.4241877,
+   "MAG": "2.81",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "40ζ Herculis",
+   "Name": "",
+   "RA": "4.3689373",
+   "DEC": 0.5515774,
+   "MAG": "2.81",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "22λ Sagitarii",
+   "Name": "",
+   "RA": "4.8344311",
+   "DEC": -0.4436918,
+   "MAG": "2.81",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "23τ Scorpii",
+   "Name": "",
+   "RA": "4.3453608",
+   "DEC": -0.492464,
+   "MAG": "2.82",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "88γ Pegasi",
+   "Name": "",
+   "RA": "0.0577559",
+   "DEC": 0.265004,
+   "MAG": "2.83",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "47ε Virginis",
+   "Name": "",
+   "RA": "3.4128895",
+   "DEC": 0.1912735,
+   "MAG": "2.83",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "9β Leporis",
+   "Name": "",
+   "RA": "1.4322390",
+   "DEC": -0.3623207,
+   "MAG": "2.84",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "44ζ Persei",
+   "Name": "",
+   "RA": "1.0215921",
+   "DEC": 0.556474,
+   "MAG": "2.85",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "β Trianguli Australis",
+   "Name": "",
+   "RA": "4.1675917",
+   "DEC": -1.107072,
+   "MAG": "2.85",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "β Arae",
+   "Name": "",
+   "RA": "4.5609817",
+   "DEC": -0.9691813,
+   "MAG": "2.85",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "α Hydri",
+   "Name": "",
+   "RA": "0.5182319",
+   "DEC": -1.0745944,
+   "MAG": "2.86",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "α Tucanae",
+   "Name": "",
+   "RA": "5.8403153",
+   "DEC": -1.0517306,
+   "MAG": "2.86",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "25η Tauri",
+   "Name": "",
+   "RA": "0.9925906",
+   "DEC": 0.4207116,
+   "MAG": "2.87",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "18δ Cygni",
+   "Name": "",
+   "RA": "5.1704288",
+   "DEC": 0.7876816,
+   "MAG": "2.87",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "49δ Capricorni",
+   "Name": "",
+   "RA": "5.7030379",
+   "DEC": -0.2814731,
+   "MAG": "2.87",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "13μ Geminorum",
+   "Name": "",
+   "RA": "1.6709782",
+   "DEC": 0.3929366,
+   "MAG": "2.88",
+   "Color": "Orange"
+ },
+ {
+   "Description": "66α Geminorum",
+   "Name": "",
+   "RA": "1.9835667",
+   "DEC": 0.5565613,
+   "MAG": "2.88",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "45ε Persei",
+   "Name": "",
+   "RA": "1.0378310",
+   "DEC": 0.6983111,
+   "MAG": "2.89",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "γ Trianguli Australis",
+   "Name": "",
+   "RA": "4.0095013",
+   "DEC": -1.1986824,
+   "MAG": "2.89",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "6π Scorpii",
+   "Name": "",
+   "RA": "4.1837797",
+   "DEC": -0.4557782,
+   "MAG": "2.89",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "20σ Scorpii",
+   "Name": "",
+   "RA": "4.2812417",
+   "DEC": -0.4466782,
+   "MAG": "2.89",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "41π Sagitarii",
+   "Name": "",
+   "RA": "5.0167889",
+   "DEC": -0.3669312,
+   "MAG": "2.89",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "3β Canis Minoris",
+   "Name": "",
+   "RA": "1.9510599",
+   "DEC": 0.1446781,
+   "MAG": "2.9",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "12α2Canum Venaticorum",
+   "Name": "",
+   "RA": "3.3860624",
+   "DEC": 0.6687811,
+   "MAG": "2.9",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "22β Aquarii",
+   "Name": "",
+   "RA": "5.6354863",
+   "DEC": -0.0972342,
+   "MAG": "2.91",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "23γ Persei",
+   "Name": "",
+   "RA": "0.8063276",
+   "DEC": 0.9338627,
+   "MAG": "2.93",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "τ Puppis",
+   "Name": "",
+   "RA": "1.7886861",
+   "DEC": -0.8833936,
+   "MAG": "2.93",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "44η Pegasi",
+   "Name": "",
+   "RA": "5.9472167",
+   "DEC": 0.5274627,
+   "MAG": "2.94",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "34γ Eridani",
+   "Name": "",
+   "RA": "1.0386018",
+   "DEC": -0.2357697,
+   "MAG": "2.95",
+   "Color": "Orange"
+ },
+ {
+   "Description": "7δ Corvi",
+   "Name": "",
+   "RA": "3.2719033",
+   "DEC": -0.2882508,
+   "MAG": "2.95",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "α Arae",
+   "Name": "",
+   "RA": "4.5895251",
+   "DEC": -0.8705024,
+   "MAG": "2.95",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "34α Aquarii",
+   "Name": "",
+   "RA": "5.7848211",
+   "DEC": -0.0055802,
+   "MAG": "2.96",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "27ε Geminorum",
+   "Name": "",
+   "RA": "1.7624844",
+   "DEC": 0.4386206,
+   "MAG": "2.98",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "17ε Leonis",
+   "Name": "",
+   "RA": "2.5562601",
+   "DEC": 0.4149375,
+   "MAG": "2.98",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "7ε Aurigae",
+   "Name": "",
+   "RA": "1.3175854",
+   "DEC": 0.7648615,
+   "MAG": "2.99",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "10γ2Sagitarii",
+   "Name": "",
+   "RA": "4.7377326",
+   "DEC": -0.5310019,
+   "MAG": "2.99",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "17ζ Aquilae",
+   "Name": "",
+   "RA": "4.9977939",
+   "DEC": 0.2419608,
+   "MAG": "2.99",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "4β Trianguli",
+   "Name": "",
+   "RA": "0.5652394",
+   "DEC": 0.6106422,
+   "MAG": "3",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "123ζ Tauri",
+   "Name": "",
+   "RA": "1.4732542",
+   "DEC": 0.3690062,
+   "MAG": "3",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "2ε Corvi",
+   "Name": "",
+   "RA": "3.1857713",
+   "DEC": -0.3947886,
+   "MAG": "3",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "46γ Hydrae",
+   "Name": "",
+   "RA": "3.4859534",
+   "DEC": -0.4044219,
+   "MAG": "3",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "39δ Persei",
+   "Name": "",
+   "RA": "0.9726938",
+   "DEC": 0.8340492,
+   "MAG": "3.01",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "υ Carinae",
+   "Name": "",
+   "RA": "2.5617143",
+   "DEC": -1.1357197,
+   "MAG": "3.01",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "52ψ Ursae Majoris",
+   "Name": "",
+   "RA": "2.9219575",
+   "DEC": 0.7766473,
+   "MAG": "3.01",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ Gruis",
+   "Name": "",
+   "RA": "5.7330939",
+   "DEC": -0.6521423,
+   "MAG": "3.01",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "1ζ Canis Majoris",
+   "Name": "",
+   "RA": "1.6594300",
+   "DEC": -0.5247042,
+   "MAG": "3.02",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "24o2Canis Majoris",
+   "Name": "",
+   "RA": "1.8457948",
+   "DEC": -0.4159701,
+   "MAG": "3.02",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "27γ Bootis",
+   "Name": "",
+   "RA": "3.8051596",
+   "DEC": 0.6686065,
+   "MAG": "3.03",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ι1Scorpii",
+   "Name": "",
+   "RA": "4.6582183",
+   "DEC": -0.7003473,
+   "MAG": "3.03",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "68o Cetii",
+   "Name": "",
+   "RA": "0.6080073",
+   "DEC": -0.0519672,
+   "MAG": "3.04",
+   "Color": "Orange"
+ },
+ {
+   "Description": "μ Centauri",
+   "Name": "",
+   "RA": "3.6198856",
+   "DEC": -0.7413092,
+   "MAG": "3.04",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "34μ Ursae Majoris",
+   "Name": "",
+   "RA": "2.7154196",
+   "DEC": 0.7243019,
+   "MAG": "3.05",
+   "Color": "Orange"
+ },
+ {
+   "Description": "β Muscae",
+   "Name": "",
+   "RA": "3.3435345",
+   "DEC": -1.1887098,
+   "MAG": "3.05",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "13γ Ursae Minoris",
+   "Name": "",
+   "RA": "4.0174352",
+   "DEC": 1.2537379,
+   "MAG": "3.05",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "57δ Draconis",
+   "Name": "",
+   "RA": "5.0289699",
+   "DEC": 1.1809189,
+   "MAG": "3.07",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "μ 1Scorpii",
+   "Name": "",
+   "RA": "4.4151158",
+   "DEC": -0.6640541,
+   "MAG": "3.08",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "6β1Cygni",
+   "Name": "",
+   "RA": "5.1082369",
+   "DEC": 0.4879892,
+   "MAG": "3.08",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "9β Capricorni",
+   "Name": "",
+   "RA": "5.3276684",
+   "DEC": -0.2579839,
+   "MAG": "3.08",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "16ζ Hydrae",
+   "Name": "",
+   "RA": "2.3360941",
+   "DEC": 0.1037695,
+   "MAG": "3.11",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ν Hydrae",
+   "Name": "",
+   "RA": "2.8345238",
+   "DEC": -0.2826318,
+   "MAG": "3.11",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "η Sagitarii",
+   "Name": "",
+   "RA": "4.7892998",
+   "DEC": -0.6416121,
+   "MAG": "3.11",
+   "Color": "Orange"
+ },
+ {
+   "Description": "α Indi",
+   "Name": "",
+   "RA": "5.3999033",
+   "DEC": -0.8253904,
+   "MAG": "3.11",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "β Columbae",
+   "Name": "",
+   "RA": "1.5313519",
+   "DEC": -0.6242752,
+   "MAG": "3.12",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "40α Lyncis",
+   "Name": "",
+   "RA": "2.4480643",
+   "DEC": 0.6002624,
+   "MAG": "3.13",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "λ Centauri",
+   "Name": "",
+   "RA": "3.0359130",
+   "DEC": -1.0999016,
+   "MAG": "3.13",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "κ Centauri",
+   "Name": "",
+   "RA": "3.9233329",
+   "DEC": -0.7348563,
+   "MAG": "3.13",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ζ Arae",
+   "Name": "",
+   "RA": "4.4445682",
+   "DEC": -0.9772147,
+   "MAG": "3.13",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "9ι Ursae Majoris",
+   "Name": "",
+   "RA": "2.3527329",
+   "DEC": 0.8384853,
+   "MAG": "3.14",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "65δ Herculis",
+   "Name": "",
+   "RA": "4.5161776",
+   "DEC": 0.4335252,
+   "MAG": "3.14",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "67π Herculis",
+   "Name": "",
+   "RA": "4.5162431",
+   "DEC": 0.6424412,
+   "MAG": "3.16",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "10η Aurigae",
+   "Name": "",
+   "RA": "1.3374240",
+   "DEC": 0.7196768,
+   "MAG": "3.17",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ν Puppis",
+   "Name": "",
+   "RA": "1.7355627",
+   "DEC": -0.7539144,
+   "MAG": "3.17",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "25θ Ursae Majoris",
+   "Name": "",
+   "RA": "2.4995587",
+   "DEC": 0.9019377,
+   "MAG": "3.17",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "22ζ Draconis",
+   "Name": "",
+   "RA": "4.4889287",
+   "DEC": 1.1469383,
+   "MAG": "3.17",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "27φ Sagitarii",
+   "Name": "",
+   "RA": "4.9116038",
+   "DEC": -0.4710789,
+   "MAG": "3.17",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "1π 3Orionis",
+   "Name": "",
+   "RA": "1.2646656",
+   "DEC": 0.1214992,
+   "MAG": "3.19",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "2ε Leporis",
+   "Name": "",
+   "RA": "1.3328280",
+   "DEC": -0.3904495,
+   "MAG": "3.19",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "α Circini",
+   "Name": "",
+   "RA": "3.8506617",
+   "DEC": -1.1340325,
+   "MAG": "3.19",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "27κ Ophiuchi",
+   "Name": "",
+   "RA": "4.4404158",
+   "DEC": 0.1636246,
+   "MAG": "3.2",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "64ζ Cygni",
+   "Name": "",
+   "RA": "5.5542340",
+   "DEC": 0.5275597,
+   "MAG": "3.2",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "35γ Cephei",
+   "Name": "",
+   "RA": "6.1930681",
+   "DEC": 1.3549427,
+   "MAG": "3.21",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "δ Lupi",
+   "Name": "",
+   "RA": "4.0202423",
+   "DEC": -0.7094327,
+   "MAG": "3.22",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "65θ Aquilae",
+   "Name": "",
+   "RA": "5.2853151",
+   "DEC": -0.0143359,
+   "MAG": "3.23",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "8β Cephei",
+   "Name": "",
+   "RA": "5.6228400",
+   "DEC": 1.2315189,
+   "MAG": "3.23",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "θ1Eridani",
+   "Name": "",
+   "RA": "0.7778133",
+   "DEC": -0.7034501,
+   "MAG": "3.24",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "γ Hydri",
+   "Name": "",
+   "RA": "0.9915143",
+   "DEC": -1.295713,
+   "MAG": "3.24",
+   "Color": "Orange"
+ },
+ {
+   "Description": "2ε Ophiuchi",
+   "Name": "",
+   "RA": "4.2687336",
+   "DEC": -0.0818996,
+   "MAG": "3.24",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "14γ Lyrae",
+   "Name": "",
+   "RA": "4.9695778",
+   "DEC": 0.5705384,
+   "MAG": "3.24",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "σ Puppis",
+   "Name": "",
+   "RA": "1.9601356",
+   "DEC": -0.7557518,
+   "MAG": "3.25",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "58η Serpentis",
+   "Name": "",
+   "RA": "4.8053714",
+   "DEC": -0.0505952,
+   "MAG": "3.26",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "31δ Andromedae",
+   "Name": "",
+   "RA": "0.1716022",
+   "DEC": 0.5386232,
+   "MAG": "3.27",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "α Doradus",
+   "Name": "",
+   "RA": "1.1955360",
+   "DEC": -0.9607165,
+   "MAG": "3.27",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "α Pictoris",
+   "Name": "",
+   "RA": "1.7810649",
+   "DEC": -1.0810812,
+   "MAG": "3.27",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "49π Hydrae",
+   "Name": "",
+   "RA": "3.6929931",
+   "DEC": -0.4656975,
+   "MAG": "3.27",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "42θ Ophiuchi",
+   "Name": "",
+   "RA": "4.5466263",
+   "DEC": -0.4363226,
+   "MAG": "3.27",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "76δ Aquarii",
+   "Name": "",
+   "RA": "5.9980421",
+   "DEC": -0.2761256,
+   "MAG": "3.27",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "7η Geminorum",
+   "Name": "",
+   "RA": "1.6357080",
+   "DEC": 0.3928154,
+   "MAG": "3.28",
+   "Color": "Orange"
+ },
+ {
+   "Description": "20σ Librae",
+   "Name": "",
+   "RA": "3.9447495",
+   "DEC": -0.4412532,
+   "MAG": "3.29",
+   "Color": "Orange"
+ },
+ {
+   "Description": "12ι Draconis",
+   "Name": "",
+   "RA": "4.0357685",
+   "DEC": 1.0291528,
+   "MAG": "3.29",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "β Phoenicis",
+   "Name": "",
+   "RA": "0.2883429",
+   "DEC": -0.8153936,
+   "MAG": "3.31",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "5μ Leporis",
+   "Name": "",
+   "RA": "1.3654220",
+   "DEC": -0.2828403,
+   "MAG": "3.31",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "69δ Ursae Majoris",
+   "Name": "",
+   "RA": "3.2089042",
+   "DEC": 0.9954049,
+   "MAG": "3.31",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ω Carinae",
+   "Name": "",
+   "RA": "2.6779314",
+   "DEC": -1.2223947,
+   "MAG": "3.32",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "40τ Sagitarii",
+   "Name": "",
+   "RA": "5.0044698",
+   "DEC": -0.4829423,
+   "MAG": "3.32",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "η Scorpii",
+   "Name": "",
+   "RA": "4.5036185",
+   "DEC": -0.7546658,
+   "MAG": "3.33",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "7ξ Puppis",
+   "Name": "",
+   "RA": "2.0476857",
+   "DEC": -0.433884,
+   "MAG": "3.34",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "70θ Leonis",
+   "Name": "",
+   "RA": "2.9419270",
+   "DEC": 0.2692946,
+   "MAG": "3.34",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "γ Arae",
+   "Name": "",
+   "RA": "4.5613889",
+   "DEC": -0.983973,
+   "MAG": "3.34",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "64ν Ophiuchi",
+   "Name": "",
+   "RA": "4.7081420",
+   "DEC": -0.1705817,
+   "MAG": "3.34",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "α Reticuli",
+   "Name": "",
+   "RA": "1.1101385",
+   "DEC": -1.0903751,
+   "MAG": "3.35",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "21ζ Cephei",
+   "Name": "",
+   "RA": "5.8069504",
+   "DEC": 1.015801,
+   "MAG": "3.35",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "28η Orionis",
+   "Name": "",
+   "RA": "1.4157965",
+   "DEC": -0.0418346,
+   "MAG": "3.36",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "31ξ Geminorum",
+   "Name": "",
+   "RA": "1.7684112",
+   "DEC": 0.2250699,
+   "MAG": "3.36",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "1o Ursae Majoris",
+   "Name": "",
+   "RA": "2.2264511",
+   "DEC": 1.05973,
+   "MAG": "3.36",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "30δ Aquilae",
+   "Name": "",
+   "RA": "5.0854458",
+   "DEC": 0.0543622,
+   "MAG": "3.36",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "79ζ Virginis",
+   "Name": "",
+   "RA": "3.5547703",
+   "DEC": -0.0103993,
+   "MAG": "3.37",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ε Lupi",
+   "Name": "",
+   "RA": "4.0259583",
+   "DEC": -0.7799779,
+   "MAG": "3.37",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "45ε Cassiopeiae",
+   "Name": "",
+   "RA": "0.4991423",
+   "DEC": 1.1112511,
+   "MAG": "3.38",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "11ε Hydrae",
+   "Name": "",
+   "RA": "2.2984968",
+   "DEC": 0.1120307,
+   "MAG": "3.38",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "43δ Virginis",
+   "Name": "",
+   "RA": "3.3842080",
+   "DEC": 0.0592976,
+   "MAG": "3.38",
+   "Color": "Orange"
+ },
+ {
+   "Description": "25ρ Persei",
+   "Name": "",
+   "RA": "0.8079856",
+   "DEC": 0.6778907,
+   "MAG": "3.39",
+   "Color": "Orange"
+ },
+ {
+   "Description": "78θ2Tauri",
+   "Name": "",
+   "RA": "1.1722577",
+   "DEC": 0.2769983,
+   "MAG": "3.4",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "42ζ Pegasi",
+   "Name": "",
+   "RA": "5.9404972",
+   "DEC": 0.1890434,
+   "MAG": "3.4",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "γ Phoenicis",
+   "Name": "",
+   "RA": "0.3855650",
+   "DEC": -0.7560475,
+   "MAG": "3.41",
+   "Color": "Orange"
+ },
+ {
+   "Description": "2α Trianguli",
+   "Name": "",
+   "RA": "0.4934119",
+   "DEC": 0.516249,
+   "MAG": "3.41",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ν Centauri",
+   "Name": "",
+   "RA": "3.6193984",
+   "DEC": -0.727589,
+   "MAG": "3.41",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ζ Lupi",
+   "Name": "",
+   "RA": "3.9805942",
+   "DEC": -0.909302,
+   "MAG": "3.41",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "η Lupi",
+   "Name": "",
+   "RA": "4.1893211",
+   "DEC": -0.6701531,
+   "MAG": "3.41",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "86μ Herculis",
+   "Name": "",
+   "RA": "4.6533023",
+   "DEC": 0.483815,
+   "MAG": "3.42",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "β Pavonis",
+   "Name": "",
+   "RA": "5.4321555",
+   "DEC": -1.1554613,
+   "MAG": "3.42",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "3η Cephei",
+   "Name": "",
+   "RA": "5.4336027",
+   "DEC": 1.0792922,
+   "MAG": "3.43",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "24η Cassiopeiae",
+   "Name": "",
+   "RA": "0.2142392",
+   "DEC": 1.0090767,
+   "MAG": "3.44",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "36ζ Leonis",
+   "Name": "",
+   "RA": "2.6908177",
+   "DEC": 0.4087076,
+   "MAG": "3.44",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "16λ Aquilae",
+   "Name": "",
+   "RA": "5.0014519",
+   "DEC": -0.0852157,
+   "MAG": "3.44",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "31η Cetii",
+   "Name": "",
+   "RA": "0.2992803",
+   "DEC": -0.1777133,
+   "MAG": "3.45",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "33λ Ursae Majoris",
+   "Name": "",
+   "RA": "2.6925922",
+   "DEC": 0.7489984,
+   "MAG": "3.45",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "10β Lyrae",
+   "Name": "",
+   "RA": "4.9309042",
+   "DEC": 0.5822903,
+   "MAG": "3.45",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "86γ Cetii",
+   "Name": "",
+   "RA": "0.7125307",
+   "DEC": 0.0564759,
+   "MAG": "3.47",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "35λ Tauri",
+   "Name": "",
+   "RA": "1.0501646",
+   "DEC": 0.2179965,
+   "MAG": "3.47",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "22σ Canis Majoris",
+   "Name": "",
+   "RA": "1.8400934",
+   "DEC": -0.4875529,
+   "MAG": "3.47",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "χ Carinae",
+   "Name": "",
+   "RA": "2.0803379",
+   "DEC": -0.9247142,
+   "MAG": "3.47",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "49δ Bootis",
+   "Name": "",
+   "RA": "3.9946369",
+   "DEC": 0.5814516,
+   "MAG": "3.47",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "12γ Sagittae",
+   "Name": "",
+   "RA": "5.2305627",
+   "DEC": 0.3402035,
+   "MAG": "3.47",
+   "Color": "Orange"
+ },
+ {
+   "Description": "54ν Ursae Majoris",
+   "Name": "",
+   "RA": "2.9604202",
+   "DEC": 0.5776022,
+   "MAG": "3.48",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "64α1Herculis",
+   "Name": "",
+   "RA": "4.5145050",
+   "DEC": 0.2511577,
+   "MAG": "3.48",
+   "Color": "Orange"
+ },
+ {
+   "Description": "48μ Pegasi",
+   "Name": "",
+   "RA": "5.9777672",
+   "DEC": 0.4293801,
+   "MAG": "3.48",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ε Gruis",
+   "Name": "",
+   "RA": "5.9714477",
+   "DEC": -0.8956496,
+   "MAG": "3.49",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "52τ Cetii",
+   "Name": "",
+   "RA": "0.4540838",
+   "DEC": -0.2781618,
+   "MAG": "3.5",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "42β Bootis",
+   "Name": "",
+   "RA": "3.9354848",
+   "DEC": 0.7049482,
+   "MAG": "3.5",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "α Telescopii",
+   "Name": "",
+   "RA": "4.8300824",
+   "DEC": -0.8022988,
+   "MAG": "3.51",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "37ξ 2Sagitarii",
+   "Name": "",
+   "RA": "4.9642836",
+   "DEC": -0.3683808,
+   "MAG": "3.51",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "17β Cancri",
+   "Name": "",
+   "RA": "2.1664554",
+   "DEC": 0.1603182,
+   "MAG": "3.52",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "14o Leonis",
+   "Name": "",
+   "RA": "2.5357452",
+   "DEC": 0.1726518,
+   "MAG": "3.52",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "30η Leonis",
+   "Name": "",
+   "RA": "2.6499916",
+   "DEC": 0.2925657,
+   "MAG": "3.52",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "32ι Cephei",
+   "Name": "",
+   "RA": "5.9763564",
+   "DEC": 1.1554177,
+   "MAG": "3.52",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "74ε Tauri",
+   "Name": "",
+   "RA": "1.1720613",
+   "DEC": 0.334759,
+   "MAG": "3.53",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "55δ Geminorum",
+   "Name": "",
+   "RA": "1.9204003",
+   "DEC": 0.3836622,
+   "MAG": "3.53",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "32μ Serpentis",
+   "Name": "",
+   "RA": "4.1434989",
+   "DEC": -0.0598696,
+   "MAG": "3.53",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "44η Herculis",
+   "Name": "",
+   "RA": "4.3759622",
+   "DEC": 0.6793209,
+   "MAG": "3.53",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "26θ Pegasi",
+   "Name": "",
+   "RA": "5.8040924",
+   "DEC": 0.1081716,
+   "MAG": "3.53",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "23δ Eridani",
+   "Name": "",
+   "RA": "0.9741046",
+   "DEC": -0.1704023,
+   "MAG": "3.54",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "39λ Orionis",
+   "Name": "",
+   "RA": "1.4623168",
+   "DEC": 0.1733839,
+   "MAG": "3.54",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "φ Velorum",
+   "Name": "",
+   "RA": "2.6043076",
+   "DEC": -0.9523874,
+   "MAG": "3.54",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ξ Hydrae",
+   "Name": "",
+   "RA": "3.0237902",
+   "DEC": -0.5560231,
+   "MAG": "3.54",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "55ξ Serpentis",
+   "Name": "",
+   "RA": "4.6145924",
+   "DEC": -0.2687565,
+   "MAG": "3.54",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "14ζ Leporis",
+   "Name": "",
+   "RA": "1.5138768",
+   "DEC": -0.2586917,
+   "MAG": "3.55",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ι Lupi",
+   "Name": "",
+   "RA": "3.7498544",
+   "DEC": -0.8038599,
+   "MAG": "3.55",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "8ι Cetii",
+   "Name": "",
+   "RA": "0.0847721",
+   "DEC": -0.1540059,
+   "MAG": "3.56",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "φ Eridani",
+   "Name": "",
+   "RA": "0.5956372",
+   "DEC": -0.8990579,
+   "MAG": "3.56",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "41υ4Eridani",
+   "Name": "",
+   "RA": "1.1252792",
+   "DEC": -0.5898922,
+   "MAG": "3.56",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "12δ Crateris",
+   "Name": "",
+   "RA": "2.9641872",
+   "DEC": -0.2579354,
+   "MAG": "3.56",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "φ1Lupi",
+   "Name": "",
+   "RA": "4.0221403",
+   "DEC": -0.6328806,
+   "MAG": "3.56",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "δ Pavonis",
+   "Name": "",
+   "RA": "5.2740650",
+   "DEC": -1.1550928,
+   "MAG": "3.56",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "51 Andromedae",
+   "Name": "",
+   "RA": "0.4275766",
+   "DEC": 0.8487245,
+   "MAG": "3.57",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "77κ Geminorum",
+   "Name": "",
+   "RA": "2.0265309",
+   "DEC": 0.4258264,
+   "MAG": "3.57",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "μ 2Scorpii",
+   "Name": "",
+   "RA": "4.4171447",
+   "DEC": -0.6635305,
+   "MAG": "3.57",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "44χ Draconis",
+   "Name": "",
+   "RA": "4.8042660",
+   "DEC": 1.2694264,
+   "MAG": "3.57",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "6α2Capricorni",
+   "Name": "",
+   "RA": "5.3147676",
+   "DEC": -0.2189467,
+   "MAG": "3.57",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "54λ Geminorum",
+   "Name": "",
+   "RA": "1.9115428",
+   "DEC": 0.2886823,
+   "MAG": "3.58",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "25ρ Bootis",
+   "Name": "",
+   "RA": "3.8040760",
+   "DEC": 0.5300807,
+   "MAG": "3.58",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "39υ Librae",
+   "Name": "",
+   "RA": "4.0885429",
+   "DEC": -0.4910484,
+   "MAG": "3.58",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ε Crucis",
+   "Name": "",
+   "RA": "3.2347932",
+   "DEC": -1.0541983,
+   "MAG": "3.59",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "45θ Cetii",
+   "Name": "",
+   "RA": "0.3666210",
+   "DEC": -0.1428261,
+   "MAG": "3.6",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "1o Tauri",
+   "Name": "",
+   "RA": "0.8936668",
+   "DEC": 0.1575838,
+   "MAG": "3.6",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "20τ Orionis",
+   "Name": "",
+   "RA": "1.3858205",
+   "DEC": -0.1194581,
+   "MAG": "3.6",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "13γ Leporis",
+   "Name": "",
+   "RA": "1.5030048",
+   "DEC": -0.3917973,
+   "MAG": "3.6",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "34θ Geminorum",
+   "Name": "",
+   "RA": "1.8011289",
+   "DEC": 0.5927332,
+   "MAG": "3.6",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "12κ Ursae Majoris",
+   "Name": "",
+   "RA": "2.3720115",
+   "DEC": 0.8230391,
+   "MAG": "3.6",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ψ Velorum",
+   "Name": "",
+   "RA": "2.4901485",
+   "DEC": -0.7062766,
+   "MAG": "3.6",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "41λ Hydrae",
+   "Name": "",
+   "RA": "2.6641942",
+   "DEC": -0.2156209,
+   "MAG": "3.61",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "5β Virginis",
+   "Name": "",
+   "RA": "3.1009919",
+   "DEC": 0.0308002,
+   "MAG": "3.61",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "99η Piscium",
+   "Name": "",
+   "RA": "0.3991713",
+   "DEC": 0.2678353,
+   "MAG": "3.62",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "δ Muscae",
+   "Name": "",
+   "RA": "3.4132968",
+   "DEC": -1.2487637,
+   "MAG": "3.62",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ζ2Scorpii",
+   "Name": "",
+   "RA": "4.4269549",
+   "DEC": -0.7393457,
+   "MAG": "3.62",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "δ Arae",
+   "Name": "",
+   "RA": "4.5862817",
+   "DEC": -1.0591337,
+   "MAG": "3.62",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "η Pavonis",
+   "Name": "",
+   "RA": "4.6501389",
+   "DEC": -1.129645,
+   "MAG": "3.62",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "1o Andromedae",
+   "Name": "",
+   "RA": "6.0297708",
+   "DEC": 0.73873,
+   "MAG": "3.62",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "41 Arietis",
+   "Name": "",
+   "RA": "0.7416922",
+   "DEC": 0.4757865,
+   "MAG": "3.63",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "27 Tauri",
+   "Name": "",
+   "RA": "0.9999064",
+   "DEC": 0.4198099,
+   "MAG": "3.63",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "6β Delphini",
+   "Name": "",
+   "RA": "5.3998305",
+   "DEC": 0.2547357,
+   "MAG": "3.63",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "λ Muscae",
+   "Name": "",
+   "RA": "3.0787899",
+   "DEC": -1.164634,
+   "MAG": "3.64",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "54γ Tauri",
+   "Name": "",
+   "RA": "1.1335623",
+   "DEC": 0.2727513,
+   "MAG": "3.65",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "29γ Virginis",
+   "Name": "",
+   "RA": "3.3233687",
+   "DEC": -0.0252976,
+   "MAG": "3.65",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "11α Draconis",
+   "Name": "",
+   "RA": "3.6843391",
+   "DEC": 1.1235703,
+   "MAG": "3.65",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "β Indi",
+   "Name": "",
+   "RA": "5.4751415",
+   "DEC": -1.0202177,
+   "MAG": "3.65",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "17ζ Cassiopeiae",
+   "Name": "",
+   "RA": "0.1613193",
+   "DEC": 0.9406791,
+   "MAG": "3.66",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "40 τ Librae",
+   "Name": "",
+   "RA": "4.0956623",
+   "DEC": -0.5197203,
+   "MAG": "3.66",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "θ Arae",
+   "Name": "",
+   "RA": "4.7413251",
+   "DEC": -0.8742645,
+   "MAG": "3.66",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "88 Aquarii",
+   "Name": "",
+   "RA": "6.0626048",
+   "DEC": -0.3695298,
+   "MAG": "3.66",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "23 Ursae Majoris",
+   "Name": "",
+   "RA": "2.4937628",
+   "DEC": 1.1006386,
+   "MAG": "3.67",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "28β Serpentis",
+   "Name": "",
+   "RA": "4.1285254",
+   "DEC": 0.2691637,
+   "MAG": "3.67",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "α Pyxidis",
+   "Name": "",
+   "RA": "2.2845996",
+   "DEC": -0.5792118,
+   "MAG": "3.68",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "29γ Virginis",
+   "Name": "",
+   "RA": "3.3233687",
+   "DEC": -0.0252976,
+   "MAG": "3.68",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "3β Coronae Borealis",
+   "Name": "",
+   "RA": "4.0484148",
+   "DEC": 0.5079926,
+   "MAG": "3.68",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "40γ Capricorni",
+   "Name": "",
+   "RA": "5.6727200",
+   "DEC": -0.2908106,
+   "MAG": "3.68",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "16τ4Eridani",
+   "Name": "",
+   "RA": "0.8705557",
+   "DEC": -0.3797449,
+   "MAG": "3.69",
+   "Color": "Orange"
+ },
+ {
+   "Description": "3π 4Orionis",
+   "Name": "",
+   "RA": "1.2706288",
+   "DEC": 0.0978257,
+   "MAG": "3.69",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "6γ Piscium",
+   "Name": "",
+   "RA": "6.0962824",
+   "DEC": 0.0572856,
+   "MAG": "3.69",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "χ Eridani",
+   "Name": "",
+   "RA": "0.5059637",
+   "DEC": -0.900745,
+   "MAG": "3.7",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "17 Tauri",
+   "Name": "",
+   "RA": "0.9812023",
+   "DEC": 0.4208571,
+   "MAG": "3.7",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "92ξ Herculis",
+   "Name": "",
+   "RA": "4.7026370",
+   "DEC": 0.51047,
+   "MAG": "3.7",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "16η Leporis",
+   "Name": "",
+   "RA": "1.5551102",
+   "DEC": -0.2472744,
+   "MAG": "3.71",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "63χ Ursae Majoris",
+   "Name": "",
+   "RA": "3.0807243",
+   "DEC": 0.8339086,
+   "MAG": "3.71",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "37ε Serpentis",
+   "Name": "",
+   "RA": "4.1487204",
+   "DEC": 0.078152,
+   "MAG": "3.71",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "60β Aquilae",
+   "Name": "",
+   "RA": "5.2155383",
+   "DEC": 0.1118174,
+   "MAG": "3.71",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "8π 5Orionis",
+   "Name": "",
+   "RA": "1.2839151",
+   "DEC": 0.0425957,
+   "MAG": "3.72",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "33δ Aurigae",
+   "Name": "",
+   "RA": "1.5687310",
+   "DEC": 0.9474471,
+   "MAG": "3.72",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "109 Virginis",
+   "Name": "",
+   "RA": "3.8669879",
+   "DEC": 0.0330352,
+   "MAG": "3.72",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "62ξ Cygni",
+   "Name": "",
+   "RA": "5.5193056",
+   "DEC": 0.7666844,
+   "MAG": "3.72",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "65τ Cygni",
+   "Name": "",
+   "RA": "5.5623280",
+   "DEC": 0.6640202,
+   "MAG": "3.72",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "55ζ Cetii",
+   "Name": "",
+   "RA": "0.4863360",
+   "DEC": -0.1803798,
+   "MAG": "3.73",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "18ε Eridani",
+   "Name": "",
+   "RA": "0.9290824",
+   "DEC": -0.1650791,
+   "MAG": "3.73",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "72 Ophiuchi",
+   "Name": "",
+   "RA": "4.7444594",
+   "DEC": 0.1669214,
+   "MAG": "3.73",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "2ξ Tauri",
+   "Name": "",
+   "RA": "0.9039497",
+   "DEC": 0.169869,
+   "MAG": "3.74",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "34ζ Capricorni",
+   "Name": "",
+   "RA": "5.6141424",
+   "DEC": -0.3911525,
+   "MAG": "3.74",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "73λ Aquarii",
+   "Name": "",
+   "RA": "5.9891628",
+   "DEC": -0.1322911,
+   "MAG": "3.74",
+   "Color": "Orange"
+ },
+ {
+   "Description": "8ζ Aurigae",
+   "Name": "",
+   "RA": "1.3198107",
+   "DEC": 0.7169085,
+   "MAG": "3.75",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "20γ Herculis",
+   "Name": "",
+   "RA": "4.2844342",
+   "DEC": 0.3342839,
+   "MAG": "3.75",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "62γ Ophiuchi",
+   "Name": "",
+   "RA": "4.6595637",
+   "DEC": 0.0472499,
+   "MAG": "3.75",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "32ξ Draconis",
+   "Name": "",
+   "RA": "4.6841510",
+   "DEC": 0.9926172,
+   "MAG": "3.75",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "27δ Cephei",
+   "Name": "",
+   "RA": "5.8868719",
+   "DEC": 1.0195389,
+   "MAG": "3.75",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "15η Persei",
+   "Name": "",
+   "RA": "0.7448047",
+   "DEC": 0.9755615,
+   "MAG": "3.76",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "61δ1Tauri",
+   "Name": "",
+   "RA": "1.1472704",
+   "DEC": 0.3061744,
+   "MAG": "3.76",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "β Doradus",
+   "Name": "",
+   "RA": "1.4557137",
+   "DEC": -1.0906514,
+   "MAG": "3.76",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "η Arae",
+   "Name": "",
+   "RA": "4.4060182",
+   "DEC": -1.0304666,
+   "MAG": "3.76",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ν Octantis",
+   "Name": "",
+   "RA": "5.6787560",
+   "DEC": -1.3507103,
+   "MAG": "3.76",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "24ι Pegasi",
+   "Name": "",
+   "RA": "5.7901807",
+   "DEC": 0.4423537,
+   "MAG": "3.76",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "41ν Persei",
+   "Name": "",
+   "RA": "0.9825913",
+   "DEC": 0.743137,
+   "MAG": "3.77",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "β Volantis",
+   "Name": "",
+   "RA": "2.2066925",
+   "DEC": -1.1543074,
+   "MAG": "3.77",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "39o Sagitarii",
+   "Name": "",
+   "RA": "4.9946233",
+   "DEC": -0.3794637,
+   "MAG": "3.77",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "1κ Cygni",
+   "Name": "",
+   "RA": "5.0488157",
+   "DEC": 0.931458,
+   "MAG": "3.77",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "9α Delphini",
+   "Name": "",
+   "RA": "5.4089426",
+   "DEC": 0.2777158,
+   "MAG": "3.77",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "2ε Aquarii",
+   "Name": "",
+   "RA": "5.4440165",
+   "DEC": -0.1657336,
+   "MAG": "3.77",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "7α Lacertae",
+   "Name": "",
+   "RA": "5.8961222",
+   "DEC": 0.8775952,
+   "MAG": "3.77",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "γ2Volantis",
+   "Name": "",
+   "RA": "1.8707675",
+   "DEC": -1.2304377,
+   "MAG": "3.78",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "43ζ Geminorum",
+   "Name": "",
+   "RA": "1.8505217",
+   "DEC": 0.3590191,
+   "MAG": "3.79",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "60ι Geminorum",
+   "Name": "",
+   "RA": "1.9448495",
+   "DEC": 0.4851676,
+   "MAG": "3.79",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "10ι2Cygni",
+   "Name": "",
+   "RA": "5.1038009",
+   "DEC": 0.902854,
+   "MAG": "3.79",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "31 Cygni",
+   "Name": "",
+   "RA": "5.2954671",
+   "DEC": 0.8157911,
+   "MAG": "3.79",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "27κ Persei",
+   "Name": "",
+   "RA": "0.8268352",
+   "DEC": 0.7829062,
+   "MAG": "3.8",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "29υ Ursae Majoris",
+   "Name": "",
+   "RA": "2.5786803",
+   "DEC": 1.0304181,
+   "MAG": "3.8",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "41γ2Leonis",
+   "Name": "",
+   "RA": "2.7051585",
+   "DEC": 0.346283,
+   "MAG": "3.8",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "13δ Serpentis",
+   "Name": "",
+   "RA": "4.0788417",
+   "DEC": 0.1839141,
+   "MAG": "3.8",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "13δ Serpentis",
+   "Name": "",
+   "RA": "4.0788417",
+   "DEC": 0.1839432,
+   "MAG": "3.8",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "85ι Herculis",
+   "Name": "",
+   "RA": "4.6227881",
+   "DEC": 0.802963,
+   "MAG": "3.8",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "48σ Orionis",
+   "Name": "",
+   "RA": "1.4780612",
+   "DEC": -0.0453786,
+   "MAG": "3.81",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "15δ Leporis",
+   "Name": "",
+   "RA": "1.5329300",
+   "DEC": -0.3644102,
+   "MAG": "3.81",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "42μ Hydrae",
+   "Name": "",
+   "RA": "2.7318330",
+   "DEC": -0.2938504,
+   "MAG": "3.81",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "52υ2Eridani",
+   "Name": "",
+   "RA": "1.2023137",
+   "DEC": -0.5334114,
+   "MAG": "3.82",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "38 Lyncis",
+   "Name": "",
+   "RA": "2.4384213",
+   "DEC": 0.6423248,
+   "MAG": "3.82",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "10λ Ophiuchi",
+   "Name": "",
+   "RA": "4.3236751",
+   "DEC": 0.0346254,
+   "MAG": "3.82",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "7δ Sagittae",
+   "Name": "",
+   "RA": "5.1809590",
+   "DEC": 0.3234822,
+   "MAG": "3.82",
+   "Color": "Orange"
+ },
+ {
+   "Description": "16λ Andromedae",
+   "Name": "",
+   "RA": "6.1852942",
+   "DEC": 0.810846,
+   "MAG": "3.82",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "38o Persei",
+   "Name": "",
+   "RA": "0.9787734",
+   "DEC": 0.5635377,
+   "MAG": "3.83",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "46 Leonis Minoris",
+   "Name": "",
+   "RA": "2.8506099",
+   "DEC": 0.5971644,
+   "MAG": "3.83",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "φ Centauri",
+   "Name": "",
+   "RA": "3.6576502",
+   "DEC": -0.7347982,
+   "MAG": "3.83",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "α Apodis",
+   "Name": "",
+   "RA": "3.8740201",
+   "DEC": -1.3795907,
+   "MAG": "3.83",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "103o Herculis",
+   "Name": "",
+   "RA": "4.7453030",
+   "DEC": 0.5020003,
+   "MAG": "3.83",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "63ε Draconis",
+   "Name": "",
+   "RA": "5.1843842",
+   "DEC": 1.2264041,
+   "MAG": "3.83",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "77θ1Tauri",
+   "Name": "",
+   "RA": "1.1718795",
+   "DEC": 0.2785933,
+   "MAG": "3.84",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "1λ Draconis",
+   "Name": "",
+   "RA": "3.0168162",
+   "DEC": 1.2100562,
+   "MAG": "3.84",
+   "Color": "Orange"
+ },
+ {
+   "Description": "8γ Coronae Borealis",
+   "Name": "",
+   "RA": "4.1134938",
+   "DEC": 0.458944,
+   "MAG": "3.84",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "109 Herculis",
+   "Name": "",
+   "RA": "4.8157925",
+   "DEC": 0.3799533,
+   "MAG": "3.84",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "48γ Aquarii",
+   "Name": "",
+   "RA": "5.8540816",
+   "DEC": -0.0242116,
+   "MAG": "3.84",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "β Reticuli",
+   "Name": "",
+   "RA": "0.9782570",
+   "DEC": -1.1310946,
+   "MAG": "3.85",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "β Pictoris",
+   "Name": "",
+   "RA": "1.5153167",
+   "DEC": -0.8912766,
+   "MAG": "3.85",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "δ Columbae",
+   "Name": "",
+   "RA": "1.6672839",
+   "DEC": -0.5835751,
+   "MAG": "3.85",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "28ω Canis Majoris",
+   "Name": "",
+   "RA": "1.8972238",
+   "DEC": -0.4672731,
+   "MAG": "3.85",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "47ρ Leonis",
+   "Name": "",
+   "RA": "2.7611618",
+   "DEC": 0.162432,
+   "MAG": "3.85",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "41γ Serpentis",
+   "Name": "",
+   "RA": "4.1733150",
+   "DEC": 0.2733476,
+   "MAG": "3.85",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "δ Trianguli Australis",
+   "Name": "",
+   "RA": "4.2561526",
+   "DEC": -1.1115226,
+   "MAG": "3.85",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "α Scuti",
+   "Name": "",
+   "RA": "4.8660070",
+   "DEC": -0.1438879,
+   "MAG": "3.85",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "α Horologii",
+   "Name": "",
+   "RA": "1.1082913",
+   "DEC": -0.7381773,
+   "MAG": "3.86",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "τ Centauri",
+   "Name": "",
+   "RA": "3.3061045",
+   "DEC": -0.8472022,
+   "MAG": "3.86",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "91θ Herculis",
+   "Name": "",
+   "RA": "4.6960411",
+   "DEC": 0.6501448,
+   "MAG": "3.86",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "13μ Sagitarii",
+   "Name": "",
+   "RA": "4.7724429",
+   "DEC": -0.3675469,
+   "MAG": "3.86",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "37μ Andromedae",
+   "Name": "",
+   "RA": "0.2476331",
+   "DEC": 0.6719421,
+   "MAG": "3.87",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "α Fornacis",
+   "Name": "",
+   "RA": "0.8380707",
+   "DEC": -0.5059176,
+   "MAG": "3.87",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "20 Tauri",
+   "Name": "",
+   "RA": "0.9853547",
+   "DEC": 0.425298,
+   "MAG": "3.87",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "53 Eridani",
+   "Name": "",
+   "RA": "1.2137892",
+   "DEC": -0.24965,
+   "MAG": "3.87",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ε Columbae",
+   "Name": "",
+   "RA": "1.4451835",
+   "DEC": -0.619078,
+   "MAG": "3.87",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "16o1Canis Majoris",
+   "Name": "",
+   "RA": "1.8069903",
+   "DEC": -0.4220885,
+   "MAG": "3.87",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ Muscae",
+   "Name": "",
+   "RA": "3.2832552",
+   "DEC": -1.2589593,
+   "MAG": "3.87",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "5κ Draconis",
+   "Name": "",
+   "RA": "3.2876913",
+   "DEC": 1.2180362,
+   "MAG": "3.87",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "υ1Centauri",
+   "Name": "",
+   "RA": "3.6594318",
+   "DEC": -0.7819705,
+   "MAG": "3.87",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "κ1Lupi",
+   "Name": "",
+   "RA": "3.9790671",
+   "DEC": -0.8506347,
+   "MAG": "3.87",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ε Phoenicis",
+   "Name": "",
+   "RA": "0.0410661",
+   "DEC": -0.7984445,
+   "MAG": "3.88",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "22θ Hydrae",
+   "Name": "",
+   "RA": "2.4188736",
+   "DEC": 0.0403898,
+   "MAG": "3.88",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "24μ Leonis",
+   "Name": "",
+   "RA": "2.5864180",
+   "DEC": 0.4539068,
+   "MAG": "3.88",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "107μ Virginis",
+   "Name": "",
+   "RA": "3.8530761",
+   "DEC": -0.0987565,
+   "MAG": "3.88",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "5ρ Scorpii",
+   "Name": "",
+   "RA": "4.1751985",
+   "DEC": -0.5098834,
+   "MAG": "3.88",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "3η Eridani",
+   "Name": "",
+   "RA": "0.7698138",
+   "DEC": -0.1553004,
+   "MAG": "3.89",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "π Centauri",
+   "Name": "",
+   "RA": "2.9714521",
+   "DEC": -0.9510493,
+   "MAG": "3.89",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "15η Virginis",
+   "Name": "",
+   "RA": "3.2284519",
+   "DEC": -0.0116404,
+   "MAG": "3.89",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "22τ Herculis",
+   "Name": "",
+   "RA": "4.2749222",
+   "DEC": 0.8083202,
+   "MAG": "3.89",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "γ Apodis",
+   "Name": "",
+   "RA": "4.3347434",
+   "DEC": -1.3770163,
+   "MAG": "3.89",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "21η Cygni",
+   "Name": "",
+   "RA": "5.2198725",
+   "DEC": 0.6123197,
+   "MAG": "3.89",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "55η Aquilae",
+   "Name": "",
+   "RA": "5.2031465",
+   "DEC": 0.0175503,
+   "MAG": "3.9",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ι Gruis",
+   "Name": "",
+   "RA": "6.0665899",
+   "DEC": -0.7897033,
+   "MAG": "3.9",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "38ν Tauri",
+   "Name": "",
+   "RA": "1.0609711",
+   "DEC": 0.1045307,
+   "MAG": "3.91",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "35ι Hydrae",
+   "Name": "",
+   "RA": "2.5301020",
+   "DEC": -0.0199452,
+   "MAG": "3.91",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "σ Centauri",
+   "Name": "",
+   "RA": "3.2639402",
+   "DEC": -0.8766886,
+   "MAG": "3.91",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "38γ Librae",
+   "Name": "",
+   "RA": "4.0820051",
+   "DEC": -0.2581245,
+   "MAG": "3.91",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ζ Phoenicis",
+   "Name": "",
+   "RA": "0.2983859",
+   "DEC": -0.9642217,
+   "MAG": "3.92",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "58ε Herculis",
+   "Name": "",
+   "RA": "4.4518550",
+   "DEC": 0.5397673,
+   "MAG": "3.92",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "8α Equulei",
+   "Name": "",
+   "RA": "5.5668295",
+   "DEC": 0.091591,
+   "MAG": "3.92",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "48ν Eridani",
+   "Name": "",
+   "RA": "1.2056662",
+   "DEC": -0.0585122,
+   "MAG": "3.93",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "26α Monocerotis",
+   "Name": "",
+   "RA": "2.0125682",
+   "DEC": -0.1666983,
+   "MAG": "3.93",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "44ρ1Sagitarii",
+   "Name": "",
+   "RA": "5.0687561",
+   "DEC": -0.3114928,
+   "MAG": "3.93",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "κ Phoenicis",
+   "Name": "",
+   "RA": "0.1143336",
+   "DEC": -0.7623598,
+   "MAG": "3.94",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "47δ Cancri",
+   "Name": "",
+   "RA": "2.2893702",
+   "DEC": 0.31685,
+   "MAG": "3.94",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "78ι Leonis",
+   "Name": "",
+   "RA": "2.9841858",
+   "DEC": 0.1837686,
+   "MAG": "3.94",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "58ν Cygni",
+   "Name": "",
+   "RA": "5.4854535",
+   "DEC": 0.7185036,
+   "MAG": "3.94",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "δ Phoenicis",
+   "Name": "",
+   "RA": "0.3981605",
+   "DEC": -0.8564815,
+   "MAG": "3.95",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "18τ Persei",
+   "Name": "",
+   "RA": "0.7603454",
+   "DEC": 0.9208793,
+   "MAG": "3.95",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "7ν 2Canis Majoris",
+   "Name": "",
+   "RA": "1.7308576",
+   "DEC": -0.3360777,
+   "MAG": "3.95",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ζ Volantis",
+   "Name": "",
+   "RA": "2.0150699",
+   "DEC": -1.2672157,
+   "MAG": "3.95",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "79ζ Ursae Majoris",
+   "Name": "",
+   "RA": "3.5078500",
+   "DEC": 0.9585639,
+   "MAG": "3.95",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "5χ Lupi",
+   "Name": "",
+   "RA": "4.1493385",
+   "DEC": -0.5869057,
+   "MAG": "3.95",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "47λ Pegasi",
+   "Name": "",
+   "RA": "5.9626192",
+   "DEC": 0.4112965,
+   "MAG": "3.95",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "43 Eridani",
+   "Name": "",
+   "RA": "1.1520773",
+   "DEC": -0.5937077,
+   "MAG": "3.96",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "η Columbae",
+   "Name": "",
+   "RA": "1.5670730",
+   "DEC": -0.7472676,
+   "MAG": "3.96",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "13κ Canis Majoris",
+   "Name": "",
+   "RA": "1.7882716",
+   "DEC": -0.5673823,
+   "MAG": "3.96",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "3 Puppis",
+   "Name": "",
+   "RA": "2.0237456",
+   "DEC": -0.5053552,
+   "MAG": "3.96",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ρ Centauri",
+   "Name": "",
+   "RA": "3.1924326",
+   "DEC": -0.9140047,
+   "MAG": "3.96",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "9ω1Scorpii",
+   "Name": "",
+   "RA": "4.2184899",
+   "DEC": -0.360745,
+   "MAG": "3.96",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ε Pavonis",
+   "Name": "",
+   "RA": "5.2385694",
+   "DEC": -1.2725293,
+   "MAG": "3.96",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "32ν Aurigae",
+   "Name": "",
+   "RA": "1.5336644",
+   "DEC": 0.6832722,
+   "MAG": "3.97",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "β Pyxidis",
+   "Name": "",
+   "RA": "2.2693789",
+   "DEC": -0.6162467,
+   "MAG": "3.97",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "67 Ophiuchi",
+   "Name": "",
+   "RA": "4.7152033",
+   "DEC": 0.0511672,
+   "MAG": "3.97",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "α Sagitarii",
+   "Name": "",
+   "RA": "5.0784136",
+   "DEC": -0.7088849,
+   "MAG": "3.97",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "δ1Gruis",
+   "Name": "",
+   "RA": "5.8873010",
+   "DEC": -0.7591407,
+   "MAG": "3.97",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "98 Aquarii",
+   "Name": "",
+   "RA": "6.1216115",
+   "DEC": -0.3508209,
+   "MAG": "3.97",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "50 Cassiopeiae",
+   "Name": "",
+   "RA": "0.5385868",
+   "DEC": 1.2639917,
+   "MAG": "3.98",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "5γ Monocerotis",
+   "Name": "",
+   "RA": "1.6356135",
+   "DEC": -0.1095146,
+   "MAG": "3.98",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "δ Volantis",
+   "Name": "",
+   "RA": "1.9060304",
+   "DEC": -1.1860773,
+   "MAG": "3.98",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "32 Cygni",
+   "Name": "",
+   "RA": "5.3034956",
+   "DEC": 0.8327742,
+   "MAG": "3.98",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ Tucanae",
+   "Name": "",
+   "RA": "6.0974386",
+   "DEC": -1.016407,
+   "MAG": "3.99",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "59υ Cetii",
+   "Name": "",
+   "RA": "0.5236206",
+   "DEC": -0.3678766,
+   "MAG": "4",
+   "Color": "Orange"
+ },
+ {
+   "Description": "α Volantis",
+   "Name": "",
+   "RA": "2.3668701",
+   "DEC": -1.1588307,
+   "MAG": "4",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "9γ Trianguli",
+   "Name": "",
+   "RA": "0.5991497",
+   "DEC": 0.5907455,
+   "MAG": "4.01",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "γ Pyxidis",
+   "Name": "",
+   "RA": "2.3148811",
+   "DEC": -0.4836307,
+   "MAG": "4.01",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "80 Ursae Majoris",
+   "Name": "",
+   "RA": "3.5134569",
+   "DEC": 0.9597226,
+   "MAG": "4.01",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "13θ Draconis",
+   "Name": "",
+   "RA": "4.1970296",
+   "DEC": 1.0221569,
+   "MAG": "4.01",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "14ν Scorpii",
+   "Name": "",
+   "RA": "4.2411283",
+   "DEC": -0.3396508,
+   "MAG": "4.01",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ζ Pavonis",
+   "Name": "",
+   "RA": "4.9001646",
+   "DEC": -1.2466547,
+   "MAG": "4.01",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "β1Sagitarii",
+   "Name": "",
+   "RA": "5.0729667",
+   "DEC": -0.775954,
+   "MAG": "4.01",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "41 Cygni",
+   "Name": "",
+   "RA": "5.3642476",
+   "DEC": 0.5300323,
+   "MAG": "4.01",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "71τ2Aquarii",
+   "Name": "",
+   "RA": "5.9759710",
+   "DEC": -0.2372339,
+   "MAG": "4.01",
+   "Color": "Orange"
+ },
+ {
+   "Description": "28ω Piscium",
+   "Name": "",
+   "RA": "6.2801819",
+   "DEC": 0.1197878,
+   "MAG": "4.01",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "57μ Eridani",
+   "Name": "",
+   "RA": "1.2457360",
+   "DEC": -0.0568056,
+   "MAG": "4.02",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "48ι Cancri",
+   "Name": "",
+   "RA": "2.2981477",
+   "DEC": 0.5019567,
+   "MAG": "4.02",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "1α Corvi",
+   "Name": "",
+   "RA": "3.1783027",
+   "DEC": -0.4316005,
+   "MAG": "4.02",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "γ2Normae",
+   "Name": "",
+   "RA": "4.2753585",
+   "DEC": -0.8753796,
+   "MAG": "4.02",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "13ε Aquilae",
+   "Name": "",
+   "RA": "4.9725448",
+   "DEC": 0.262992,
+   "MAG": "4.02",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "12 Aquilae",
+   "Name": "",
+   "RA": "4.9815188",
+   "DEC": -0.1001625,
+   "MAG": "4.02",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "73ρ Cygni",
+   "Name": "",
+   "RA": "5.6460601",
+   "DEC": 0.7957295,
+   "MAG": "4.02",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "62η Aquarii",
+   "Name": "",
+   "RA": "5.9138591",
+   "DEC": -0.0020508,
+   "MAG": "4.02",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "10β Camelopardalis",
+   "Name": "",
+   "RA": "1.3239122",
+   "DEC": 1.0549158,
+   "MAG": "4.03",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "3ν Virginis",
+   "Name": "",
+   "RA": "3.0798953",
+   "DEC": 0.1139603,
+   "MAG": "4.03",
+   "Color": "Orange"
+ },
+ {
+   "Description": "μ 1Crucis",
+   "Name": "",
+   "RA": "3.3798010",
+   "DEC": -0.9979405,
+   "MAG": "4.03",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "70 Ophiuchi",
+   "Name": "",
+   "RA": "4.7361909",
+   "DEC": 0.0436235,
+   "MAG": "4.03",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "2ε Delphini",
+   "Name": "",
+   "RA": "5.3809083",
+   "DEC": 0.1972804,
+   "MAG": "4.03",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "46ξ Persei",
+   "Name": "",
+   "RA": "1.0426815",
+   "DEC": 0.6246727,
+   "MAG": "4.04",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "48 Persei",
+   "Name": "",
+   "RA": "1.0849912",
+   "DEC": 0.8327402,
+   "MAG": "4.04",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "38o1Eridani",
+   "Name": "",
+   "RA": "1.0989684",
+   "DEC": -0.1193369,
+   "MAG": "4.04",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ζ Crucis",
+   "Name": "",
+   "RA": "3.2220305",
+   "DEC": -1.1170641,
+   "MAG": "4.04",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "13 Lyrae",
+   "Name": "",
+   "RA": "4.9538335",
+   "DEC": 0.7670043,
+   "MAG": "4.04",
+   "Color": "Orange"
+ },
+ {
+   "Description": "ι Persei",
+   "Name": "",
+   "RA": "0.8249590",
+   "DEC": 0.865916,
+   "MAG": "4.05",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "77σ Leonis",
+   "Name": "",
+   "RA": "2.9720194",
+   "DEC": 0.1052337,
+   "MAG": "4.05",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ψ Centauri",
+   "Name": "",
+   "RA": "3.7548868",
+   "DEC": -0.6612228,
+   "MAG": "4.05",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "23θ Bootis",
+   "Name": "",
+   "RA": "3.7751326",
+   "DEC": 0.9049678,
+   "MAG": "4.05",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ρ Lupi",
+   "Name": "",
+   "RA": "3.8305032",
+   "DEC": -0.8626435,
+   "MAG": "4.05",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "λ Lupi",
+   "Name": "",
+   "RA": "3.9655771",
+   "DEC": -0.7902802,
+   "MAG": "4.05",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "34ζ Andromedae",
+   "Name": "",
+   "RA": "0.2065524",
+   "DEC": 0.4235429,
+   "MAG": "4.06",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "69υ Geminorum",
+   "Name": "",
+   "RA": "1.9893336",
+   "DEC": 0.4694208,
+   "MAG": "4.06",
+   "Color": "Orange"
+ },
+ {
+   "Description": "ε1Arae",
+   "Name": "",
+   "RA": "4.4487788",
+   "DEC": -0.9278267,
+   "MAG": "4.06",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "φ Persei",
+   "Name": "",
+   "RA": "0.4523021",
+   "DEC": 0.8846832,
+   "MAG": "4.07",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "82δ Cetii",
+   "Name": "",
+   "RA": "0.6958773",
+   "DEC": 0.0057353,
+   "MAG": "4.07",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "9o2Orionis",
+   "Name": "",
+   "RA": "1.2931653",
+   "DEC": 0.2358716,
+   "MAG": "4.07",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "14θ Canis Majoris",
+   "Name": "",
+   "RA": "1.8072448",
+   "DEC": -0.2101134,
+   "MAG": "4.07",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "α Chamaeleontis",
+   "Name": "",
+   "RA": "2.1752329",
+   "DEC": -1.3425024,
+   "MAG": "4.07",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "5υ Bootis",
+   "Name": "",
+   "RA": "3.6192747",
+   "DEC": 0.2757232,
+   "MAG": "4.07",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "β Circini",
+   "Name": "",
+   "RA": "4.0034071",
+   "DEC": -1.026273,
+   "MAG": "4.07",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "23θ Capricorni",
+   "Name": "",
+   "RA": "5.5237344",
+   "DEC": -0.3007687,
+   "MAG": "4.07",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "7α Crateris",
+   "Name": "",
+   "RA": "2.8788115",
+   "DEC": -0.3193759,
+   "MAG": "4.08",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "15γ Crateris",
+   "Name": "",
+   "RA": "2.9883600",
+   "DEC": -0.3086421,
+   "MAG": "4.08",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "99ι Virginis",
+   "Name": "",
+   "RA": "3.7350700",
+   "DEC": -0.1047295,
+   "MAG": "4.08",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "1 Pegasi",
+   "Name": "",
+   "RA": "5.5941584",
+   "DEC": 0.3456528,
+   "MAG": "4.08",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "μ Cephei",
+   "Name": "",
+   "RA": "5.6876208",
+   "DEC": 1.0259045,
+   "MAG": "4.08",
+   "Color": "Orange"
+ },
+ {
+   "Description": "50υ Andromedae",
+   "Name": "",
+   "RA": "0.4223551",
+   "DEC": 0.7226633,
+   "MAG": "4.09",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "δ Hydri",
+   "Name": "",
+   "RA": "0.6184938",
+   "DEC": -1.1983334,
+   "MAG": "4.09",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "11τ3Eridani",
+   "Name": "",
+   "RA": "0.7958338",
+   "DEC": -0.4123243,
+   "MAG": "4.09",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "40φ2Orionis",
+   "Name": "",
+   "RA": "1.4700254",
+   "DEC": 0.1621508,
+   "MAG": "4.09",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "35κ Serpentis",
+   "Name": "",
+   "RA": "4.1396592",
+   "DEC": 0.3166318,
+   "MAG": "4.09",
+   "Color": "Orange"
+ },
+ {
+   "Description": "ι Eridani",
+   "Name": "",
+   "RA": "0.7010406",
+   "DEC": -0.6956107,
+   "MAG": "4.11",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ε Hydri",
+   "Name": "",
+   "RA": "0.6963427",
+   "DEC": -1.191483,
+   "MAG": "4.11",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "5 Tauri",
+   "Name": "",
+   "RA": "0.9201085",
+   "DEC": 0.2257874,
+   "MAG": "4.11",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ Chamaeleontis",
+   "Name": "",
+   "RA": "2.7727537",
+   "DEC": -1.3719645,
+   "MAG": "4.11",
+   "Color": "Orange"
+ },
+ {
+   "Description": "ε Muscae",
+   "Name": "",
+   "RA": "3.2182490",
+   "DEC": -1.1861403,
+   "MAG": "4.11",
+   "Color": "Orange"
+ },
+ {
+   "Description": "ε Trianguli Australis",
+   "Name": "",
+   "RA": "4.0872120",
+   "DEC": -1.157449,
+   "MAG": "4.11",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "α Coronae Australis",
+   "Name": "",
+   "RA": "5.0155163",
+   "DEC": -0.6615574,
+   "MAG": "4.11",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "β Coronae Australis",
+   "Name": "",
+   "RA": "5.0179452",
+   "DEC": -0.6866271,
+   "MAG": "4.11",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "18ω Capricorni",
+   "Name": "",
+   "RA": "5.4621024",
+   "DEC": -0.4698281,
+   "MAG": "4.11",
+   "Color": "Orange"
+ },
+ {
+   "Description": "δ2Gruis",
+   "Name": "",
+   "RA": "5.8894318",
+   "DEC": -0.7635719,
+   "MAG": "4.11",
+   "Color": "Orange"
+ },
+ {
+   "Description": "13θ Persei",
+   "Name": "",
+   "RA": "0.7164577",
+   "DEC": 0.8591965,
+   "MAG": "4.12",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "61μ Orionis",
+   "Name": "",
+   "RA": "1.5811956",
+   "DEC": 0.1683806,
+   "MAG": "4.12",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "23γ Canis Majoris",
+   "Name": "",
+   "RA": "1.8489945",
+   "DEC": -0.2728531,
+   "MAG": "4.12",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "39υ1Hydrae",
+   "Name": "",
+   "RA": "2.5808111",
+   "DEC": -0.2591232,
+   "MAG": "4.12",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "9o Virginis",
+   "Name": "",
+   "RA": "3.1643183",
+   "DEC": 0.1524206,
+   "MAG": "4.12",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ζ Gruis",
+   "Name": "",
+   "RA": "6.0252256",
+   "DEC": -0.9207339,
+   "MAG": "4.12",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ζ Telescopii",
+   "Name": "",
+   "RA": "4.8381909",
+   "DEC": -0.8564476,
+   "MAG": "4.13",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ι Sagitarii",
+   "Name": "",
+   "RA": "5.2153129",
+   "DEC": -0.7307403,
+   "MAG": "4.13",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "10κ Pegasi",
+   "Name": "",
+   "RA": "5.6925877",
+   "DEC": 0.4475897,
+   "MAG": "4.13",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "1 Lacertae",
+   "Name": "",
+   "RA": "5.8292688",
+   "DEC": 0.6588424,
+   "MAG": "4.13",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "17ι Piscium",
+   "Name": "",
+   "RA": "6.1957007",
+   "DEC": 0.098199,
+   "MAG": "4.13",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "51μ Persei",
+   "Name": "",
+   "RA": "1.1122038",
+   "DEC": 0.8449042,
+   "MAG": "4.14",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "29 Orionis",
+   "Name": "",
+   "RA": "1.4134840",
+   "DEC": -0.1362763,
+   "MAG": "4.14",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "4θ Coronae Borealis",
+   "Name": "",
+   "RA": "4.0706750",
+   "DEC": 0.5473207,
+   "MAG": "4.14",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "16ψ Capricorni",
+   "Name": "",
+   "RA": "5.4371151",
+   "DEC": -0.4410592,
+   "MAG": "4.14",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "19κ Andromedae",
+   "Name": "",
+   "RA": "6.1977005",
+   "DEC": 0.7737723,
+   "MAG": "4.14",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "18ν Geminorum",
+   "Name": "",
+   "RA": "1.6971727",
+   "DEC": 0.3527698,
+   "MAG": "4.15",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "22δ Monocerotis",
+   "Name": "",
+   "RA": "1.8843665",
+   "DEC": -0.0086006,
+   "MAG": "4.15",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "η Crucis",
+   "Name": "",
+   "RA": "3.1716196",
+   "DEC": -1.1277203,
+   "MAG": "4.15",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "46θ Librae",
+   "Name": "",
+   "RA": "4.1618467",
+   "DEC": -0.2919839,
+   "MAG": "4.15",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "13ε Coronae Borealis",
+   "Name": "",
+   "RA": "4.1782673",
+   "DEC": 0.4691057,
+   "MAG": "4.15",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "β Octantis",
+   "Name": "",
+   "RA": "5.9605394",
+   "DEC": -1.420378,
+   "MAG": "4.15",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "15κ Cassiopeiae",
+   "Name": "",
+   "RA": "0.1439897",
+   "DEC": 1.0983648,
+   "MAG": "4.16",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "1 Geminorum",
+   "Name": "",
+   "RA": "1.5887732",
+   "DEC": 0.4060218,
+   "MAG": "4.16",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "4δ Hydrae",
+   "Name": "",
+   "RA": "2.2587033",
+   "DEC": 0.0995468,
+   "MAG": "4.16",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "43θ Aquarii",
+   "Name": "",
+   "RA": "5.8330358",
+   "DEC": -0.1358448,
+   "MAG": "4.16",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "44 Ophiuchi",
+   "Name": "",
+   "RA": "4.5656504",
+   "DEC": -0.4219382,
+   "MAG": "4.17",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "18ε Piscis Austrini",
+   "Name": "",
+   "RA": "5.9369847",
+   "DEC": -0.4720001,
+   "MAG": "4.17",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "23 Tauri",
+   "Name": "",
+   "RA": "0.9875364",
+   "DEC": 0.4179773,
+   "MAG": "4.18",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "62ρ Geminorum",
+   "Name": "",
+   "RA": "1.9596193",
+   "DEC": 0.5547432,
+   "MAG": "4.18",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "19λ Bootis",
+   "Name": "",
+   "RA": "3.7366772",
+   "DEC": 0.8043932,
+   "MAG": "4.18",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "2 Centauri",
+   "Name": "",
+   "RA": "3.6191366",
+   "DEC": -0.6012805,
+   "MAG": "4.19",
+   "Color": "Orange"
+ },
+ {
+   "Description": "98κ Virginis",
+   "Name": "",
+   "RA": "3.7214638",
+   "DEC": -0.1793083,
+   "MAG": "4.19",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "110 Herculis",
+   "Name": "",
+   "RA": "4.9116256",
+   "DEC": 0.3586021,
+   "MAG": "4.19",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "23ε Cephei",
+   "Name": "",
+   "RA": "5.8251818",
+   "DEC": 0.9955988,
+   "MAG": "4.19",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "46ξ Pegasi",
+   "Name": "",
+   "RA": "5.9633246",
+   "DEC": 0.2124551,
+   "MAG": "4.19",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "32 Orionis",
+   "Name": "",
+   "RA": "1.4433218",
+   "DEC": 0.1038132,
+   "MAG": "4.2",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "11 Puppis",
+   "Name": "",
+   "RA": "2.0806870",
+   "DEC": -0.3993313,
+   "MAG": "4.2",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "35σ Herculis",
+   "Name": "",
+   "RA": "4.3375941",
+   "DEC": 0.7406644,
+   "MAG": "4.2",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "50ζ Orionis",
+   "Name": "",
+   "RA": "1.4868460",
+   "DEC": -0.0339079,
+   "MAG": "4.21",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "31β Leonis Minoris",
+   "Name": "",
+   "RA": "2.7396579",
+   "DEC": 0.6406619,
+   "MAG": "4.21",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "23δ Piscis Austrini",
+   "Name": "",
+   "RA": "6.0037072",
+   "DEC": -0.5679253,
+   "MAG": "4.21",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "91ψ1Aquarii",
+   "Name": "",
+   "RA": "6.0907264",
+   "DEC": -0.1586116,
+   "MAG": "4.21",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "65κ1Tauri",
+   "Name": "",
+   "RA": "1.1578878",
+   "DEC": 0.3891018,
+   "MAG": "4.22",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "43φ Draconis",
+   "Name": "",
+   "RA": "4.8029643",
+   "DEC": 1.2450791,
+   "MAG": "4.22",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "β Scuti",
+   "Name": "",
+   "RA": "4.9182287",
+   "DEC": -0.0828644,
+   "MAG": "4.22",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "λ Pavonis",
+   "Name": "",
+   "RA": "4.9402272",
+   "DEC": -1.0853766,
+   "MAG": "4.22",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "2θ Cephei",
+   "Name": "",
+   "RA": "5.3650621",
+   "DEC": 1.0994556,
+   "MAG": "4.22",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "52 Cygni",
+   "Name": "",
+   "RA": "5.4352244",
+   "DEC": 0.5361603,
+   "MAG": "4.22",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ Pavonis",
+   "Name": "",
+   "RA": "5.6131680",
+   "DEC": -1.1408539,
+   "MAG": "4.22",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "90φ Aquarii",
+   "Name": "",
+   "RA": "6.0838833",
+   "DEC": -0.105573,
+   "MAG": "4.22",
+   "Color": "Orange"
+ },
+ {
+   "Description": "ζ Tucanae",
+   "Name": "",
+   "RA": "0.0875792",
+   "DEC": -1.1322775,
+   "MAG": "4.23",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "16 Persei",
+   "Name": "",
+   "RA": "0.7443175",
+   "DEC": 0.6687859,
+   "MAG": "4.23",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "37ψ Persei",
+   "Name": "",
+   "RA": "0.9446158",
+   "DEC": 0.8411226,
+   "MAG": "4.23",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "27τ6Eridani",
+   "Name": "",
+   "RA": "0.9898126",
+   "DEC": -0.4057842,
+   "MAG": "4.23",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "1 Centauri",
+   "Name": "",
+   "RA": "3.6027377",
+   "DEC": -0.5767247,
+   "MAG": "4.23",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "θ Lupi",
+   "Name": "",
+   "RA": "4.2175518",
+   "DEC": -0.6423199,
+   "MAG": "4.23",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "22ε Ursae Minoris",
+   "Name": "",
+   "RA": "4.3893649",
+   "DEC": 1.4318196,
+   "MAG": "4.23",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "χ Cygni",
+   "Name": "",
+   "RA": "5.1948198",
+   "DEC": 0.5744606,
+   "MAG": "4.23",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "67σ Cygni",
+   "Name": "",
+   "RA": "5.5737817",
+   "DEC": 0.6875676,
+   "MAG": "4.23",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "81π 2Cygni",
+   "Name": "",
+   "RA": "5.7019616",
+   "DEC": 0.8606122,
+   "MAG": "4.23",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "β Apodis",
+   "Name": "",
+   "RA": "4.3767476",
+   "DEC": -1.3529356,
+   "MAG": "4.24",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "5α1Capricorni",
+   "Name": "",
+   "RA": "5.3129931",
+   "DEC": -0.2183116,
+   "MAG": "4.24",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "42φ Andromedae",
+   "Name": "",
+   "RA": "0.3032655",
+   "DEC": 0.8245275,
+   "MAG": "4.25",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "κ Eridani",
+   "Name": "",
+   "RA": "0.6413431",
+   "DEC": -0.8325899,
+   "MAG": "4.25",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "89π Cetii",
+   "Name": "",
+   "RA": "0.7161231",
+   "DEC": -0.2418784,
+   "MAG": "4.25",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "γ Doradus",
+   "Name": "",
+   "RA": "1.1171271",
+   "DEC": -0.8986119,
+   "MAG": "4.25",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "58 Persei",
+   "Name": "",
+   "RA": "1.2072879",
+   "DEC": 0.7202053,
+   "MAG": "4.25",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "88 Tauri",
+   "Name": "",
+   "RA": "1.2027718",
+   "DEC": 0.17734,
+   "MAG": "4.25",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "31 Lyncis",
+   "Name": "",
+   "RA": "2.1940316",
+   "DEC": 0.7537738,
+   "MAG": "4.25",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "65α Cancri",
+   "Name": "",
+   "RA": "2.3495913",
+   "DEC": 0.2069573,
+   "MAG": "4.25",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "α Antliae",
+   "Name": "",
+   "RA": "2.7364654",
+   "DEC": -0.542235,
+   "MAG": "4.25",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "5 Ursae Minoris",
+   "Name": "",
+   "RA": "3.7852919",
+   "DEC": 1.3211464,
+   "MAG": "4.25",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "110o Piscium",
+   "Name": "",
+   "RA": "0.4598652",
+   "DEC": 0.1598334,
+   "MAG": "4.26",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "35π Aurigae",
+   "Name": "",
+   "RA": "1.5705127",
+   "DEC": 0.8017509,
+   "MAG": "4.26",
+   "Color": "Orange"
+ },
+ {
+   "Description": "β Chamaeleontis",
+   "Name": "",
+   "RA": "3.2216378",
+   "DEC": -1.3842594,
+   "MAG": "4.26",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "8β Canum Venaticorum",
+   "Name": "",
+   "RA": "3.2888184",
+   "DEC": 0.7218245,
+   "MAG": "4.26",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "43β Comae Berenices",
+   "Name": "",
+   "RA": "3.4551992",
+   "DEC": 0.4865639,
+   "MAG": "4.26",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "93τ Virginis",
+   "Name": "",
+   "RA": "3.6723764",
+   "DEC": 0.0269556,
+   "MAG": "4.26",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "11φ Herculis",
+   "Name": "",
+   "RA": "4.2270565",
+   "DEC": 0.7842637,
+   "MAG": "4.26",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "56o Serpentis",
+   "Name": "",
+   "RA": "4.6312966",
+   "DEC": -0.224716,
+   "MAG": "4.26",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "87μ Cetii",
+   "Name": "",
+   "RA": "0.7196938",
+   "DEC": 0.1765255,
+   "MAG": "4.27",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "19τ5Eridani",
+   "Name": "",
+   "RA": "0.9328276",
+   "DEC": -0.3775632,
+   "MAG": "4.27",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "90 Tauri",
+   "Name": "",
+   "RA": "1.2136947",
+   "DEC": 0.2183552,
+   "MAG": "4.27",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "69λ Eridani",
+   "Name": "",
+   "RA": "1.3489068",
+   "DEC": -0.152789,
+   "MAG": "4.27",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "γ1Velorum",
+   "Name": "",
+   "RA": "2.1357958",
+   "DEC": -0.8263407,
+   "MAG": "4.27",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ξ 2Centauri",
+   "Name": "",
+   "RA": "3.4335426",
+   "DEC": -0.871026,
+   "MAG": "4.27",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "μ Lupi",
+   "Name": "",
+   "RA": "4.0078577",
+   "DEC": -0.8355764,
+   "MAG": "4.27",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "12γ2Delphini",
+   "Name": "",
+   "RA": "5.4395731",
+   "DEC": 0.2814198,
+   "MAG": "4.27",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "33ι Aquarii",
+   "Name": "",
+   "RA": "5.7876718",
+   "DEC": -0.2420723,
+   "MAG": "4.27",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "71ε Piscium",
+   "Name": "",
+   "RA": "0.2746421",
+   "DEC": 0.1377065,
+   "MAG": "4.28",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "73ξ 2Ceti",
+   "Name": "",
+   "RA": "0.6464627",
+   "DEC": 0.1476549,
+   "MAG": "4.28",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "10 Tauri",
+   "Name": "",
+   "RA": "0.9462884",
+   "DEC": 0.0070104,
+   "MAG": "4.28",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "69υ Tauri",
+   "Name": "",
+   "RA": "1.1619893",
+   "DEC": 0.3981726,
+   "MAG": "4.28",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "94 τ Tauri",
+   "Name": "",
+   "RA": "1.2315261",
+   "DEC": 0.4006743,
+   "MAG": "4.28",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "75σ Geminorum",
+   "Name": "",
+   "RA": "2.0215785",
+   "DEC": 0.5041141,
+   "MAG": "4.28",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "β Hydrae",
+   "Name": "",
+   "RA": "3.1106567",
+   "DEC": -0.5918072,
+   "MAG": "4.28",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "8φ Ophiuchi",
+   "Name": "",
+   "RA": "4.3246568",
+   "DEC": -0.2899477,
+   "MAG": "4.28",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "32ι Capricorni",
+   "Name": "",
+   "RA": "5.5948565",
+   "DEC": -0.2938165,
+   "MAG": "4.28",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "θ Gruis",
+   "Name": "",
+   "RA": "6.0514056",
+   "DEC": -0.759577,
+   "MAG": "4.28",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "10θ Piscium",
+   "Name": "",
+   "RA": "6.1434208",
+   "DEC": 0.1113326,
+   "MAG": "4.28",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "47λ Persei",
+   "Name": "",
+   "RA": "1.0759228",
+   "DEC": 0.8787975,
+   "MAG": "4.29",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "49μ Tauri",
+   "Name": "",
+   "RA": "1.1149818",
+   "DEC": 0.1551986,
+   "MAG": "4.29",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "68δ3Tauri",
+   "Name": "",
+   "RA": "1.1584187",
+   "DEC": 0.3129036,
+   "MAG": "4.29",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "9α Camelopardalis",
+   "Name": "",
+   "RA": "1.2830352",
+   "DEC": 1.1578999,
+   "MAG": "4.29",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "6λ Leporis",
+   "Name": "",
+   "RA": "1.3944090",
+   "DEC": -0.2299762,
+   "MAG": "4.29",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "45 Ophiuchi",
+   "Name": "",
+   "RA": "4.5699483",
+   "DEC": -0.5212765,
+   "MAG": "4.29",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "β2Sagitarii",
+   "Name": "",
+   "RA": "5.0755047",
+   "DEC": -0.7819027,
+   "MAG": "4.29",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "10ν Cephei",
+   "Name": "",
+   "RA": "5.6960929",
+   "DEC": 1.0667598,
+   "MAG": "4.29",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "17ξ Cephei",
+   "Name": "",
+   "RA": "5.7761235",
+   "DEC": 1.1279675,
+   "MAG": "4.29",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "29π 2Pegasi",
+   "Name": "",
+   "RA": "5.8031616",
+   "DEC": 0.5790712,
+   "MAG": "4.29",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "17β Piscis Austrini",
+   "Name": "",
+   "RA": "5.8970530",
+   "DEC": -0.5645461,
+   "MAG": "4.29",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "17ι Andromedae",
+   "Name": "",
+   "RA": "6.1877885",
+   "DEC": 0.75517,
+   "MAG": "4.29",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "19 Tauri",
+   "Name": "",
+   "RA": "0.9826567",
+   "DEC": 0.4270336,
+   "MAG": "4.3",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "7η Hydrae",
+   "Name": "",
+   "RA": "2.2829997",
+   "DEC": 0.059317,
+   "MAG": "4.3",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "91υ Leonis",
+   "Name": "",
+   "RA": "3.0410108",
+   "DEC": -0.0143796,
+   "MAG": "4.3",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "12δ2Lyrae",
+   "Name": "",
+   "RA": "4.9502046",
+   "DEC": 0.6440071,
+   "MAG": "4.3",
+   "Color": "Orange"
+ },
+ {
+   "Description": "33 Cygni",
+   "Name": "",
+   "RA": "5.2944490",
+   "DEC": 0.987294,
+   "MAG": "4.3",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "α Sculptoris",
+   "Name": "",
+   "RA": "0.2557198",
+   "DEC": -0.512385,
+   "MAG": "4.31",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "4λ Leonis",
+   "Name": "",
+   "RA": "2.4945991",
+   "DEC": 0.4008682,
+   "MAG": "4.31",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "8η Corvi",
+   "Name": "",
+   "RA": "3.2815244",
+   "DEC": -0.2826755,
+   "MAG": "4.31",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "51μ 1Bootis",
+   "Name": "",
+   "RA": "4.0338486",
+   "DEC": 0.6523556,
+   "MAG": "4.31",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "54 Eridani",
+   "Name": "",
+   "RA": "1.2236576",
+   "DEC": -0.3433354,
+   "MAG": "4.32",
+   "Color": "Orange"
+ },
+ {
+   "Description": "4γ Canis Minoris",
+   "Name": "",
+   "RA": "1.9554814",
+   "DEC": 0.1557803,
+   "MAG": "4.32",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "12 Hydrae",
+   "Name": "",
+   "RA": "2.2967442",
+   "DEC": -0.2364533,
+   "MAG": "4.32",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "δ Octantis",
+   "Name": "",
+   "RA": "3.7826303",
+   "DEC": -1.4602782,
+   "MAG": "4.32",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "o Lupi",
+   "Name": "",
+   "RA": "3.8905134",
+   "DEC": -0.7605369,
+   "MAG": "4.32",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "16ζ Ursae Minoris",
+   "Name": "",
+   "RA": "4.1192316",
+   "DEC": 1.3577692,
+   "MAG": "4.32",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "10ω2Scorpii",
+   "Name": "",
+   "RA": "4.2211006",
+   "DEC": -0.364226,
+   "MAG": "4.32",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "71 Aquilae",
+   "Name": "",
+   "RA": "5.4032703",
+   "DEC": -0.0192907,
+   "MAG": "4.32",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "33θ Cassiopeiae",
+   "Name": "",
+   "RA": "0.3102468",
+   "DEC": 0.9625442,
+   "MAG": "4.33",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "113α Piscium",
+   "Name": "",
+   "RA": "0.5325290",
+   "DEC": 0.0482341,
+   "MAG": "4.33",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "4ξ 1Canis Majoris",
+   "Name": "",
+   "RA": "1.7097900",
+   "DEC": -0.408727,
+   "MAG": "4.33",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "θ1Crucis",
+   "Name": "",
+   "RA": "3.1547917",
+   "DEC": -1.1050164,
+   "MAG": "4.33",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ω Lupi",
+   "Name": "",
+   "RA": "4.0930298",
+   "DEC": -0.742943,
+   "MAG": "4.33",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "53ν Serpentis",
+   "Name": "",
+   "RA": "4.5414703",
+   "DEC": -0.2242215,
+   "MAG": "4.33",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "1κ Lyrae",
+   "Name": "",
+   "RA": "4.7990519",
+   "DEC": 0.6294433,
+   "MAG": "4.33",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "29ζ Monocerotis",
+   "Name": "",
+   "RA": "2.1318906",
+   "DEC": -0.0520787,
+   "MAG": "4.34",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "υ2Centauri",
+   "Name": "",
+   "RA": "3.6727109",
+   "DEC": -0.7959332,
+   "MAG": "4.34",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "2 Lupi",
+   "Name": "",
+   "RA": "4.0047961",
+   "DEC": -0.5261974,
+   "MAG": "4.34",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "49σ Ophiuchi",
+   "Name": "",
+   "RA": "4.5662831",
+   "DEC": 0.0722615,
+   "MAG": "4.34",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "9ι Piscis Austrini",
+   "Name": "",
+   "RA": "5.6939040",
+   "DEC": -0.5764095,
+   "MAG": "4.34",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "9 Pegasi",
+   "Name": "",
+   "RA": "5.6920059",
+   "DEC": 0.3028146,
+   "MAG": "4.34",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "θ2Eridani",
+   "Name": "",
+   "RA": "0.7778569",
+   "DEC": -0.7034453,
+   "MAG": "4.35",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "57δ Arietis",
+   "Name": "",
+   "RA": "0.8361436",
+   "DEC": 0.3442953,
+   "MAG": "4.35",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "δ Doradus",
+   "Name": "",
+   "RA": "1.5043575",
+   "DEC": -1.1473019,
+   "MAG": "4.35",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "44κ Aurigae",
+   "Name": "",
+   "RA": "1.6378970",
+   "DEC": 0.5148382,
+   "MAG": "4.35",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "15 Lyncis",
+   "Name": "",
+   "RA": "1.8207057",
+   "DEC": 1.019665,
+   "MAG": "4.35",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ε Volantis",
+   "Name": "",
+   "RA": "2.1289963",
+   "DEC": -1.1975965,
+   "MAG": "4.35",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "θ Chamaeleontis",
+   "Name": "",
+   "RA": "2.1844614",
+   "DEC": -1.3523587,
+   "MAG": "4.35",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "τ2Lupi",
+   "Name": "",
+   "RA": "3.7794232",
+   "DEC": -0.7920207,
+   "MAG": "4.35",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "π Pavonis",
+   "Name": "",
+   "RA": "4.7498263",
+   "DEC": -1.111222,
+   "MAG": "4.35",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "29π Andromedae",
+   "Name": "",
+   "RA": "0.1609266",
+   "DEC": 0.5885153,
+   "MAG": "4.36",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "η Phoenicis",
+   "Name": "",
+   "RA": "0.1891646",
+   "DEC": -1.0029195,
+   "MAG": "4.36",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "35σ Persei",
+   "Name": "",
+   "RA": "0.9188068",
+   "DEC": 0.8376756,
+   "MAG": "4.36",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "37 Tauri",
+   "Name": "",
+   "RA": "1.0676834",
+   "DEC": 0.3854026,
+   "MAG": "4.36",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "2π 2Orionis",
+   "Name": "",
+   "RA": "1.2680326",
+   "DEC": 0.1553392,
+   "MAG": "4.36",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "4κ Leporis",
+   "Name": "",
+   "RA": "1.3667310",
+   "DEC": -0.2258698,
+   "MAG": "4.36",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "γ Columbae",
+   "Name": "",
+   "RA": "1.5600480",
+   "DEC": -0.6158103,
+   "MAG": "4.36",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "13ρ Hydrae",
+   "Name": "",
+   "RA": "2.3057254",
+   "DEC": 0.1018884,
+   "MAG": "4.36",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "15γ Comae Berenices",
+   "Name": "",
+   "RA": "3.2591333",
+   "DEC": 0.4933755,
+   "MAG": "4.36",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "χ Centauri",
+   "Name": "",
+   "RA": "3.6915750",
+   "DEC": -0.7187217,
+   "MAG": "4.36",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "102 Herculis",
+   "Name": "",
+   "RA": "4.7506044",
+   "DEC": 0.3632806,
+   "MAG": "4.36",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "23δ Ursae Minoris",
+   "Name": "",
+   "RA": "4.5911540",
+   "DEC": 1.5112176,
+   "MAG": "4.36",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ξ Pavonis",
+   "Name": "",
+   "RA": "4.8137344",
+   "DEC": -1.0732708,
+   "MAG": "4.36",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "6ζ1Lyrae",
+   "Name": "",
+   "RA": "4.9077495",
+   "DEC": 0.6563311,
+   "MAG": "4.36",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "111 Herculis",
+   "Name": "",
+   "RA": "4.9175597",
+   "DEC": 0.3173251,
+   "MAG": "4.36",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "21θ Lyrae",
+   "Name": "",
+   "RA": "5.0456087",
+   "DEC": 0.6655571,
+   "MAG": "4.36",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "41ι Aquilae",
+   "Name": "",
+   "RA": "5.1344169",
+   "DEC": -0.0224517,
+   "MAG": "4.36",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "5 Lacertae",
+   "Name": "",
+   "RA": "5.8884355",
+   "DEC": 0.8326433,
+   "MAG": "4.36",
+   "Color": "Orange"
+ },
+ {
+   "Description": "β1Tucanae",
+   "Name": "",
+   "RA": "0.1376410",
+   "DEC": -1.0988254,
+   "MAG": "4.37",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "30ε Andromedae",
+   "Name": "",
+   "RA": "0.1682279",
+   "DEC": 0.5115851,
+   "MAG": "4.37",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "65ξ 1Ceti",
+   "Name": "",
+   "RA": "0.5803220",
+   "DEC": 0.1544035,
+   "MAG": "4.37",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "κ Columbae",
+   "Name": "",
+   "RA": "1.6430166",
+   "DEC": -0.6133184,
+   "MAG": "4.37",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "20ι Canis Majoris",
+   "Name": "",
+   "RA": "1.8157387",
+   "DEC": -0.2976514,
+   "MAG": "4.37",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "31 Leonis",
+   "Name": "",
+   "RA": "2.6524859",
+   "DEC": 0.1744893,
+   "MAG": "4.37",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "5α Sagittae",
+   "Name": "",
+   "RA": "5.1491431",
+   "DEC": 0.3144017,
+   "MAG": "4.37",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "6β Sagittae",
+   "Name": "",
+   "RA": "5.1532955",
+   "DEC": 0.3050157,
+   "MAG": "4.37",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "θ1Sagitarii",
+   "Name": "",
+   "RA": "5.2348387",
+   "DEC": -0.6156891,
+   "MAG": "4.37",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "β Sculptoris",
+   "Name": "",
+   "RA": "6.1652520",
+   "DEC": -0.6600544,
+   "MAG": "4.37",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "119 Tauri",
+   "Name": "",
+   "RA": "1.4495541",
+   "DEC": 0.3245343,
+   "MAG": "4.38",
+   "Color": "Orange"
+ },
+ {
+   "Description": "51θ Virginis",
+   "Name": "",
+   "RA": "3.4468071",
+   "DEC": -0.0966718,
+   "MAG": "4.38",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "25ι Ophiuchi",
+   "Name": "",
+   "RA": "4.4244460",
+   "DEC": 0.1774176,
+   "MAG": "4.38",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "61ω Eridani",
+   "Name": "",
+   "RA": "1.2779955",
+   "DEC": -0.0951689,
+   "MAG": "4.39",
+   "Color": "Blanc"
+ },{
+   "Description": "40ξ Ophiuchi",
+   "Name": "",
+   "RA": "4.5422339",
+   "DEC": -0.3684875,
+   "MAG": "4.39",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "20η Lyrae",
+   "Name": "",
+   "RA": "5.0342204",
+   "DEC": 0.6832285,
+   "MAG": "4.39",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "1κ Cephei",
+   "Name": "",
+   "RA": "5.2747704",
+   "DEC": 1.3563196,
+   "MAG": "4.39",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "θ Indi",
+   "Name": "",
+   "RA": "5.5844718",
+   "DEC": -0.9328736,
+   "MAG": "4.39",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "93ψ2Aquarii",
+   "Name": "",
+   "RA": "6.0995039",
+   "DEC": -0.1602649,
+   "MAG": "4.39",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "99 Aquarii",
+   "Name": "",
+   "RA": "6.1350359",
+   "DEC": -0.3602699,
+   "MAG": "4.39",
+   "Color": "Jaune"
+ },{
+   "Description": "30τ Canis Majoris",
+   "Name": "",
+   "RA": "1.9142189",
+   "DEC": -0.4355324,
+   "MAG": "4.4",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "16 Puppis",
+   "Name": "",
+   "RA": "2.1337814",
+   "DEC": -0.3358886,
+   "MAG": "4.4",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "110 Virginis",
+   "Name": "",
+   "RA": "3.9396445",
+   "DEC": 0.0365016,
+   "MAG": "4.4",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "δ Indi",
+   "Name": "",
+   "RA": "5.7505035",
+   "DEC": -0.9598002,
+   "MAG": "4.4",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "68υ Pegasi",
+   "Name": "",
+   "RA": "6.1321271",
+   "DEC": 0.4084798,
+   "MAG": "4.4",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ψ Phoenicis",
+   "Name": "",
+   "RA": "0.4958771",
+   "DEC": -0.8081311,
+   "MAG": "4.41",
+   "Color": "Orange"
+ },
+ {
+   "Description": "37φ1Orionis",
+   "Name": "",
+   "RA": "1.4609279",
+   "DEC": 0.165622,
+   "MAG": "4.41",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "54χ1Orionis",
+   "Name": "",
+   "RA": "1.5462817",
+   "DEC": 0.3538849,
+   "MAG": "4.41",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "46τ Geminorum",
+   "Name": "",
+   "RA": "1.8812031",
+   "DEC": 0.5278797,
+   "MAG": "4.41",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "53ξ Ursae Majoris",
+   "Name": "",
+   "RA": "2.9591330",
+   "DEC": 0.5502878,
+   "MAG": "4.41",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "58 Hydrae",
+   "Name": "",
+   "RA": "3.8846157",
+   "DEC": -0.4879989,
+   "MAG": "4.41",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "76λ Herculis",
+   "Name": "",
+   "RA": "4.5847109",
+   "DEC": 0.4557152,
+   "MAG": "4.41",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "94ν Herculis",
+   "Name": "",
+   "RA": "4.7058585",
+   "DEC": 0.5269052,
+   "MAG": "4.41",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "33π Cephei",
+   "Name": "",
+   "RA": "6.0558489",
+   "DEC": 1.3157601,
+   "MAG": "4.41",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ Sculptoris",
+   "Name": "",
+   "RA": "6.1035182",
+   "DEC": -0.5677895,
+   "MAG": "4.41",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "30 Piscium",
+   "Name": "",
+   "RA": "0.0085521",
+   "DEC": -0.104967,
+   "MAG": "4.41",
+   "Color": "Orange"
+ },
+ {
+   "Description": "38η Andromedae",
+   "Name": "",
+   "RA": "0.2496112",
+   "DEC": 0.4087125,
+   "MAG": "4.42",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "26π Eridani",
+   "Name": "",
+   "RA": "0.9867292",
+   "DEC": -0.2112139,
+   "MAG": "4.42",
+   "Color": "Orange"
+ },
+ {
+   "Description": "67ν Orionis",
+   "Name": "",
+   "RA": "1.6038340",
+   "DEC": 0.257756,
+   "MAG": "4.42",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "60 Leonis",
+   "Name": "",
+   "RA": "2.8899598",
+   "DEC": 0.3522026,
+   "MAG": "4.42",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "σ Lupi",
+   "Name": "",
+   "RA": "3.8075012",
+   "DEC": -0.8806398,
+   "MAG": "4.42",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "7χ Ophiuchi",
+   "Name": "",
+   "RA": "4.3067017",
+   "DEC": -0.3221248,
+   "MAG": "4.42",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "3 Aquarii",
+   "Name": "",
+   "RA": "5.4442783",
+   "DEC": -0.0877513,
+   "MAG": "4.42",
+   "Color": "Orange"
+ },
+ {
+   "Description": "55ζ2Aquarii",
+   "Name": "",
+   "RA": "5.8854030",
+   "DEC": -0.0003491,
+   "MAG": "4.42",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "63δ Piscium",
+   "Name": "",
+   "RA": "0.2124211",
+   "DEC": 0.1323832,
+   "MAG": "4.43",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "40o2Eridani",
+   "Name": "",
+   "RA": "1.1138328",
+   "DEC": -0.1335662,
+   "MAG": "4.43",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "8ν 3Canis Majoris",
+   "Name": "",
+   "RA": "1.7361226",
+   "DEC": -0.3183044,
+   "MAG": "4.43",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "30ζ Bootis",
+   "Name": "",
+   "RA": "3.8447349",
+   "DEC": 0.2396046,
+   "MAG": "4.43",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "27λ Serpentis",
+   "Name": "",
+   "RA": "4.1296381",
+   "DEC": 0.128335,
+   "MAG": "4.43",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "39 Cygni",
+   "Name": "",
+   "RA": "5.3401039",
+   "DEC": 0.5618215,
+   "MAG": "4.43",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "11δ Delphini",
+   "Name": "",
+   "RA": "5.4256105",
+   "DEC": 0.2630987,
+   "MAG": "4.43",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "66υ Cygni",
+   "Name": "",
+   "RA": "5.5759706",
+   "DEC": 0.6090666,
+   "MAG": "4.43",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "3β Lacertae",
+   "Name": "",
+   "RA": "5.8623864",
+   "DEC": 0.9115709,
+   "MAG": "4.43",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "7 Cetii",
+   "Name": "",
+   "RA": "0.0638791",
+   "DEC": -0.3304393,
+   "MAG": "4.44",
+   "Color": "Orange"
+ },
+ {
+   "Description": "106ν Piscium",
+   "Name": "",
+   "RA": "0.4425791",
+   "DEC": 0.0957749,
+   "MAG": "4.44",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ε Reticuli",
+   "Name": "",
+   "RA": "1.1191124",
+   "DEC": -1.0350142,
+   "MAG": "4.44",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "8ε Monocerotis",
+   "Name": "",
+   "RA": "1.6745052",
+   "DEC": 0.0801591,
+   "MAG": "4.44",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "5σ Hydrae",
+   "Name": "",
+   "RA": "2.2635030",
+   "DEC": 0.0583182,
+   "MAG": "4.44",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "κ Pavonis",
+   "Name": "",
+   "RA": "4.9608802",
+   "DEC": -1.1734479,
+   "MAG": "4.44",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "6α Vulpeculae",
+   "Name": "",
+   "RA": "5.0994376",
+   "DEC": 0.4304855,
+   "MAG": "4.44",
+   "Color": "Orange"
+ },
+ {
+   "Description": "α Caeli",
+   "Name": "",
+   "RA": "1.2241812",
+   "DEC": -0.7306627,
+   "MAG": "4.45",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "3ι Leporis",
+   "Name": "",
+   "RA": "1.3626585",
+   "DEC": -0.207156,
+   "MAG": "4.45",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "δ2Chamaeleontis",
+   "Name": "",
+   "RA": "2.8177468",
+   "DEC": -1.405693,
+   "MAG": "4.45",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "9ω Ophiuchi",
+   "Name": "",
+   "RA": "4.3290129",
+   "DEC": -0.3746592,
+   "MAG": "4.45",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "68 Ophiuchi",
+   "Name": "",
+   "RA": "4.7200393",
+   "DEC": 0.0227814,
+   "MAG": "4.45",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "60τ Draconis",
+   "Name": "",
+   "RA": "5.0420380",
+   "DEC": 1.280296,
+   "MAG": "4.45",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "38μ Aquilae",
+   "Name": "",
+   "RA": "5.1229341",
+   "DEC": 0.1287859,
+   "MAG": "4.45",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "β Fornacis",
+   "Name": "",
+   "RA": "0.7377943",
+   "DEC": -0.5655885,
+   "MAG": "4.46",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "17ρ Orionis",
+   "Name": "",
+   "RA": "1.3669928",
+   "DEC": 0.0499358,
+   "MAG": "4.46",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "1κ Leonis",
+   "Name": "",
+   "RA": "2.4637722",
+   "DEC": 0.456966,
+   "MAG": "4.46",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "28σ Bootis",
+   "Name": "",
+   "RA": "3.8165115",
+   "DEC": 0.5191482,
+   "MAG": "4.46",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "λ Gruis",
+   "Name": "",
+   "RA": "5.7862683",
+   "DEC": -0.6901614,
+   "MAG": "4.46",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "11 Lacertae",
+   "Name": "",
+   "RA": "5.9363666",
+   "DEC": 0.7727688,
+   "MAG": "4.46",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "22γ Piscis Austrini",
+   "Name": "",
+   "RA": "5.9887774",
+   "DEC": -0.5737867,
+   "MAG": "4.46",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "1τ1Eridani",
+   "Name": "",
+   "RA": "0.7203992",
+   "DEC": -0.3241513,
+   "MAG": "4.47",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "7 Camelopardalis",
+   "Name": "",
+   "RA": "1.2971578",
+   "DEC": 0.9381533,
+   "MAG": "4.47",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "10π 6Orionis",
+   "Name": "",
+   "RA": "1.3026628",
+   "DEC": 0.0299179,
+   "MAG": "4.47",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "18 Monocerotis",
+   "Name": "",
+   "RA": "1.7796250",
+   "DEC": 0.0421012,
+   "MAG": "4.47",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "74φ Leonis",
+   "Name": "",
+   "RA": "2.9524935",
+   "DEC": -0.0637336,
+   "MAG": "4.47",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ε Normae",
+   "Name": "",
+   "RA": "4.3074071",
+   "DEC": -0.8299913,
+   "MAG": "4.47",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "86 Aquarii",
+   "Name": "",
+   "RA": "6.0505402",
+   "DEC": -0.4143945,
+   "MAG": "4.47",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "70ξ Orionis",
+   "Name": "",
+   "RA": "1.6228944",
+   "DEC": 0.2479919,
+   "MAG": "4.48",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "2 Lyncis",
+   "Name": "",
+   "RA": "1.6564193",
+   "DEC": 1.0299333,
+   "MAG": "4.48",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "λ Canis Majoris",
+   "Name": "",
+   "RA": "1.6937039",
+   "DEC": -0.5686283,
+   "MAG": "4.48",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "15 Ursae Majoris",
+   "Name": "",
+   "RA": "2.3949044",
+   "DEC": 0.9006723,
+   "MAG": "4.48",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "21 Leonis Minoris",
+   "Name": "",
+   "RA": "2.6504134",
+   "DEC": 0.6151364,
+   "MAG": "4.48",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "11β Crateris",
+   "Name": "",
+   "RA": "2.9306623",
+   "DEC": -0.3983859,
+   "MAG": "4.48",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "13θ Cygni",
+   "Name": "",
+   "RA": "5.1331951",
+   "DEC": 0.8765237,
+   "MAG": "4.48",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "δ Tucanae",
+   "Name": "",
+   "RA": "5.8788507",
+   "DEC": -1.1338774,
+   "MAG": "4.48",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "71 Tauri",
+   "Name": "",
+   "RA": "1.1621566",
+   "DEC": 0.2725913,
+   "MAG": "4.49",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "30 Geminorum",
+   "Name": "",
+   "RA": "1.7627316",
+   "DEC": 0.2308683,
+   "MAG": "4.49",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "15α Sextantis",
+   "Name": "",
+   "RA": "2.6526314",
+   "DEC": -0.0064868,
+   "MAG": "4.49",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "16 Librae",
+   "Name": "",
+   "RA": "3.9147008",
+   "DEC": -0.0758588,
+   "MAG": "4.49",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "7δ Equulei",
+   "Name": "",
+   "RA": "5.5609753",
+   "DEC": 0.1746541,
+   "MAG": "4.49",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "105ω2Aquarii",
+   "Name": "",
+   "RA": "6.2077944",
+   "DEC": -0.2538581,
+   "MAG": "4.49",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "13 Monocerotis",
+   "Name": "",
+   "RA": "1.7143642",
+   "DEC": 0.127986,
+   "MAG": "4.5",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "o Puppis",
+   "Name": "",
+   "RA": "2.0424134",
+   "DEC": -0.4526899,
+   "MAG": "4.5",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "26 Ursae Majoris",
+   "Name": "",
+   "RA": "2.5081472",
+   "DEC": 0.9084681,
+   "MAG": "4.5",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "54 Leonis",
+   "Name": "",
+   "RA": "2.8606528",
+   "DEC": 0.4319641,
+   "MAG": "4.5",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "4τ Bootis",
+   "Name": "",
+   "RA": "3.6096100",
+   "DEC": 0.3046763,
+   "MAG": "4.5",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "4ψ Ophiuchi",
+   "Name": "",
+   "RA": "4.2939608",
+   "DEC": -0.3497203,
+   "MAG": "4.5",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "24 Capricorni",
+   "Name": "",
+   "RA": "5.5288904",
+   "DEC": -0.4364341,
+   "MAG": "4.5",
+   "Color": "Orange"
+ },
+ {
+   "Description": "14μ Piscis Austrini",
+   "Name": "",
+   "RA": "5.7961657",
+   "DEC": -0.5757599,
+   "MAG": "4.5",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "18λ Piscium",
+   "Name": "",
+   "RA": "6.2048491",
+   "DEC": 0.0310669,
+   "MAG": "4.5",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ε Tucanae",
+   "Name": "",
+   "RA": "6.2828217",
+   "DEC": -1.1445384,
+   "MAG": "4.5",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "83τ Piscium",
+   "Name": "",
+   "RA": "0.3126757",
+   "DEC": 0.5251647,
+   "MAG": "4.51",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "39 Arietis",
+   "Name": "",
+   "RA": "0.7326383",
+   "DEC": 0.5104603,
+   "MAG": "4.51",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ Reticuli",
+   "Name": "",
+   "RA": "1.0511100",
+   "DEC": -1.084887,
+   "MAG": "4.51",
+   "Color": "Orange"
+ },
+ {
+   "Description": "50υ1Eridani",
+   "Name": "",
+   "RA": "1.1934125",
+   "DEC": -0.5195263,
+   "MAG": "4.51",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ Pictoris",
+   "Name": "",
+   "RA": "1.5264141",
+   "DEC": -0.9802933,
+   "MAG": "4.51",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ε Antliae",
+   "Name": "",
+   "RA": "2.4837999",
+   "DEC": -0.6274701,
+   "MAG": "4.51",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ Circini",
+   "Name": "",
+   "RA": "4.0289980",
+   "DEC": -1.0353439,
+   "MAG": "4.51",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "67ρ Draconis",
+   "Name": "",
+   "RA": "5.2482851",
+   "DEC": 1.184618,
+   "MAG": "4.51",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "η Indi",
+   "Name": "",
+   "RA": "5.4281412",
+   "DEC": -0.9061943,
+   "MAG": "4.51",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "13ν Aquarii",
+   "Name": "",
+   "RA": "5.5396532",
+   "DEC": -0.198473,
+   "MAG": "4.51",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "36 Capricorni",
+   "Name": "",
+   "RA": "5.6231163",
+   "DEC": -0.3806078,
+   "MAG": "4.51",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "6 Lacertae",
+   "Name": "",
+   "RA": "5.8926170",
+   "DEC": 0.7526442,
+   "MAG": "4.51",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "25σ Andromedae",
+   "Name": "",
+   "RA": "0.0799724",
+   "DEC": 0.6420242,
+   "MAG": "4.52",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ι Cassiopeiae",
+   "Name": "",
+   "RA": "0.6504260",
+   "DEC": 1.1763955,
+   "MAG": "4.52",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "29τ Aurigae",
+   "Name": "",
+   "RA": "1.5235634",
+   "DEC": 0.6838394,
+   "MAG": "4.52",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "100λ Virginis",
+   "Name": "",
+   "RA": "3.7485745",
+   "DEC": -0.2333699,
+   "MAG": "4.52",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "21ι Serpentis",
+   "Name": "",
+   "RA": "4.1082942",
+   "DEC": 0.3433111,
+   "MAG": "4.52",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "75ρ Herculis",
+   "Name": "",
+   "RA": "4.5539276",
+   "DEC": 0.6483171,
+   "MAG": "4.52",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "59 Sagitarii",
+   "Name": "",
+   "RA": "5.2226651",
+   "DEC": -0.474206,
+   "MAG": "4.52",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "23 Vulpeculae",
+   "Name": "",
+   "RA": "5.3047901",
+   "DEC": 0.4854488,
+   "MAG": "4.52",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "55 Pegasi",
+   "Name": "",
+   "RA": "6.0519510",
+   "DEC": 0.1642258,
+   "MAG": "4.52",
+   "Color": "Orange"
+ },
+ {
+   "Description": "7 Andromedae",
+   "Name": "",
+   "RA": "6.0761456",
+   "DEC": 0.8623042,
+   "MAG": "4.52",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "35ν Andromedae",
+   "Name": "",
+   "RA": "0.2173517",
+   "DEC": 0.7169619,
+   "MAG": "4.53",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "17 Persei",
+   "Name": "",
+   "RA": "0.7483681",
+   "DEC": 0.6119076,
+   "MAG": "4.53",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "93 Leonis",
+   "Name": "",
+   "RA": "3.0891673",
+   "DEC": 0.3528862,
+   "MAG": "4.53",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ε Telescopii",
+   "Name": "",
+   "RA": "4.7613891",
+   "DEC": -0.8020564,
+   "MAG": "4.53",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "54λ Cygni",
+   "Name": "",
+   "RA": "5.4428456",
+   "DEC": 0.6368852,
+   "MAG": "4.53",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "4β Piscium",
+   "Name": "",
+   "RA": "6.0383011",
+   "DEC": 0.0666716,
+   "MAG": "4.53",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "β2Tucanae",
+   "Name": "",
+   "RA": "0.1377065",
+   "DEC": -1.0989611,
+   "MAG": "4.54",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "22o Cassiopeiae",
+   "Name": "",
+   "RA": "0.1951496",
+   "DEC": 0.8427225,
+   "MAG": "4.54",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "48 Cassiopeiae",
+   "Name": "",
+   "RA": "0.5321363",
+   "DEC": 1.2375596,
+   "MAG": "4.54",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "16 Aurigae",
+   "Name": "",
+   "RA": "1.3883149",
+   "DEC": 0.5824455,
+   "MAG": "4.54",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "5ξ 2Canis Majoris",
+   "Name": "",
+   "RA": "1.7237599",
+   "DEC": -0.40081,
+   "MAG": "4.54",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "6 Canis Minoris",
+   "Name": "",
+   "RA": "1.9626082",
+   "DEC": 0.2095559,
+   "MAG": "4.54",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "17κ2Bootis",
+   "Name": "",
+   "RA": "3.7240236",
+   "DEC": 0.9039109,
+   "MAG": "4.54",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "43ψ Bootis",
+   "Name": "",
+   "RA": "3.9463858",
+   "DEC": 0.4703226,
+   "MAG": "4.54",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "24ι1Librae",
+   "Name": "",
+   "RA": "3.9803179",
+   "DEC": -0.3454297,
+   "MAG": "4.54",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "φ2Lupi",
+   "Name": "",
+   "RA": "4.0280308",
+   "DEC": -0.6433041,
+   "MAG": "4.54",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "3 Sagitarii",
+   "Name": "",
+   "RA": "4.6581092",
+   "DEC": -0.4857397,
+   "MAG": "4.54",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "7ρ Cassiopeiae",
+   "Name": "",
+   "RA": "6.2586780",
+   "DEC": 1.0035546,
+   "MAG": "4.54",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ1Caeli",
+   "Name": "",
+   "RA": "1.3282246",
+   "DEC": -0.619301,
+   "MAG": "4.55",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "10 Leonis Minoris",
+   "Name": "",
+   "RA": "2.5055220",
+   "DEC": 0.6352562,
+   "MAG": "4.55",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "37ξ Bootis",
+   "Name": "",
+   "RA": "3.8894153",
+   "DEC": 0.3333773,
+   "MAG": "4.55",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "19o Scorpii",
+   "Name": "",
+   "RA": "4.2788346",
+   "DEC": -0.4218364,
+   "MAG": "4.55",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "63 Cygni",
+   "Name": "",
+   "RA": "5.5265923",
+   "DEC": 0.8316203,
+   "MAG": "4.55",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "70 Pegasi",
+   "Name": "",
+   "RA": "6.1485986",
+   "DEC": 0.2227137,
+   "MAG": "4.55",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "2 Cetii",
+   "Name": "",
+   "RA": "0.0163188",
+   "DEC": -0.3025722,
+   "MAG": "4.55",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "δ Reticuli",
+   "Name": "",
+   "RA": "1.0417216",
+   "DEC": -1.071637,
+   "MAG": "4.56",
+   "Color": "Orange"
+ },
+ {
+   "Description": "24 Ursae Majoris",
+   "Name": "",
+   "RA": "2.5066491",
+   "DEC": 1.2187683,
+   "MAG": "4.56",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "3 Centauri",
+   "Name": "",
+   "RA": "3.6295285",
+   "DEC": -0.5758617,
+   "MAG": "4.56",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "τ1Lupi",
+   "Name": "",
+   "RA": "3.7792342",
+   "DEC": -0.7892621,
+   "MAG": "4.56",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "11 Cephei",
+   "Name": "",
+   "RA": "5.6807049",
+   "DEC": 1.2446185,
+   "MAG": "4.56",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "47ω Orionis",
+   "Name": "",
+   "RA": "1.4799738",
+   "DEC": 0.0719318,
+   "MAG": "4.57",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "32τ2Hydrae",
+   "Name": "",
+   "RA": "2.4957408",
+   "DEC": -0.0206822,
+   "MAG": "4.57",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "24ω Herculis",
+   "Name": "",
+   "RA": "4.2996913",
+   "DEC": 0.2449279,
+   "MAG": "4.57",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "2 Pegasi",
+   "Name": "",
+   "RA": "5.6284614",
+   "DEC": 0.4125764,
+   "MAG": "4.57",
+   "Color": "Orange"
+ },
+ {
+   "Description": "2 Lacertae",
+   "Name": "",
+   "RA": "5.8513327",
+   "DEC": 0.8122181,
+   "MAG": "4.57",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "4 Lacertae",
+   "Name": "",
+   "RA": "5.8665607",
+   "DEC": 0.8635259,
+   "MAG": "4.57",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "δ Sculptoris",
+   "Name": "",
+   "RA": "6.2348688",
+   "DEC": -0.490966,
+   "MAG": "4.57",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "136 Tauri",
+   "Name": "",
+   "RA": "1.5416784",
+   "DEC": 0.4819242,
+   "MAG": "4.58",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "κ Pyxidis",
+   "Name": "",
+   "RA": "2.3913120",
+   "DEC": -0.4513131,
+   "MAG": "4.58",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "31ψ1Draconis",
+   "Name": "",
+   "RA": "4.6335801",
+   "DEC": 1.2592357,
+   "MAG": "4.58",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "13 Vulpeculae",
+   "Name": "",
+   "RA": "5.2074589",
+   "DEC": 0.4202704,
+   "MAG": "4.58",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "62 Sagitarii",
+   "Name": "",
+   "RA": "5.2475869",
+   "DEC": -0.4836259,
+   "MAG": "4.58",
+   "Color": "Orange"
+ },
+ {
+   "Description": "μ Phoenicis",
+   "Name": "",
+   "RA": "0.1803216",
+   "DEC": -0.804335,
+   "MAG": "4.59",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "30ψ2Orionis",
+   "Name": "",
+   "RA": "1.4260940",
+   "DEC": 0.0540276,
+   "MAG": "4.59",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "42 Orionis",
+   "Name": "",
+   "RA": "1.4634004",
+   "DEC": -0.0844448,
+   "MAG": "4.59",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "1 Puppis",
+   "Name": "",
+   "RA": "2.0225748",
+   "DEC": -0.4958674,
+   "MAG": "4.59",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "30φ Ursae Majoris",
+   "Name": "",
+   "RA": "2.5835527",
+   "DEC": 0.9436026,
+   "MAG": "4.59",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "2 Scorpii",
+   "Name": "",
+   "RA": "4.1609158",
+   "DEC": -0.4420434,
+   "MAG": "4.59",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "13 Scorpii",
+   "Name": "",
+   "RA": "4.2424736",
+   "DEC": -0.4874074,
+   "MAG": "4.59",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "1σ Arae",
+   "Name": "",
+   "RA": "4.6061857",
+   "DEC": -0.8116751,
+   "MAG": "4.59",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "113 Herculis",
+   "Name": "",
+   "RA": "4.9512736",
+   "DEC": 0.3952298,
+   "MAG": "4.59",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "δ Coronae Australis",
+   "Name": "",
+   "RA": "5.0106148",
+   "DEC": -0.7068002,
+   "MAG": "4.59",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "58π Draconis",
+   "Name": "",
+   "RA": "5.0643710",
+   "DEC": 1.1469383,
+   "MAG": "4.59",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "31 Vulpeculae",
+   "Name": "",
+   "RA": "5.4634405",
+   "DEC": 0.4729309,
+   "MAG": "4.59",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "55ζ1Aquarii",
+   "Name": "",
+   "RA": "5.8853739",
+   "DEC": -0.0003539,
+   "MAG": "4.59",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "11β Monocerotis",
+   "Name": "",
+   "RA": "1.6965328",
+   "DEC": -0.1227451,
+   "MAG": "4.6",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "4π 2Ursae Majoris",
+   "Name": "",
+   "RA": "2.2698589",
+   "DEC": 1.1227315,
+   "MAG": "4.6",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "31τ1Hydrae",
+   "Name": "",
+   "RA": "2.4833781",
+   "DEC": -0.0483262,
+   "MAG": "4.6",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "40υ2Hydrae",
+   "Name": "",
+   "RA": "2.6403559",
+   "DEC": -0.2280224,
+   "MAG": "4.6",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ι Antliae",
+   "Name": "",
+   "RA": "2.8654743",
+   "DEC": -0.6481765,
+   "MAG": "4.6",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "35o Bootis",
+   "Name": "",
+   "RA": "3.8625954",
+   "DEC": 0.2960854,
+   "MAG": "4.6",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "52 Sagitarii",
+   "Name": "",
+   "RA": "5.1343514",
+   "DEC": -0.4343009,
+   "MAG": "4.6",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "62τ Pegasi",
+   "Name": "",
+   "RA": "6.1114304",
+   "DEC": 0.414346,
+   "MAG": "4.6",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "33 Piscium",
+   "Name": "",
+   "RA": "0.0232783",
+   "DEC": -0.0996147,
+   "MAG": "4.61",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "24θ Andromedae",
+   "Name": "",
+   "RA": "0.0745765",
+   "DEC": 0.6751224,
+   "MAG": "4.61",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "46υ Sagitarii",
+   "Name": "",
+   "RA": "5.0689888",
+   "DEC": -0.2784673,
+   "MAG": "4.61",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "47 Cygni",
+   "Name": "",
+   "RA": "5.3839190",
+   "DEC": 0.6152431,
+   "MAG": "4.61",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "111ξ Piscium",
+   "Name": "",
+   "RA": "0.4954772",
+   "DEC": 0.0556324,
+   "MAG": "4.62",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "36υ Orionis",
+   "Name": "",
+   "RA": "1.4483178",
+   "DEC": -0.1274333,
+   "MAG": "4.62",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "λ Crucis",
+   "Name": "",
+   "RA": "3.3800628",
+   "DEC": -1.0323041,
+   "MAG": "4.62",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "37 Librae",
+   "Name": "",
+   "RA": "4.0761219",
+   "DEC": -0.1756577,
+   "MAG": "4.62",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "1χ Herculis",
+   "Name": "",
+   "RA": "4.1568289",
+   "DEC": 0.7409214,
+   "MAG": "4.62",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "57μ Ophiuchi",
+   "Name": "",
+   "RA": "4.6157196",
+   "DEC": -0.1417013,
+   "MAG": "4.62",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "57ζ Serpentis",
+   "Name": "",
+   "RA": "4.7144979",
+   "DEC": -0.0644075,
+   "MAG": "4.62",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "63θ1Serpentis",
+   "Name": "",
+   "RA": "4.9576950",
+   "DEC": 0.0733669,
+   "MAG": "4.62",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "28υ2Cassiopeiae",
+   "Name": "",
+   "RA": "0.2472404",
+   "DEC": 1.0329052,
+   "MAG": "4.63",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "48ε Arietis",
+   "Name": "",
+   "RA": "0.7819584",
+   "DEC": 0.3724581,
+   "MAG": "4.63",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "48ε Arietis",
+   "Name": "",
+   "RA": "0.7819584",
+   "DEC": 0.3724581,
+   "MAG": "4.63",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "28ω Persei",
+   "Name": "",
+   "RA": "0.8346601",
+   "DEC": 0.691354,
+   "MAG": "4.63",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ Camelopardalis",
+   "Name": "",
+   "RA": "1.0051278",
+   "DEC": 1.2449821,
+   "MAG": "4.63",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "62χ2Orionis",
+   "Name": "",
+   "RA": "1.5879006",
+   "DEC": 0.3514802,
+   "MAG": "4.63",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "63χ Leonis",
+   "Name": "",
+   "RA": "2.9016826",
+   "DEC": 0.1280393,
+   "MAG": "4.63",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "72 Leonis",
+   "Name": "",
+   "RA": "2.9461303",
+   "DEC": 0.4030935,
+   "MAG": "4.63",
+   "Color": "Orange"
+ },
+ {
+   "Description": "10δ Coronae Borealis",
+   "Name": "",
+   "RA": "4.1433898",
+   "DEC": 0.4549782,
+   "MAG": "4.63",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ι1Normae",
+   "Name": "",
+   "RA": "4.2042000",
+   "DEC": -1.0083688,
+   "MAG": "4.63",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "3υ Ophiuchi",
+   "Name": "",
+   "RA": "4.3100979",
+   "DEC": -0.1461131,
+   "MAG": "4.63",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "9 Lacertae",
+   "Name": "",
+   "RA": "5.9226585",
+   "DEC": 0.8996348,
+   "MAG": "4.63",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "102ι Tauri",
+   "Name": "",
+   "RA": "1.3225014",
+   "DEC": 0.3768166,
+   "MAG": "4.64",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "21 Lyncis",
+   "Name": "",
+   "RA": "1.9491546",
+   "DEC": 0.8589008,
+   "MAG": "4.64",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "1 Scorpii",
+   "Name": "",
+   "RA": "4.1494258",
+   "DEC": -0.4494465,
+   "MAG": "4.64",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "66 Ophiuchi",
+   "Name": "",
+   "RA": "4.7135380",
+   "DEC": 0.0762466,
+   "MAG": "4.64",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "71 Ophiuchi",
+   "Name": "",
+   "RA": "4.7442703",
+   "DEC": 0.1524351,
+   "MAG": "4.64",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ν Pavonis",
+   "Name": "",
+   "RA": "4.8492810",
+   "DEC": -1.086962,
+   "MAG": "4.64",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "θ Coronae Australis",
+   "Name": "",
+   "RA": "4.8585748",
+   "DEC": -0.7384924,
+   "MAG": "4.64",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "15 Vulpeculae",
+   "Name": "",
+   "RA": "5.2407947",
+   "DEC": 0.4843919,
+   "MAG": "4.64",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "85φ Piscium",
+   "Name": "",
+   "RA": "0.3217878",
+   "DEC": 0.429065,
+   "MAG": "4.65",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "33τ8Eridani",
+   "Name": "",
+   "RA": "1.0197522",
+   "DEC": -0.4295692,
+   "MAG": "4.65",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "86ρ Tauri",
+   "Name": "",
+   "RA": "1.1948888",
+   "DEC": 0.2590844,
+   "MAG": "4.65",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "7π 1Orionis",
+   "Name": "",
+   "RA": "1.2867294",
+   "DEC": 0.1771655,
+   "MAG": "4.65",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "38 Geminorum",
+   "Name": "",
+   "RA": "1.8092301",
+   "DEC": 0.2299956,
+   "MAG": "4.65",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "10 Draconis",
+   "Name": "",
+   "RA": "3.6278050",
+   "DEC": 1.1296353,
+   "MAG": "4.65",
+   "Color": "Orange"
+ },
+ {
+   "Description": "η Normae",
+   "Name": "",
+   "RA": "4.2028183",
+   "DEC": -0.8592207,
+   "MAG": "4.65",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "20 Ophiuchi",
+   "Name": "",
+   "RA": "4.4062291",
+   "DEC": -0.1881998,
+   "MAG": "4.65",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "69 Herculis",
+   "Name": "",
+   "RA": "4.5276968",
+   "DEC": 0.6508624,
+   "MAG": "4.65",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "3 Andromedae",
+   "Name": "",
+   "RA": "6.0396392",
+   "DEC": 0.8735761,
+   "MAG": "4.65",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "84χ Piscium",
+   "Name": "",
+   "RA": "0.3117740",
+   "DEC": 0.3671252,
+   "MAG": "4.66",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "35 Arietis",
+   "Name": "",
+   "RA": "0.7131924",
+   "DEC": 0.4835823,
+   "MAG": "4.66",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "36τ9Eridani",
+   "Name": "",
+   "RA": "1.0468703",
+   "DEC": -0.4191651,
+   "MAG": "4.66",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "15 Monocerotis",
+   "Name": "",
+   "RA": "1.7495980",
+   "DEC": 0.17271,
+   "MAG": "4.66",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "27 Canis Majoris",
+   "Name": "",
+   "RA": "1.8947876",
+   "DEC": -0.4599379,
+   "MAG": "4.66",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "43γ Cancri",
+   "Name": "",
+   "RA": "2.2832615",
+   "DEC": 0.3746979,
+   "MAG": "4.66",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "8π Virginis",
+   "Name": "",
+   "RA": "3.1454033",
+   "DEC": 0.115439,
+   "MAG": "4.66",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "26χ Virginis",
+   "Name": "",
+   "RA": "3.3128385",
+   "DEC": -0.1395488,
+   "MAG": "4.66",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "83 Ursae Majoris",
+   "Name": "",
+   "RA": "3.5811466",
+   "DEC": 0.9543751,
+   "MAG": "4.66",
+   "Color": "Orange"
+ },
+ {
+   "Description": "47o Draconis",
+   "Name": "",
+   "RA": "4.9357984",
+   "DEC": 1.036522,
+   "MAG": "4.66",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "32ν Aquilae",
+   "Name": "",
+   "RA": "5.0898964",
+   "DEC": 0.0059099,
+   "MAG": "4.66",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "52π Aquarii",
+   "Name": "",
+   "RA": "5.8698768",
+   "DEC": 0.0240419,
+   "MAG": "4.66",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "84ψ Pegasi",
+   "Name": "",
+   "RA": "6.2734042",
+   "DEC": 0.4388,
+   "MAG": "4.66",
+   "Color": "Orange"
+ },
+ {
+   "Description": "53χ Cetii",
+   "Name": "",
+   "RA": "0.4781548",
+   "DEC": -0.1865127,
+   "MAG": "4.67",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "34 Persei",
+   "Name": "",
+   "RA": "0.9135417",
+   "DEC": 0.8640931,
+   "MAG": "4.67",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "18θ Leporis",
+   "Name": "",
+   "RA": "1.5976526",
+   "DEC": -0.2606698,
+   "MAG": "4.67",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "14 τ Ursae Majoris",
+   "Name": "",
+   "RA": "2.4038347",
+   "DEC": 1.1085216,
+   "MAG": "4.67",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "3ψ1Lupi",
+   "Name": "",
+   "RA": "4.1005056",
+   "DEC": -0.6006017,
+   "MAG": "4.67",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "93 Herculis",
+   "Name": "",
+   "RA": "4.7126362",
+   "DEC": 0.2923572,
+   "MAG": "4.67",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ Microscopii",
+   "Name": "",
+   "RA": "5.5034231",
+   "DEC": -0.5630044,
+   "MAG": "4.67",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "80π 1Cygni",
+   "Name": "",
+   "RA": "5.6814612",
+   "DEC": 0.8934292,
+   "MAG": "4.67",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "11 Orionis",
+   "Name": "",
+   "RA": "1.3289301",
+   "DEC": 0.2688534,
+   "MAG": "4.68",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "19π Canis Majoris",
+   "Name": "",
+   "RA": "1.8134989",
+   "DEC": -0.3514463,
+   "MAG": "4.68",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "28 Monocerotis",
+   "Name": "",
+   "RA": "2.0997256",
+   "DEC": -0.0243037,
+   "MAG": "4.68",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "δ1Apodis",
+   "Name": "",
+   "RA": "4.2775693",
+   "DEC": -1.3735014,
+   "MAG": "4.68",
+   "Color": "Orange"
+ },
+ {
+   "Description": "ζ Scuti",
+   "Name": "",
+   "RA": "4.8156179",
+   "DEC": -0.1559306,
+   "MAG": "4.68",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "61σ Draconis",
+   "Name": "",
+   "RA": "5.1153855",
+   "DEC": 1.2158157,
+   "MAG": "4.68",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "4ζ Delphini",
+   "Name": "",
+   "RA": "5.3900494",
+   "DEC": 0.2561125,
+   "MAG": "4.68",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "39ε Capricorni",
+   "Name": "",
+   "RA": "5.6595792",
+   "DEC": -0.3397477,
+   "MAG": "4.68",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "η2Hydri",
+   "Name": "",
+   "RA": "0.5014985",
+   "DEC": -1.1806668,
+   "MAG": "4.69",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ν Fornacis",
+   "Name": "",
+   "RA": "0.5431901",
+   "DEC": -0.5113281,
+   "MAG": "4.69",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "73π Tauri",
+   "Name": "",
+   "RA": "1.1632910",
+   "DEC": 0.256801,
+   "MAG": "4.69",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "92σ2Tauri",
+   "Name": "",
+   "RA": "1.2185671",
+   "DEC": 0.2778225,
+   "MAG": "4.69",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "λ Pyxidis",
+   "Name": "",
+   "RA": "2.4574454",
+   "DEC": -0.5032463,
+   "MAG": "4.69",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ι Crucis",
+   "Name": "",
+   "RA": "3.3406984",
+   "DEC": -1.0643212,
+   "MAG": "4.69",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "74 Virginis",
+   "Name": "",
+   "RA": "3.5428657",
+   "DEC": -0.1091849,
+   "MAG": "4.69",
+   "Color": "Orange"
+ },
+ {
+   "Description": "γ1Sagitarii",
+   "Name": "",
+   "RA": "4.7343001",
+   "DEC": -0.5162684,
+   "MAG": "4.69",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "12φ Cygni",
+   "Name": "",
+   "RA": "5.1460015",
+   "DEC": 0.5262749,
+   "MAG": "4.69",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "5γ Equulei",
+   "Name": "",
+   "RA": "5.5429112",
+   "DEC": 0.1768309,
+   "MAG": "4.69",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "23ξ Aquarii",
+   "Name": "",
+   "RA": "5.6625099",
+   "DEC": -0.1370811,
+   "MAG": "4.69",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ε Indi",
+   "Name": "",
+   "RA": "5.7742473",
+   "DEC": -0.9911046,
+   "MAG": "4.69",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "31o Aquarii",
+   "Name": "",
+   "RA": "5.7740509",
+   "DEC": -0.0376167,
+   "MAG": "4.69",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "66 Aquarii",
+   "Name": "",
+   "RA": "5.9497765",
+   "DEC": -0.3286503,
+   "MAG": "4.69",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "89 Aquarii",
+   "Name": "",
+   "RA": "6.0646410",
+   "DEC": -0.3919573,
+   "MAG": "4.69",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "22π Persei",
+   "Name": "",
+   "RA": "0.7799949",
+   "DEC": 0.6922461,
+   "MAG": "4.7",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "91λ Cetii",
+   "Name": "",
+   "RA": "0.7841546",
+   "DEC": 0.1554652,
+   "MAG": "4.7",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "29π Leonis",
+   "Name": "",
+   "RA": "2.6189247",
+   "DEC": 0.1403972,
+   "MAG": "4.7",
+   "Color": "Orange"
+ },
+ {
+   "Description": "21θ Crateris",
+   "Name": "",
+   "RA": "3.0398472",
+   "DEC": -0.1710811,
+   "MAG": "4.7",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "o Hydrae",
+   "Name": "",
+   "RA": "3.0552570",
+   "DEC": -0.6064098,
+   "MAG": "4.7",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "24 Canum Venaticorum",
+   "Name": "",
+   "RA": "3.5537303",
+   "DEC": 0.8554925,
+   "MAG": "4.7",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "γ Scuti",
+   "Name": "",
+   "RA": "4.8397907",
+   "DEC": -0.2542217,
+   "MAG": "4.7",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "58ω Sagitarii",
+   "Name": "",
+   "RA": "5.2178363",
+   "DEC": -0.4590119,
+   "MAG": "4.7",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "39χ Cassiopeiae",
+   "Name": "",
+   "RA": "0.4098542",
+   "DEC": 1.0337925,
+   "MAG": "4.71",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "65 Andromedae",
+   "Name": "",
+   "RA": "0.6354017",
+   "DEC": 0.8775273,
+   "MAG": "4.71",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "52 Persei",
+   "Name": "",
+   "RA": "1.1121602",
+   "DEC": 0.7065723,
+   "MAG": "4.71",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "15λ Aurigae",
+   "Name": "",
+   "RA": "1.3925182",
+   "DEC": 0.6998625,
+   "MAG": "4.71",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "31 Orionis",
+   "Name": "",
+   "RA": "1.4387331",
+   "DEC": -0.0190629,
+   "MAG": "4.71",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "37 Leonis Minoris",
+   "Name": "",
+   "RA": "2.7869417",
+   "DEC": 0.5580884,
+   "MAG": "4.71",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "45ω Ursae Majoris",
+   "Name": "",
+   "RA": "2.8535188",
+   "DEC": 0.7538077,
+   "MAG": "4.71",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "59ξ Aquilae",
+   "Name": "",
+   "RA": "5.2108914",
+   "DEC": 0.1476791,
+   "MAG": "4.71",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ε Microscopii",
+   "Name": "",
+   "RA": "5.5760579",
+   "DEC": -0.5615161,
+   "MAG": "4.71",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "101 Aquarii",
+   "Name": "",
+   "RA": "6.1665828",
+   "DEC": -0.3650259,
+   "MAG": "4.71",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ι Phoenicis",
+   "Name": "",
+   "RA": "6.1744368",
+   "DEC": -0.7437721,
+   "MAG": "4.71",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "κ Reticuli",
+   "Name": "",
+   "RA": "0.9135853",
+   "DEC": -1.0984666,
+   "MAG": "4.72",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ζ Doradus",
+   "Name": "",
+   "RA": "1.3330388",
+   "DEC": -1.0030892,
+   "MAG": "4.72",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "19 Puppis",
+   "Name": "",
+   "RA": "2.1435770",
+   "DEC": -0.2256177,
+   "MAG": "4.72",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "θ Pyxidis",
+   "Name": "",
+   "RA": "2.4499768",
+   "DEC": -0.4531844,
+   "MAG": "4.72",
+   "Color": "Orange"
+ },
+ {
+   "Description": "μ Muscae",
+   "Name": "",
+   "RA": "3.0902727",
+   "DEC": -1.1661369,
+   "MAG": "4.72",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "θ2Crucis",
+   "Name": "",
+   "RA": "3.1604422",
+   "DEC": -1.1024469,
+   "MAG": "4.72",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "π Lupi",
+   "Name": "",
+   "RA": "3.9493310",
+   "DEC": -0.8211968,
+   "MAG": "4.72",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "δ Normae",
+   "Name": "",
+   "RA": "4.2171082",
+   "DEC": -0.7884234,
+   "MAG": "4.72",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "δ Scuti",
+   "Name": "",
+   "RA": "4.8968412",
+   "DEC": -0.1579959,
+   "MAG": "4.72",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "14λ Cassiopeiae",
+   "Name": "",
+   "RA": "0.1386373",
+   "DEC": 0.9515923,
+   "MAG": "4.73",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "17 Eridani",
+   "Name": "",
+   "RA": "0.9189958",
+   "DEC": -0.0885803,
+   "MAG": "4.73",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "22 Orionis",
+   "Name": "",
+   "RA": "1.4039501",
+   "DEC": -0.0066759,
+   "MAG": "4.73",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "27ζ Crateris",
+   "Name": "",
+   "RA": "3.0751102",
+   "DEC": -0.3202825,
+   "MAG": "4.73",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "20 Canum Venaticorum",
+   "Name": "",
+   "RA": "3.4799320",
+   "DEC": 0.7081237,
+   "MAG": "4.73",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "4 Centauri",
+   "Name": "",
+   "RA": "3.6355572",
+   "DEC": -0.5572448,
+   "MAG": "4.73",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ζ1Scorpii",
+   "Name": "",
+   "RA": "4.4243878",
+   "DEC": -0.7393603,
+   "MAG": "4.73",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "41 Ophiuchi",
+   "Name": "",
+   "RA": "4.5230717",
+   "DEC": -0.0077716,
+   "MAG": "4.73",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "6μ Aquarii",
+   "Name": "",
+   "RA": "5.4657313",
+   "DEC": -0.1567887,
+   "MAG": "4.73",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "9 Cephei",
+   "Name": "",
+   "RA": "5.6632444",
+   "DEC": 1.0835343,
+   "MAG": "4.73",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "43κ Capricorni",
+   "Name": "",
+   "RA": "5.6839192",
+   "DEC": -0.3292806,
+   "MAG": "4.73",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "78μ 1Cygni",
+   "Name": "",
+   "RA": "5.6903988",
+   "DEC": 0.5016561,
+   "MAG": "4.73",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "36ψ Cassiopeiae",
+   "Name": "",
+   "RA": "0.3749549",
+   "DEC": 1.1890928,
+   "MAG": "4.74",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "4o1Orionis",
+   "Name": "",
+   "RA": "1.2764175",
+   "DEC": 0.2487191,
+   "MAG": "4.74",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "31υ Aurigae",
+   "Name": "",
+   "RA": "1.5317010",
+   "DEC": 0.6511048,
+   "MAG": "4.74",
+   "Color": "Orange"
+ },
+ {
+   "Description": "30 Leonis Minoris",
+   "Name": "",
+   "RA": "2.7310694",
+   "DEC": 0.5898534,
+   "MAG": "4.74",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "61 Leonis",
+   "Name": "",
+   "RA": "2.8877709",
+   "DEC": -0.0433666,
+   "MAG": "4.74",
+   "Color": "Orange"
+ },
+ {
+   "Description": "11 Comae Berenices",
+   "Name": "",
+   "RA": "3.2319862",
+   "DEC": 0.3105426,
+   "MAG": "4.74",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "61 Virginis",
+   "Name": "",
+   "RA": "3.4836990",
+   "DEC": -0.319594,
+   "MAG": "4.74",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "43κ Librae",
+   "Name": "",
+   "RA": "4.1100177",
+   "DEC": -0.3434614,
+   "MAG": "4.74",
+   "Color": "Orange"
+ },
+ {
+   "Description": "8 Cygni",
+   "Name": "",
+   "RA": "5.1128184",
+   "DEC": 0.6013193,
+   "MAG": "4.74",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "59 Cygni",
+   "Name": "",
+   "RA": "5.4970308",
+   "DEC": 0.8293999,
+   "MAG": "4.74",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "5γ2Arietis",
+   "Name": "",
+   "RA": "0.4953681",
+   "DEC": 0.336737,
+   "MAG": "4.75",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "76σ Cetii",
+   "Name": "",
+   "RA": "0.6636033",
+   "DEC": -0.2660706,
+   "MAG": "4.75",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "2 τ 2Eridani",
+   "Name": "",
+   "RA": "0.7462955",
+   "DEC": -0.3665919,
+   "MAG": "4.75",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ν Hydri",
+   "Name": "",
+   "RA": "0.7438375",
+   "DEC": -1.3101653,
+   "MAG": "4.75",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "21ι Bootis",
+   "Name": "",
+   "RA": "3.7357245",
+   "DEC": 0.8965272,
+   "MAG": "4.75",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "4ψ2Lupi",
+   "Name": "",
+   "RA": "4.1132320",
+   "DEC": -0.6058135,
+   "MAG": "4.75",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ζ Coronae Australis",
+   "Name": "",
+   "RA": "4.9877801",
+   "DEC": -0.7347012,
+   "MAG": "4.75",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "34o Cephei",
+   "Name": "",
+   "RA": "6.1026528",
+   "DEC": 1.1887728,
+   "MAG": "4.75",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "17φ1Ceti",
+   "Name": "",
+   "RA": "0.1928152",
+   "DEC": -0.1851697,
+   "MAG": "4.76",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "90υ Piscium",
+   "Name": "",
+   "RA": "0.3467387",
+   "DEC": 0.4758495,
+   "MAG": "4.76",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "25χ Aurigae",
+   "Name": "",
+   "RA": "1.4518012",
+   "DEC": 0.5618554,
+   "MAG": "4.76",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "8ρ Ursae Majoris",
+   "Name": "",
+   "RA": "2.3672991",
+   "DEC": 1.1803613,
+   "MAG": "4.76",
+   "Color": "Orange"
+ },
+ {
+   "Description": "69 Virginis",
+   "Name": "",
+   "RA": "3.5231798",
+   "DEC": -0.2787921,
+   "MAG": "4.76",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "44 Bootis",
+   "Name": "",
+   "RA": "3.9435278",
+   "DEC": 0.831727,
+   "MAG": "4.76",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "38ρ Serpentis",
+   "Name": "",
+   "RA": "4.1506766",
+   "DEC": 0.3661313,
+   "MAG": "4.76",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "6υ Herculis",
+   "Name": "",
+   "RA": "4.2010002",
+   "DEC": 0.8034914,
+   "MAG": "4.76",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "16 τ Coronae Borealis",
+   "Name": "",
+   "RA": "4.2279365",
+   "DEC": 0.6368852,
+   "MAG": "4.76",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "4 Sagitarii",
+   "Name": "",
+   "RA": "4.7114872",
+   "DEC": -0.4156696,
+   "MAG": "4.76",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "8ν Capricorni",
+   "Name": "",
+   "RA": "5.3261486",
+   "DEC": -0.2226895,
+   "MAG": "4.76",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "φ1Pavonis",
+   "Name": "",
+   "RA": "5.3912348",
+   "DEC": -1.0573495,
+   "MAG": "4.76",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "56 Pegasi",
+   "Name": "",
+   "RA": "6.0524237",
+   "DEC": 0.4445063,
+   "MAG": "4.76",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "λ1Phoenicis",
+   "Name": "",
+   "RA": "0.1370811",
+   "DEC": -0.8517837,
+   "MAG": "4.77",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "20 Cetii",
+   "Name": "",
+   "RA": "0.2312925",
+   "DEC": -0.0199695,
+   "MAG": "4.77",
+   "Color": "Orange"
+ },
+ {
+   "Description": "17 Monocerotis",
+   "Name": "",
+   "RA": "1.7773124",
+   "DEC": 0.140276,
+   "MAG": "4.77",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "87 Leonis",
+   "Name": "",
+   "RA": "3.0120674",
+   "DEC": -0.0524229,
+   "MAG": "4.77",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "51 Hydrae",
+   "Name": "",
+   "RA": "3.7659696",
+   "DEC": -0.4843967,
+   "MAG": "4.77",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ξ Scorpii",
+   "Name": "",
+   "RA": "4.2078507",
+   "DEC": -0.1984973,
+   "MAG": "4.77",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "λ Arae",
+   "Name": "",
+   "RA": "4.6268388",
+   "DEC": -0.8624641,
+   "MAG": "4.77",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "45 Draconis",
+   "Name": "",
+   "RA": "4.8545242",
+   "DEC": 0.9956328,
+   "MAG": "4.77",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "1 Vulpeculae",
+   "Name": "",
+   "RA": "5.0449469",
+   "DEC": 0.3733308,
+   "MAG": "4.77",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "2 Aurigae",
+   "Name": "",
+   "RA": "1.2768538",
+   "DEC": 0.6405892,
+   "MAG": "4.78",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "56 Orionis",
+   "Name": "",
+   "RA": "1.5378096",
+   "DEC": 0.0323759,
+   "MAG": "4.78",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "55 Ursae Majoris",
+   "Name": "",
+   "RA": "2.9632709",
+   "DEC": 0.6664637,
+   "MAG": "4.78",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "36 Comae Berenices",
+   "Name": "",
+   "RA": "3.3986942",
+   "DEC": 0.3038521,
+   "MAG": "4.78",
+   "Color": "Orange"
+ },
+ {
+   "Description": "ζ Apodis",
+   "Name": "",
+   "RA": "4.5465391",
+   "DEC": -1.1828193,
+   "MAG": "4.78",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "11ρ Capricorni",
+   "Name": "",
+   "RA": "5.3619133",
+   "DEC": -0.3109062,
+   "MAG": "4.78",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "57 Cygni",
+   "Name": "",
+   "RA": "5.4683202",
+   "DEC": 0.7747032,
+   "MAG": "4.78",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "θ Octantis",
+   "Name": "",
+   "RA": "0.0069595",
+   "DEC": -1.3450525,
+   "MAG": "4.78",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "9λ Arietis",
+   "Name": "",
+   "RA": "0.5145594",
+   "DEC": 0.4118298,
+   "MAG": "4.79",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "32 Eridani",
+   "Name": "",
+   "RA": "1.0222902",
+   "DEC": -0.0515696,
+   "MAG": "4.79",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "64 Eridani",
+   "Name": "",
+   "RA": "1.3086915",
+   "DEC": -0.2188207,
+   "MAG": "4.79",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "50ψ2Aurigae",
+   "Name": "",
+   "RA": "1.7424131",
+   "DEC": 0.741571,
+   "MAG": "4.79",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "26 Hydrae",
+   "Name": "",
+   "RA": "2.4424719",
+   "DEC": -0.2090032,
+   "MAG": "4.79",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "θ Antliae",
+   "Name": "",
+   "RA": "2.5490606",
+   "DEC": -0.4846682,
+   "MAG": "4.79",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "40 Leonis",
+   "Name": "",
+   "RA": "2.7041041",
+   "DEC": 0.3398301,
+   "MAG": "4.79",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "40ψ Virginis",
+   "Name": "",
+   "RA": "3.3787538",
+   "DEC": -0.166485,
+   "MAG": "4.79",
+   "Color": "Orange"
+ },
+ {
+   "Description": "22 Scorpii",
+   "Name": "",
+   "RA": "4.3205917",
+   "DEC": -0.4383394,
+   "MAG": "4.79",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "24 Cephei",
+   "Name": "",
+   "RA": "5.8023762",
+   "DEC": 1.2625906,
+   "MAG": "4.79",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "μ 1Gruis",
+   "Name": "",
+   "RA": "5.8277198",
+   "DEC": -0.7216355,
+   "MAG": "4.79",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "35 Pegasi",
+   "Name": "",
+   "RA": "5.8811414",
+   "DEC": 0.0819529,
+   "MAG": "4.79",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "43o Pegasi",
+   "Name": "",
+   "RA": "5.9417844",
+   "DEC": 0.5115124,
+   "MAG": "4.79",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "89χ Pegasi",
+   "Name": "",
+   "RA": "0.0637191",
+   "DEC": 0.3526729,
+   "MAG": "4.8",
+   "Color": "Orange"
+ },
+ {
+   "Description": "19ξ Cassiopeiae",
+   "Name": "",
+   "RA": "0.1835432",
+   "DEC": 0.8816094,
+   "MAG": "4.8",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "13ζ Eridani",
+   "Name": "",
+   "RA": "0.8544841",
+   "DEC": -0.1539332,
+   "MAG": "4.8",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "64δ2Tauri",
+   "Name": "",
+   "RA": "1.1523391",
+   "DEC": 0.3044533,
+   "MAG": "4.8",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "49 Orionis",
+   "Name": "",
+   "RA": "1.4786648",
+   "DEC": -0.1258916,
+   "MAG": "4.8",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "13σ2Ursae Majoris",
+   "Name": "",
+   "RA": "2.4015149",
+   "DEC": 1.1717219,
+   "MAG": "4.8",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "27 Hydrae",
+   "Name": "",
+   "RA": "2.4455699",
+   "DEC": -0.1667808,
+   "MAG": "4.8",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "5 Canum Venaticorum",
+   "Name": "",
+   "RA": "3.2464215",
+   "DEC": 0.8999305,
+   "MAG": "4.8",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "41 Comae Berenices",
+   "Name": "",
+   "RA": "3.4347134",
+   "DEC": 0.4821424,
+   "MAG": "4.8",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "η Muscae",
+   "Name": "",
+   "RA": "3.4699254",
+   "DEC": -1.1849816,
+   "MAG": "4.8",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "60σ Virginis",
+   "Name": "",
+   "RA": "3.4802083",
+   "DEC": 0.0954647,
+   "MAG": "4.8",
+   "Color": "Orange"
+ },
+ {
+   "Description": "28ω Draconis",
+   "Name": "",
+   "RA": "4.6118217",
+   "DEC": 1.2000545,
+   "MAG": "4.8",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "η Sculptoris",
+   "Name": "",
+   "RA": "0.1218603",
+   "DEC": -0.5760847,
+   "MAG": "4.81",
+   "Color": "Orange"
+ },
+ {
+   "Description": "65ψ Eridani",
+   "Name": "",
+   "RA": "1.3152729",
+   "DEC": -0.125208,
+   "MAG": "4.81",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "δ Pictoris",
+   "Name": "",
+   "RA": "1.6157313",
+   "DEC": -0.9593832,
+   "MAG": "4.81",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "12 Comae Berenices",
+   "Name": "",
+   "RA": "3.2397892",
+   "DEC": 0.4510997,
+   "MAG": "4.81",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "23 Comae Berenices",
+   "Name": "",
+   "RA": "3.2936617",
+   "DEC": 0.3949535,
+   "MAG": "4.81",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "105φ Virginis",
+   "Name": "",
+   "RA": "3.7882444",
+   "DEC": -0.0388869,
+   "MAG": "4.81",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "34 Bootis",
+   "Name": "",
+   "RA": "3.8546615",
+   "DEC": 0.4629971,
+   "MAG": "4.81",
+   "Color": "Orange"
+ },
+ {
+   "Description": "41ω Bootis",
+   "Name": "",
+   "RA": "3.9361902",
+   "DEC": 0.4364729,
+   "MAG": "4.81",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "51 Ophiuchi",
+   "Name": "",
+   "RA": "4.5876707",
+   "DEC": -0.4182294,
+   "MAG": "4.81",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ι2Scorpii",
+   "Name": "",
+   "RA": "4.6695702",
+   "DEC": -0.6997122,
+   "MAG": "4.81",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "21 Sagitarii",
+   "Name": "",
+   "RA": "4.8229992",
+   "DEC": -0.3585197,
+   "MAG": "4.81",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "34 Cygni",
+   "Name": "",
+   "RA": "5.3135967",
+   "DEC": 0.663802,
+   "MAG": "4.81",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "32 Pegasi",
+   "Name": "",
+   "RA": "5.8526199",
+   "DEC": 0.4944615,
+   "MAG": "4.81",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ν Tucanae",
+   "Name": "",
+   "RA": "5.9035835",
+   "DEC": -1.0817939,
+   "MAG": "4.81",
+   "Color": "Orange"
+ },
+ {
+   "Description": "58 Andromedae",
+   "Name": "",
+   "RA": "0.5606361",
+   "DEC": 0.6607671,
+   "MAG": "4.82",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "15 Orionis",
+   "Name": "",
+   "RA": "1.3513212",
+   "DEC": 0.2722229,
+   "MAG": "4.82",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "139 Tauri",
+   "Name": "",
+   "RA": "1.5620479",
+   "DEC": 0.4529808,
+   "MAG": "4.82",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "25 Canum Venaticorum",
+   "Name": "",
+   "RA": "3.5668421",
+   "DEC": 0.6334673,
+   "MAG": "4.82",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "4 Ursae Minoris",
+   "Name": "",
+   "RA": "3.7037996",
+   "DEC": 1.3534592,
+   "MAG": "4.82",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "π Lupi",
+   "Name": "",
+   "RA": "3.9493310",
+   "DEC": -0.8211968,
+   "MAG": "4.82",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "11κ Coronae Borealis",
+   "Name": "",
+   "RA": "4.1505311",
+   "DEC": 0.6223408,
+   "MAG": "4.82",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "50σ Serpentis",
+   "Name": "",
+   "RA": "4.2851033",
+   "DEC": 0.0179623,
+   "MAG": "4.82",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "52 Herculis",
+   "Name": "",
+   "RA": "4.4036257",
+   "DEC": 0.8025606,
+   "MAG": "4.82",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "30 Ophiuchi",
+   "Name": "",
+   "RA": "4.4552147",
+   "DEC": -0.0736965,
+   "MAG": "4.82",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "68 Herculis",
+   "Name": "",
+   "RA": "4.5261842",
+   "DEC": 0.577704,
+   "MAG": "4.82",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "42 Draconis",
+   "Name": "",
+   "RA": "4.8257699",
+   "DEC": 1.1443009,
+   "MAG": "4.82",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "52υ Draconis",
+   "Name": "",
+   "RA": "4.9497465",
+   "DEC": 1.2443713,
+   "MAG": "4.82",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "29 Vulpeculae",
+   "Name": "",
+   "RA": "5.4040702",
+   "DEC": 0.3700292,
+   "MAG": "4.82",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "θ1Microscopii",
+   "Name": "",
+   "RA": "5.5883697",
+   "DEC": -0.712264,
+   "MAG": "4.82",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "57σ Aquarii",
+   "Name": "",
+   "RA": "5.8933078",
+   "DEC": -0.1863672,
+   "MAG": "4.82",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "104 Aquarii",
+   "Name": "",
+   "RA": "6.2036128",
+   "DEC": -0.3109546,
+   "MAG": "4.82",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "26υ1Cassiopeiae",
+   "Name": "",
+   "RA": "0.2399900",
+   "DEC": 1.0292691,
+   "MAG": "4.83",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "48ω Andromedae",
+   "Name": "",
+   "RA": "0.3824744",
+   "DEC": 0.7924958,
+   "MAG": "4.83",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "5γ1Arietis",
+   "Name": "",
+   "RA": "0.4953681",
+   "DEC": 0.3367758,
+   "MAG": "4.83",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "60 Andromedae",
+   "Name": "",
+   "RA": "0.5812892",
+   "DEC": 0.7719882,
+   "MAG": "4.83",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "96κ1Ceti",
+   "Name": "",
+   "RA": "0.8698794",
+   "DEC": 0.0588224,
+   "MAG": "4.83",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "o Columbae",
+   "Name": "",
+   "RA": "1.3852896",
+   "DEC": -0.6090375,
+   "MAG": "4.83",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "θ Doradus",
+   "Name": "",
+   "RA": "1.3690217",
+   "DEC": -1.1726043,
+   "MAG": "4.83",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "15 Canis Majoris",
+   "Name": "",
+   "RA": "1.8044450",
+   "DEC": -0.3529783,
+   "MAG": "4.83",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "18 Ursae Majoris",
+   "Name": "",
+   "RA": "2.4268294",
+   "DEC": 0.9428608,
+   "MAG": "4.83",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "14ε Crateris",
+   "Name": "",
+   "RA": "2.9871746",
+   "DEC": -0.1895331,
+   "MAG": "4.83",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "12 Bootis",
+   "Name": "",
+   "RA": "3.7105627",
+   "DEC": 0.4379322,
+   "MAG": "4.83",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "30ζ Bootis",
+   "Name": "",
+   "RA": "3.8447349",
+   "DEC": 0.2396046,
+   "MAG": "4.83",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "44π Serpentis",
+   "Name": "",
+   "RA": "4.1988040",
+   "DEC": 0.3980126,
+   "MAG": "4.83",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "18 Draconis",
+   "Name": "",
+   "RA": "4.3673301",
+   "DEC": 1.1272936,
+   "MAG": "4.83",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "32ν 1Sagitarii",
+   "Name": "",
+   "RA": "4.9487502",
+   "DEC": -0.3969751,
+   "MAG": "4.83",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "η Scuti",
+   "Name": "",
+   "RA": "4.9613675",
+   "DEC": -0.1020339,
+   "MAG": "4.83",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "60 Sagitarii",
+   "Name": "",
+   "RA": "5.2314208",
+   "DEC": -0.4571987,
+   "MAG": "4.83",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "30 Cygni",
+   "Name": "",
+   "RA": "5.2940200",
+   "DEC": 0.8170904,
+   "MAG": "4.83",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "98μ Piscium",
+   "Name": "",
+   "RA": "0.3935063",
+   "DEC": 0.1072311,
+   "MAG": "4.84",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "57γ2Andromedae",
+   "Name": "",
+   "RA": "0.5406666",
+   "DEC": 0.7388124,
+   "MAG": "4.84",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "83ε Cetii",
+   "Name": "",
+   "RA": "0.6962264",
+   "DEC": -0.2072094,
+   "MAG": "4.84",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ζ Hydri",
+   "Name": "",
+   "RA": "0.7223191",
+   "DEC": -1.1801335,
+   "MAG": "4.84",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "47 Tauri",
+   "Name": "",
+   "RA": "1.1080223",
+   "DEC": 0.1616805,
+   "MAG": "4.84",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "27 Lyncis",
+   "Name": "",
+   "RA": "2.1312943",
+   "DEC": 0.8989609,
+   "MAG": "4.84",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "36 Ursae Majoris",
+   "Name": "",
+   "RA": "2.7516279",
+   "DEC": 0.977045,
+   "MAG": "4.84",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "58 Leonis",
+   "Name": "",
+   "RA": "2.8822367",
+   "DEC": 0.0631373,
+   "MAG": "4.84",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "29 Herculis",
+   "Name": "",
+   "RA": "4.3310564",
+   "DEC": 0.2005044,
+   "MAG": "4.84",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "55 Cygni",
+   "Name": "",
+   "RA": "5.4495215",
+   "DEC": 0.804844,
+   "MAG": "4.84",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "22η Capricorni",
+   "Name": "",
+   "RA": "5.5170076",
+   "DEC": -0.3465351,
+   "MAG": "4.84",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "22ν Pegasi",
+   "Name": "",
+   "RA": "5.7843702",
+   "DEC": 0.0882894,
+   "MAG": "4.84",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "56 Cetii",
+   "Name": "",
+   "RA": "0.5090689",
+   "DEC": -0.3931694,
+   "MAG": "4.85",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "53 Persei",
+   "Name": "",
+   "RA": "1.1412417",
+   "DEC": 0.8115587,
+   "MAG": "4.85",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "2ξ Virginis",
+   "Name": "",
+   "RA": "3.0773864",
+   "DEC": 0.1441351,
+   "MAG": "4.85",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ξ 1Centauri",
+   "Name": "",
+   "RA": "3.4188964",
+   "DEC": -0.8644131,
+   "MAG": "4.85",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "19ξ Coronae Borealis",
+   "Name": "",
+   "RA": "4.2852051",
+   "DEC": 0.5391661,
+   "MAG": "4.85",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "42ψ Sagitarii",
+   "Name": "",
+   "RA": "5.0419944",
+   "DEC": -0.440812,
+   "MAG": "4.85",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ρ Gruis",
+   "Name": "",
+   "RA": "5.9493911",
+   "DEC": -0.7228184,
+   "MAG": "4.85",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "η Gruis",
+   "Name": "",
+   "RA": "5.9586922",
+   "DEC": -0.933756,
+   "MAG": "4.85",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "1 Cassiopeiae",
+   "Name": "",
+   "RA": "6.0502493",
+   "DEC": 1.0370698,
+   "MAG": "4.85",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "8 Andromedae",
+   "Name": "",
+   "RA": "6.0988131",
+   "DEC": 0.855478,
+   "MAG": "4.85",
+   "Color": "Orange"
+ },
+ {
+   "Description": "κ Tucanae",
+   "Name": "",
+   "RA": "0.3306017",
+   "DEC": -1.2021149,
+   "MAG": "4.86",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "78ν Cetii",
+   "Name": "",
+   "RA": "0.6801330",
+   "DEC": 0.0976221,
+   "MAG": "4.86",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "11μ Aurigae",
+   "Name": "",
+   "RA": "1.3675891",
+   "DEC": 0.6716803,
+   "MAG": "4.86",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "126 Tauri",
+   "Name": "",
+   "RA": "1.4891804",
+   "DEC": 0.2885708,
+   "MAG": "4.86",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "132 Tauri",
+   "Name": "",
+   "RA": "1.5228725",
+   "DEC": 0.4287838,
+   "MAG": "4.86",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "20 Bootis",
+   "Name": "",
+   "RA": "3.7513816",
+   "DEC": 0.2846099,
+   "MAG": "4.86",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "31 Bootis",
+   "Name": "",
+   "RA": "3.8469093",
+   "DEC": 0.142448,
+   "MAG": "4.86",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ε Circini",
+   "Name": "",
+   "RA": "4.0039962",
+   "DEC": -1.1102136,
+   "MAG": "4.86",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "74 Ophiuchi",
+   "Name": "",
+   "RA": "4.8034443",
+   "DEC": 0.0589436,
+   "MAG": "4.86",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "56 Sagitarii",
+   "Name": "",
+   "RA": "5.1764793",
+   "DEC": -0.3448965,
+   "MAG": "4.86",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "27 Piscium",
+   "Name": "",
+   "RA": "6.2773966",
+   "DEC": -0.0620658,
+   "MAG": "4.86",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "8δ Trianguli",
+   "Name": "",
+   "RA": "0.5980080",
+   "DEC": 0.5973244,
+   "MAG": "4.87",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "39 Eridani",
+   "Name": "",
+   "RA": "1.1100076",
+   "DEC": -0.1790078,
+   "MAG": "4.87",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "λ Columbae",
+   "Name": "",
+   "RA": "1.5407548",
+   "DEC": -0.5899455,
+   "MAG": "4.87",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "12 Lyncis",
+   "Name": "",
+   "RA": "1.7725346",
+   "DEC": 1.0374528,
+   "MAG": "4.87",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "53ξ Ursae Majoris",
+   "Name": "",
+   "RA": "2.9591258",
+   "DEC": 0.5502878,
+   "MAG": "4.87",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "25ν 2Draconis",
+   "Name": "",
+   "RA": "4.5913795",
+   "DEC": 0.9629515,
+   "MAG": "4.87",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "58 Ophiuchi",
+   "Name": "",
+   "RA": "4.6400887",
+   "DEC": -0.3784456,
+   "MAG": "4.87",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "λ Telescopii",
+   "Name": "",
+   "RA": "4.9674761",
+   "DEC": -0.9239531,
+   "MAG": "4.87",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ε Coronae Australis",
+   "Name": "",
+   "RA": "4.9686179",
+   "DEC": -0.6476481,
+   "MAG": "4.87",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "5 τ Cassiopeiae",
+   "Name": "",
+   "RA": "6.2267166",
+   "DEC": 1.0236695,
+   "MAG": "4.87",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "46ξ Andromedae",
+   "Name": "",
+   "RA": "0.3592760",
+   "DEC": 0.794629,
+   "MAG": "4.88",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "15 Eridani",
+   "Name": "",
+   "RA": "0.8655451",
+   "DEC": -0.3928979,
+   "MAG": "4.88",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "114 Tauri",
+   "Name": "",
+   "RA": "1.4295774",
+   "DEC": 0.3828719,
+   "MAG": "4.88",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "81 Geminorum",
+   "Name": "",
+   "RA": "2.0338467",
+   "DEC": 0.3230604,
+   "MAG": "4.88",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "9 Hydrae",
+   "Name": "",
+   "RA": "2.2764402",
+   "DEC": -0.2782637,
+   "MAG": "4.88",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "30ρ Virginis",
+   "Name": "",
+   "RA": "3.3243504",
+   "DEC": 0.1786441,
+   "MAG": "4.88",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "48 Librae",
+   "Name": "",
+   "RA": "4.1808926",
+   "DEC": -0.2492233,
+   "MAG": "4.88",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "24ν 1Draconis",
+   "Name": "",
+   "RA": "4.5909868",
+   "DEC": 0.9631454,
+   "MAG": "4.88",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ρ Pavonis",
+   "Name": "",
+   "RA": "5.3999978",
+   "DEC": -1.0739011,
+   "MAG": "4.88",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "10 Lacertae",
+   "Name": "",
+   "RA": "5.9308979",
+   "DEC": 0.6815559,
+   "MAG": "4.88",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "8σ Cassiopeiae",
+   "Name": "",
+   "RA": "6.2788583",
+   "DEC": 0.9731083,
+   "MAG": "4.88",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "6 Cetii",
+   "Name": "",
+   "RA": "0.0491528",
+   "DEC": -0.2699685,
+   "MAG": "4.89",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "25ν Cassiopeiae",
+   "Name": "",
+   "RA": "0.2130829",
+   "DEC": 0.8895652,
+   "MAG": "4.89",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "72ρ Cetii",
+   "Name": "",
+   "RA": "0.6368270",
+   "DEC": -0.2145107,
+   "MAG": "4.89",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "58ζ Arietis",
+   "Name": "",
+   "RA": "0.8504190",
+   "DEC": 0.3672948,
+   "MAG": "4.89",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ζ Pyxidis",
+   "Name": "",
+   "RA": "2.2676554",
+   "DEC": -0.5159387,
+   "MAG": "4.89",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "δ Pyxidis",
+   "Name": "",
+   "RA": "2.3366686",
+   "DEC": -0.4831411,
+   "MAG": "4.89",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "19 Draconis",
+   "Name": "",
+   "RA": "4.4332599",
+   "DEC": 1.1368154,
+   "MAG": "4.89",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "15 Cygni",
+   "Name": "",
+   "RA": "5.1673818",
+   "DEC": 0.651958,
+   "MAG": "4.89",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "70 Aquilae",
+   "Name": "",
+   "RA": "5.3962381",
+   "DEC": -0.0445059,
+   "MAG": "4.89",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ζ Indi",
+   "Name": "",
+   "RA": "5.4518995",
+   "DEC": -0.8068124,
+   "MAG": "4.89",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "46 Cetii",
+   "Name": "",
+   "RA": "0.3735877",
+   "DEC": -0.2547987,
+   "MAG": "4.9",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ω Fornacis",
+   "Name": "",
+   "RA": "0.6712754",
+   "DEC": -0.4927501,
+   "MAG": "4.9",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "16 Lyncis",
+   "Name": "",
+   "RA": "1.8222037",
+   "DEC": 0.7870417,
+   "MAG": "4.9",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "63 Aurigae",
+   "Name": "",
+   "RA": "1.8834502",
+   "DEC": 0.6862732,
+   "MAG": "4.9",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "71o Geminorum",
+   "Name": "",
+   "RA": "2.0034853",
+   "DEC": 0.6036076,
+   "MAG": "4.9",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "35 Comae Berenices",
+   "Name": "",
+   "RA": "3.3741432",
+   "DEC": 0.3707952,
+   "MAG": "4.9",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "37 Comae Berenices",
+   "Name": "",
+   "RA": "3.4045920",
+   "DEC": 0.5372996,
+   "MAG": "4.9",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "42 Herculis",
+   "Name": "",
+   "RA": "4.3578617",
+   "DEC": 0.8539605,
+   "MAG": "4.9",
+   "Color": "Orange"
+ },
+ {
+   "Description": "ε Scuti",
+   "Name": "",
+   "RA": "4.9022881",
+   "DEC": -0.1444308,
+   "MAG": "4.9",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ι Telescopii",
+   "Name": "",
+   "RA": "5.1278501",
+   "DEC": -0.8394888,
+   "MAG": "4.9",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "α Microscopii",
+   "Name": "",
+   "RA": "5.4540157",
+   "DEC": -0.5895674,
+   "MAG": "4.9",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "72 Cygni",
+   "Name": "",
+   "RA": "5.6495290",
+   "DEC": 0.6725481,
+   "MAG": "4.9",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "50ρ Pegasi",
+   "Name": "",
+   "RA": "6.0005656",
+   "DEC": 0.1538653,
+   "MAG": "4.9",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "12 Persei",
+   "Name": "",
+   "RA": "0.7079419",
+   "DEC": 0.7015157,
+   "MAG": "4.91",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "45 Eridani",
+   "Name": "",
+   "RA": "1.1862930",
+   "DEC": -0.000766,
+   "MAG": "4.91",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "51 Orionis",
+   "Name": "",
+   "RA": "1.4943364",
+   "DEC": 0.0257388,
+   "MAG": "4.91",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "134 Tauri",
+   "Name": "",
+   "RA": "1.5251923",
+   "DEC": 0.2208035,
+   "MAG": "4.91",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "46ψ1Aurigae",
+   "Name": "",
+   "RA": "1.6794358",
+   "DEC": 0.8602389,
+   "MAG": "4.91",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "φ3Hydrae",
+   "Name": "",
+   "RA": "2.7863454",
+   "DEC": -0.2945534,
+   "MAG": "4.91",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ε Chamaeleontis",
+   "Name": "",
+   "RA": "3.1399419",
+   "DEC": -1.3652305,
+   "MAG": "4.91",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "6 Bootis",
+   "Name": "",
+   "RA": "3.6203074",
+   "DEC": 0.3711297,
+   "MAG": "4.91",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "η Apodis",
+   "Name": "",
+   "RA": "3.7447348",
+   "DEC": -1.4138524,
+   "MAG": "4.91",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "1 Lupi",
+   "Name": "",
+   "RA": "3.9907899",
+   "DEC": -0.5501132,
+   "MAG": "4.91",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "ζ Trianguli Australis",
+   "Name": "",
+   "RA": "4.3130067",
+   "DEC": -1.2232043,
+   "MAG": "4.91",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "60 Herculis",
+   "Name": "",
+   "RA": "4.4740570",
+   "DEC": 0.2223695,
+   "MAG": "4.91",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "69 Aquilae",
+   "Name": "",
+   "RA": "5.3653603",
+   "DEC": -0.0503624,
+   "MAG": "4.91",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "30 Vulpeculae",
+   "Name": "",
+   "RA": "5.4317919",
+   "DEC": 0.4410544,
+   "MAG": "4.91",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "20 Monocerotis",
+   "Name": "",
+   "RA": "1.8772252",
+   "DEC": -0.0739535,
+   "MAG": "4.92",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "19δ Librae",
+   "Name": "",
+   "RA": "3.9312378",
+   "DEC": -0.1486827,
+   "MAG": "4.92",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "8β2Scorpii",
+   "Name": "",
+   "RA": "4.2125340",
+   "DEC": -0.3456091,
+   "MAG": "4.92",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "24ψ Cygni",
+   "Name": "",
+   "RA": "5.2169200",
+   "DEC": 0.9152313,
+   "MAG": "4.92",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "15 τ Piscis Austrini",
+   "Name": "",
+   "RA": "5.8038597",
+   "DEC": -0.5680756,
+   "MAG": "4.92",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "24 Persei",
+   "Name": "",
+   "RA": "0.7813039",
+   "DEC": 0.6140602,
+   "MAG": "4.93",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "δ Horologii",
+   "Name": "",
+   "RA": "1.0945105",
+   "DEC": -0.7329268,
+   "MAG": "4.93",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "54 Persei",
+   "Name": "",
+   "RA": "1.1362530",
+   "DEC": 0.6033021,
+   "MAG": "4.93",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "17 Leporis",
+   "Name": "",
+   "RA": "1.5925475",
+   "DEC": -0.2877078,
+   "MAG": "4.93",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "27 Monocerotis",
+   "Name": "",
+   "RA": "2.0932388",
+   "DEC": -0.0642233,
+   "MAG": "4.93",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "78 Ursae Majoris",
+   "Name": "",
+   "RA": "3.4065773",
+   "DEC": 0.9837791,
+   "MAG": "4.93",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "45 Bootis",
+   "Name": "",
+   "RA": "3.9588503",
+   "DEC": 0.4340488,
+   "MAG": "4.93",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "15λ Lyrae",
+   "Name": "",
+   "RA": "4.9742538",
+   "DEC": 0.5610458,
+   "MAG": "4.93",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ Coronae Australis",
+   "Name": "",
+   "RA": "5.0021936",
+   "DEC": -0.6468772,
+   "MAG": "4.93",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "28 Cygni",
+   "Name": "",
+   "RA": "5.2771193",
+   "DEC": 0.6429744,
+   "MAG": "4.93",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "78 Pegasi",
+   "Name": "",
+   "RA": "6.2133358",
+   "DEC": 0.5124578,
+   "MAG": "4.93",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "20π Cassiopeiae",
+   "Name": "",
+   "RA": "0.1896664",
+   "DEC": 0.8207362,
+   "MAG": "4.94",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "53 τ Andromedae",
+   "Name": "",
+   "RA": "0.4388630",
+   "DEC": 0.7082013,
+   "MAG": "4.94",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "6 Trianguli",
+   "Name": "",
+   "RA": "0.5775804",
+   "DEC": 0.5288881,
+   "MAG": "4.94",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "50ω2Tauri",
+   "Name": "",
+   "RA": "1.1225085",
+   "DEC": 0.3591645,
+   "MAG": "4.94",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "4ω Aurigae",
+   "Name": "",
+   "RA": "1.3057535",
+   "DEC": 0.6613101,
+   "MAG": "4.94",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "109 Tauri",
+   "Name": "",
+   "RA": "1.3931073",
+   "DEC": 0.3856547,
+   "MAG": "4.94",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "χ Geminorum",
+   "Name": "",
+   "RA": "2.1097467",
+   "DEC": 0.4850997,
+   "MAG": "4.94",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "χ1Hydrae",
+   "Name": "",
+   "RA": "2.9030570",
+   "DEC": -0.4763634,
+   "MAG": "4.94",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "6 Draconis",
+   "Name": "",
+   "RA": "3.2931454",
+   "DEC": 1.2221135,
+   "MAG": "4.94",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "31 Comae Berenices",
+   "Name": "",
+   "RA": "3.3671692",
+   "DEC": 0.4806734,
+   "MAG": "4.94",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "78 Virginis",
+   "Name": "",
+   "RA": "3.5523195",
+   "DEC": 0.0638597,
+   "MAG": "4.94",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "29π 1Bootis",
+   "Name": "",
+   "RA": "3.8428950",
+   "DEC": 0.286554,
+   "MAG": "4.94",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "54 Hydrae",
+   "Name": "",
+   "RA": "3.8659116",
+   "DEC": -0.4440651,
+   "MAG": "4.94",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "11 Librae",
+   "Name": "",
+   "RA": "3.8877936",
+   "DEC": -0.040128,
+   "MAG": "4.94",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "31ε Librae",
+   "Name": "",
+   "RA": "4.0325760",
+   "DEC": -0.1801568,
+   "MAG": "4.94",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "κ Normae",
+   "Name": "",
+   "RA": "4.2476005",
+   "DEC": -0.9534831,
+   "MAG": "4.94",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "15ψ Scorpii",
+   "Name": "",
+   "RA": "4.2411501",
+   "DEC": -0.1756528,
+   "MAG": "4.94",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "μ Normae",
+   "Name": "",
+   "RA": "4.3375068",
+   "DEC": -0.7687351,
+   "MAG": "4.94",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "22 Cygni",
+   "Name": "",
+   "RA": "5.2179309",
+   "DEC": 0.6717191,
+   "MAG": "4.94",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ξ Telescopii",
+   "Name": "",
+   "RA": "5.2682182",
+   "DEC": -0.9229447,
+   "MAG": "4.94",
+   "Color": "Orange"
+ },
+ {
+   "Description": "15 Lacertae",
+   "Name": "",
+   "RA": "5.9866248",
+   "DEC": 0.7559457,
+   "MAG": "4.94",
+   "Color": "Orange"
+ },
+ {
+   "Description": "8κ Piscium",
+   "Name": "",
+   "RA": "6.1389048",
+   "DEC": 0.0219136,
+   "MAG": "4.94",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "3 Cetii",
+   "Name": "",
+   "RA": "0.0196422",
+   "DEC": -0.1834244,
+   "MAG": "4.94",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "32 Persei",
+   "Name": "",
+   "RA": "0.8789551",
+   "DEC": 0.7562415,
+   "MAG": "4.95",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "52φ Tauri",
+   "Name": "",
+   "RA": "1.1360130",
+   "DEC": 0.4773621,
+   "MAG": "4.95",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "25ψ1Orionis",
+   "Name": "",
+   "RA": "1.4169746",
+   "DEC": 0.0322256,
+   "MAG": "4.95",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "3 Monocerotis",
+   "Name": "",
+   "RA": "1.5788248",
+   "DEC": -0.184971,
+   "MAG": "4.95",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "69 Orionis",
+   "Name": "",
+   "RA": "1.6233962",
+   "DEC": 0.2815313,
+   "MAG": "4.95",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "84 τ Leonis",
+   "Name": "",
+   "RA": "3.0016900",
+   "DEC": 0.0498485,
+   "MAG": "4.95",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "7 Comae Berenices",
+   "Name": "",
+   "RA": "3.2128966",
+   "DEC": 0.4179239,
+   "MAG": "4.95",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "14 Comae Berenices",
+   "Name": "",
+   "RA": "3.2567917",
+   "DEC": 0.4759222,
+   "MAG": "4.95",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "4 Draconis",
+   "Name": "",
+   "RA": "3.2729796",
+   "DEC": 1.2077872,
+   "MAG": "4.95",
+   "Color": "Orange"
+ },
+ {
+   "Description": "45ψ Hydrae",
+   "Name": "",
+   "RA": "3.4429019",
+   "DEC": -0.4034862,
+   "MAG": "4.95",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "21η Ursae Minoris",
+   "Name": "",
+   "RA": "4.2651702",
+   "DEC": 1.322179,
+   "MAG": "4.95",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "106 Herculis",
+   "Name": "",
+   "RA": "4.8009572",
+   "DEC": 0.3832985,
+   "MAG": "4.95",
+   "Color": "Orange"
+ },
+ {
+   "Description": "39κ Aquilae",
+   "Name": "",
+   "RA": "5.1351586",
+   "DEC": -0.122653,
+   "MAG": "4.95",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "12 Vulpeculae",
+   "Name": "",
+   "RA": "5.1970160",
+   "DEC": 0.3946189,
+   "MAG": "4.95",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "67ρ Aquilae",
+   "Name": "",
+   "RA": "5.2982815",
+   "DEC": 0.2652464,
+   "MAG": "4.95",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "45ω1Cygni",
+   "Name": "",
+   "RA": "5.3671420",
+   "DEC": 0.8543678,
+   "MAG": "4.95",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "20ψ Andromedae",
+   "Name": "",
+   "RA": "6.2222515",
+   "DEC": 0.8101867,
+   "MAG": "4.95",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ν Phoenicis",
+   "Name": "",
+   "RA": "0.3280564",
+   "DEC": -0.7946726,
+   "MAG": "4.96",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "16 Virginis",
+   "Name": "",
+   "RA": "3.2303863",
+   "DEC": 0.057814,
+   "MAG": "4.96",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "42 Librae",
+   "Name": "",
+   "RA": "4.1027527",
+   "DEC": -0.4157035,
+   "MAG": "4.96",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "15θ Ursae Minoris",
+   "Name": "",
+   "RA": "4.0640646",
+   "DEC": 1.3500025,
+   "MAG": "4.96",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "95 Herculis",
+   "Name": "",
+   "RA": "4.7189631",
+   "DEC": 0.3769135,
+   "MAG": "4.96",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "δ1Telescopii",
+   "Name": "",
+   "RA": "4.8509536",
+   "DEC": -0.8013679,
+   "MAG": "4.96",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "43 Sagitarii",
+   "Name": "",
+   "RA": "5.0511356",
+   "DEC": -0.3307932,
+   "MAG": "4.96",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "40 Persei",
+   "Name": "",
+   "RA": "0.9702940",
+   "DEC": 0.5928011,
+   "MAG": "4.97",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "ι Reticuli",
+   "Name": "",
+   "RA": "1.0528844",
+   "DEC": -1.0660277,
+   "MAG": "4.97",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "75 Tauri",
+   "Name": "",
+   "RA": "1.1712905",
+   "DEC": 0.285531,
+   "MAG": "4.97",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "ξ Columbae",
+   "Name": "",
+   "RA": "1.5511541",
+   "DEC": -0.6478808,
+   "MAG": "4.97",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "83φ Geminorum",
+   "Name": "",
+   "RA": "2.0660190",
+   "DEC": 0.4671519,
+   "MAG": "4.97",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "18ω Hydrae",
+   "Name": "",
+   "RA": "2.3822581",
+   "DEC": 0.088876,
+   "MAG": "4.97",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "5ξ Leonis",
+   "Name": "",
+   "RA": "2.4955808",
+   "DEC": 0.1972174,
+   "MAG": "4.97",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "89 Virginis",
+   "Name": "",
+   "RA": "3.6209982",
+   "DEC": -0.3165009,
+   "MAG": "4.97",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "52 Hydrae",
+   "Name": "",
+   "RA": "3.7881208",
+   "DEC": -0.5147267,
+   "MAG": "4.97",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "104 Herculis",
+   "Name": "",
+   "RA": "4.7643271",
+   "DEC": 0.5481255,
+   "MAG": "4.97",
+   "Color": "Orange"
+ },
+ {
+   "Description": "2 Cygni",
+   "Name": "",
+   "RA": "5.0794608",
+   "DEC": 0.5169908,
+   "MAG": "4.97",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "29 Cygni",
+   "Name": "",
+   "RA": "5.2994014",
+   "DEC": 0.6423927,
+   "MAG": "4.97",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "34φ Cassiopeiae",
+   "Name": "",
+   "RA": "0.3494222",
+   "DEC": 1.0163343,
+   "MAG": "4.98",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "52χ Andromedae",
+   "Name": "",
+   "RA": "0.4334962",
+   "DEC": 0.7746838,
+   "MAG": "4.98",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "14 Arietis",
+   "Name": "",
+   "RA": "0.5647086",
+   "DEC": 0.4527336,
+   "MAG": "4.98",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "1 Lyncis",
+   "Name": "",
+   "RA": "1.6489580",
+   "DEC": 1.0736441,
+   "MAG": "4.98",
+   "Color": "Orange"
+ },
+ {
+   "Description": "29 Canis Majoris",
+   "Name": "",
+   "RA": "1.9140662",
+   "DEC": -0.4286335,
+   "MAG": "4.98",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "6 Hydrae",
+   "Name": "",
+   "RA": "2.2690371",
+   "DEC": -0.2177347,
+   "MAG": "4.98",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "70 Virginis",
+   "Name": "",
+   "RA": "3.5274413",
+   "DEC": 0.240487,
+   "MAG": "4.98",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "11 Sagitarii",
+   "Name": "",
+   "RA": "4.7635417",
+   "DEC": -0.4136624,
+   "MAG": "4.98",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "39 Draconis",
+   "Name": "",
+   "RA": "4.8167088",
+   "DEC": 1.0262633,
+   "MAG": "4.98",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "63θ2Serpentis",
+   "Name": "",
+   "RA": "4.9577968",
+   "DEC": 0.0733378,
+   "MAG": "4.98",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "95ψ3Aquarii",
+   "Name": "",
+   "RA": "6.1041218",
+   "DEC": -0.1677407,
+   "MAG": "4.98",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "4 Cassiopeiae",
+   "Name": "",
+   "RA": "6.1297636",
+   "DEC": 1.0870395,
+   "MAG": "4.98",
+   "Color": "Orange"
+ },
+ {
+   "Description": "72 Pegasi",
+   "Name": "",
+   "RA": "6.1695353",
+   "DEC": 0.5467292,
+   "MAG": "4.98",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "46ω Cassiopeiae",
+   "Name": "",
+   "RA": "0.5061455",
+   "DEC": 1.1987842,
+   "MAG": "4.99",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "β Horologii",
+   "Name": "",
+   "RA": "0.7801476",
+   "DEC": -1.1182567,
+   "MAG": "4.99",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "21σ Aurigae",
+   "Name": "",
+   "RA": "1.4165674",
+   "DEC": 0.652501,
+   "MAG": "4.99",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "111 Tauri",
+   "Name": "",
+   "RA": "1.4155638",
+   "DEC": 0.3033964,
+   "MAG": "4.99",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "30ξ Aurigae",
+   "Name": "",
+   "RA": "1.5483107",
+   "DEC": 0.9722696,
+   "MAG": "4.99",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "19 Monocerotis",
+   "Name": "",
+   "RA": "1.8453075",
+   "DEC": -0.0739874,
+   "MAG": "4.99",
+   "Color": "Bleu"
+ },
+ {
+   "Description": "2ε Canis Minoris",
+   "Name": "",
+   "RA": "1.9445077",
+   "DEC": 0.1618987,
+   "MAG": "4.99",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "24 Lyncis",
+   "Name": "",
+   "RA": "2.0202477",
+   "DEC": 1.0246877,
+   "MAG": "4.99",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "20 Puppis",
+   "Name": "",
+   "RA": "2.1525727",
+   "DEC": -0.2755584,
+   "MAG": "4.99",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "59 Leonis",
+   "Name": "",
+   "RA": "2.8830512",
+   "DEC": 0.1064893,
+   "MAG": "4.99",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "56 Ursae Majoris",
+   "Name": "",
+   "RA": "2.9793934",
+   "DEC": 0.7589176,
+   "MAG": "4.99",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "14ι Coronae Borealis",
+   "Name": "",
+   "RA": "4.1950879",
+   "DEC": 0.5210002,
+   "MAG": "4.99",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "γ1Normae",
+   "Name": "",
+   "RA": "4.2630321",
+   "DEC": -0.8738573,
+   "MAG": "4.99",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "35ν 2Sagitarii",
+   "Name": "",
+   "RA": "4.9528881",
+   "DEC": -0.3956904,
+   "MAG": "4.99",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "γ Coronae Australis",
+   "Name": "",
+   "RA": "5.0021936",
+   "DEC": -0.6468772,
+   "MAG": "4.99",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "54 Draconis",
+   "Name": "",
+   "RA": "5.0349258",
+   "DEC": 1.0071422,
+   "MAG": "4.99",
+   "Color": "Jaune"
+ },
+ {
+   "Description": "17 Cygni",
+   "Name": "",
+   "RA": "5.1767629",
+   "DEC": 0.5886608,
+   "MAG": "4.99",
+   "Color": "Blanc"
+ },
+ {
+   "Description": "υ Piscis Austrini",
+   "Name": "",
+   "RA": "5.7963839",
+   "DEC": -0.594178,
+   "MAG": "4.99",
+   "Color": "Orange"
+ }
+]
